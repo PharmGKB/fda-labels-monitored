@@ -1,6 +1,7 @@
 Annotation of FDA Label for afatinib and EGFR	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA201292
 Annotation of FDA Label for afutuzumab and MS4A1	https://api.fda.gov/drug/label.json?search=openfda.application_number:BLA125486
 Annotation of FDA Label for alirocumab and LDLR	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA125559
+Annotation of FDA Label for amifampridine phosphate and NAT2	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA208078
 Annotation of FDA Label for amitriptyline and CYP2D6	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA012703
 Annotation of FDA Label for amphetamine and CYP2D6	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA204325
 Annotation of FDA Label for atezolizumab and ALK,CD274,EGFR	https://api.fda.gov/drug/label.json?search=openfda.application_number:BLA761034
@@ -38,6 +39,7 @@ Annotation of FDA Label for flutamide and G6PD	https://api.fda.gov/drug/label.js
 Annotation of FDA Label for ibrutinib	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA205552
 Annotation of FDA Label for imipramine and CYP2D6	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA017090
 Annotation of FDA Label for ivacaftor / lumacaftor and CFTR	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA206038
+Annotation of FDA Label for ledipasvir / sofosbuvir and IFNL3	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA205834
 Annotation of FDA Label for lenalidomide	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA021880
 Annotation of FDA Label for lofexidine and CYP2D6	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA209229
 Annotation of FDA Label for maraviroc and CCR5	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA208984
@@ -53,15 +55,18 @@ Annotation of FDA Label for olaparib and BRCA1,BRCA2,ERBB2	https://api.fda.gov/d
 Annotation of FDA Label for olaparib and ESR1,ESR2,PGR	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA208558
 Annotation of FDA Label for olaratumab and PDGFRA	https://api.fda.gov/drug/label.json?search=openfda.application_number:BLA761038
 Annotation of FDA Label for ombitasvir / paritaprevir / ritonavir and IFNL3	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA207931
+Annotation of FDA Label for panitumumab and EGFR,KRAS,NRAS	https://api.fda.gov/drug/label.json?search=openfda.application_number:BLA125147
 Annotation of FDA Label for perphenazine and CYP2D6	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA010775
 Annotation of FDA Label for phenytoin and CYP2C19,CYP2C9,HLA-B	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA010151
 Annotation of FDA Label for pimozide and CYP2D6	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA017473
+Annotation of FDA Label for pitolisant and CYP2D6	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA211150
 Annotation of FDA Label for prasugrel and CYP2B6,CYP2C19,CYP2C9,CYP3A5	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA022307
 Annotation of FDA Label for protriptyline and CYP2D6	https://api.fda.gov/drug/label.json?search=openfda.application_number:ANDA073644
 Annotation of FDA Label for rabeprazole and CYP2C19	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA020973
 Annotation of FDA Label for ramucirumab and KRAS	https://api.fda.gov/drug/label.json?search=openfda.application_number:BLA125477
 Annotation of FDA Label for rituximab and MS4A1	https://api.fda.gov/drug/label.json?search=openfda.application_number:BLA103705
 Annotation of FDA Label for simeprevir and IFNL3	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA205123
+Annotation of FDA Label for sofosbuvir / velpatasvir and IFNL3	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA208341
 Annotation of FDA Label for telaprevir and IFNL3	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA201917
 Annotation of FDA Label for terbinafine and CYP2D6	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA020539
 Annotation of FDA Label for ticagrelor and CYP2C19	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA022433
