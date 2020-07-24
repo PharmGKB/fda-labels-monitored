@@ -37,7 +37,6 @@ Annotation of FDA Label for simeprevir and IFNL3	https://api.fda.gov/drug/label.
 Annotation of FDA Label for telaprevir and IFNL3	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA201917
 Annotation of FDA Label for terbinafine and CYP2D6	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA020539
 Annotation of FDA Label for tolazamide and G6PD	https://api.fda.gov/drug/label.json?search=openfda.application_number:ANDA070259
-Annotation of FDA Label for tramadol and CYP2D6	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA020281
 Annotation of FDA Label for tretinoin and PML,RARA	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA020438
 Annotation of FDA Label for trimipramine and CYP2D6	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA016792
 Annotation of FDA Label for valproic acid and OTC	https://api.fda.gov/drug/label.json?search=openfda.application_number:NDA018081
