@@ -3,7 +3,7 @@
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "terms": "https://open.fda.gov/terms/",
     "license": "https://open.fda.gov/license/",
-    "last_updated": "2019-12-14",
+    "last_updated": "2020-07-23",
     "results": {
       "skip": 0,
       "limit": 1,
@@ -12,7 +12,7 @@
   },
   "results": [
     {
-      "effective_time": "20190417",
+      "effective_time": "20200217",
       "drug_interactions": [
         "Drug Interactions Administration of reserpine during therapy with a tricyclic antidepressant has been shown to produce a “stimulating” effect in some depressed patients. Close supervision and careful adjustment of the dosage are required when Pamelor is used with other anticholinergic drugs and sympathomimetic drugs. Concurrent administration of cimetidine and tricyclic antidepressants can produce clinically significant increases in the plasma concentrations of the tricyclic antidepressant. The patient should be informed that the response to alcohol may be exaggerated. A case of significant hypoglycemia has been reported in a type II diabetic patient maintained on chlorpropamide (250 mg/day), after the addition of nortriptyline (125 mg/day). Drugs Metabolized by P450 2D6 – The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the Caucasian population (about 7% to 10% of Caucasians are so called “poor metabolizers”); reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African and other populations are not yet available. Poor metabolizers have higher than expected plasma concentrations of tricyclic antidepressants (TCAs) when given usual doses. Depending on the fraction of drug metabolized by P450 2D6, the increase in plasma concentration may be small, or quite large (8 fold increase in plasma AUC of the TCA). In addition, certain drugs inhibit the activity of this isozyme and make normal metabolizers resemble poor metabolizers. An individual who is stable on a given dose of TCA may become abruptly toxic when given one of these inhibiting drugs as concomitant therapy. The drugs that inhibit cytochrome P450 2D6 include some that are not metabolized by the enzyme (quinidine; cimetidine) and many that are substrates for P450 2D6 (many other antidepressants, phenothiazines, and the Type 1C antiarrhythmics propafenone and flecainide). While all the selective serotonin reuptake inhibitors (SSRIs), e.g., fluoxetine, sertraline, and paroxetine, inhibit P450 2D6, they may vary in the extent of inhibition. The extent to which SSRI TCA interactions may pose clinical problems will depend on the degree of inhibition and the pharmacokinetics of the SSRI involved. Nevertheless, caution is indicated in the co-administration of TCAs with any of the SSRIs and also in switching from one class to the other. Of particular importance, sufficient time must elapse before initiating TCA treatment in a patient being withdrawn from fluoxetine, given the long half-life of the parent and active metabolite (at least 5 weeks may be necessary). Concomitant use of tricyclic antidepressants with drugs that can inhibit cytochrome P450 2D6 may require lower doses than usually prescribed for either the tricyclic antidepressant or the other drug. Furthermore, whenever one of these other drugs is withdrawn from co-therapy, an increased dose of tricyclic antidepressant may be required. It is desirable to monitor TCA plasma levels whenever a TCA is going to be co-administered with another drug known to be an inhibitor of P450 2D6. Monoamine Oxidase Inhibitors (MAOIs) (See CONTRAINDICATIONS , WARNINGS , and DOSAGE AND ADMINISTRATION .) Serotonergic Drugs (See CONTRAINDICATIONS , WARNINGS , and DOSAGE AND ADMINISTRATION .)"
       ],
@@ -32,7 +32,7 @@
         "INDICATIONS AND USAGE Pamelor™ (nortriptyline HCl) is indicated for the relief of symptoms of depression. Endogenous depressions are more likely to be alleviated than are other depressive states."
       ],
       "set_id": "e17dc299-f52d-414d-ab6e-e809bd6f8acb",
-      "id": "752602e9-1bd7-467c-892c-23a250c09898",
+      "id": "ad133e62-40fe-496f-8bb4-575c5102e781",
       "pediatric_use": [
         "Pediatric Use Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS, Clinical Worsening and Suicide Risk ). Anyone considering the use of nortriptyline hydrochloride in a child or adolescent must balance the potential risks with the clinical need."
       ],
@@ -71,10 +71,10 @@
           "e17dc299-f52d-414d-ab6e-e809bd6f8acb"
         ],
         "upc": [
-          "0304069910035",
           "0304069912039",
-          "0304069911032",
-          "0304069913036"
+          "0304069910035",
+          "0304069913036",
+          "0304069911032"
         ],
         "brand_name": [
           "PAMELOR"
@@ -96,7 +96,7 @@
           "209350"
         ],
         "spl_id": [
-          "752602e9-1bd7-467c-892c-23a250c09898"
+          "ad133e62-40fe-496f-8bb4-575c5102e781"
         ],
         "substance_name": [
           "NORTRIPTYLINE HYDROCHLORIDE"
@@ -111,7 +111,7 @@
           "NDA018013"
         ]
       },
-      "version": "20",
+      "version": "21",
       "dosage_and_administration": [
         "DOSAGE AND ADMINISTRATION Pamelor is not recommended for children. Pamelor is administered orally in the form of capsules. Lower than usual dosages are recommended for elderly patients and adolescents. Lower dosages are also recommended for outpatients than for hospitalized patients who will be under close supervision. The physician should initiate dosage at a low level and increase it gradually, noting carefully the clinical response and any evidence of intolerance. Following remission, maintenance medication may be required for a longer period of time at the lowest dose that will maintain remission. If a patient develops minor side effects, the dosage should be reduced. The drug should be discontinued promptly if adverse effects of a serious nature or allergic manifestations occur. Usual Adult Dose – 25 mg three or four times daily; dosage should begin at a low level and be increased as required. As an alternate regimen, the total daily dosage may be given once a day. When doses above 100 mg daily are administered, plasma levels of nortriptyline should be monitored and maintained in the optimum range of 50 to 150 ng/mL. Doses above 150 mg/day are not recommended. Elderly and Adolescent Patients – 30 to 50 mg/day, in divided doses, or the total daily dosage may be given once a day. Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with Pamelor. Conversely, at least 14 days should be allowed after stopping Pamelor before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS ). Use of Pamelor With Other MAOIs, Such as Linezolid or Methylene Blue Do not start Pamelor in a patient who is being treated with linezolid or intravenous methylene blue because there is increased risk of serotonin syndrome. In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered (see CONTRAINDICATIONS ). In some cases, a patient already receiving Pamelor therapy may require urgent treatment with linezolid or intravenous methylene blue. If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, Pamelor should be stopped promptly, and linezolid or intravenous methylene blue can be administered. The patient should be monitored for symptoms of serotonin syndrome for two weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first. Therapy with Pamelor may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue (see WARNINGS ). The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with Pamelor is unclear. The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use (see WARNINGS )."
       ],

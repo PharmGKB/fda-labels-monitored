@@ -3,7 +3,7 @@
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "terms": "https://open.fda.gov/terms/",
     "license": "https://open.fda.gov/license/",
-    "last_updated": "2019-12-14",
+    "last_updated": "2020-07-23",
     "results": {
       "skip": 0,
       "limit": 1,
@@ -38,7 +38,7 @@
         "INDICATIONS AND USAGE FORANE may be used for induction and maintenance of general anesthesia. Adequate data have not been developed to establish its application in obstetrical anesthesia."
       ],
       "set_id": "3d30eb8d-a62e-475f-926b-78ba63bee9c8",
-      "id": "eab990cb-4961-4fd5-ae64-e5e9beffdb65",
+      "id": "4c7bd03c-8f88-4e83-aa81-37eedb693d36",
       "description_table": [
         "<table width=\"100%\"> <col width=\"41%\"/> <col width=\"9%\"/> <col width=\"12%\"/> <col width=\"38%\"/> <tbody> <tr> <td styleCode=\"Toprule \" valign=\"top\"> <paragraph>Molecular weight</paragraph> </td> <td colspan=\"2\" styleCode=\"Toprule \" valign=\"top\"/> <td styleCode=\"Toprule \" valign=\"top\"> <paragraph>184.5</paragraph> </td> </tr> <tr> <td valign=\"top\"> <paragraph>Boiling point at 760 mm Hg</paragraph> </td> <td colspan=\"2\" valign=\"top\"/> <td valign=\"top\"> <paragraph>48.5&#xB0;C</paragraph> </td> </tr> <tr> <td valign=\"top\"> <paragraph>Refractive index <content styleCode=\"italics\">n</content> <sup>20</sup> <sub>D</sub> </paragraph> </td> <td colspan=\"2\" valign=\"top\"/> <td valign=\"top\"> <paragraph>1.2990-1.3005</paragraph> </td> </tr> <tr> <td valign=\"top\"> <paragraph>Specific gravity 25&#xB0;/25&#xB0;C</paragraph> </td> <td colspan=\"2\" valign=\"top\"/> <td valign=\"top\"> <paragraph>1.496</paragraph> </td> </tr> <tr> <td valign=\"top\"> <paragraph>Vapor pressure in mm Hg**</paragraph> </td> <td align=\"center\" colspan=\"2\" valign=\"top\"> <paragraph>20&#xB0;C</paragraph> </td> <td valign=\"top\"> <paragraph>238</paragraph> </td> </tr> <tr> <td valign=\"top\"/> <td align=\"center\" colspan=\"2\" valign=\"top\"> <paragraph>25&#xB0;C</paragraph> </td> <td valign=\"top\"> <paragraph>295</paragraph> </td> </tr> <tr> <td valign=\"top\"/> <td align=\"center\" colspan=\"2\" valign=\"top\"> <paragraph>30&#xB0;C</paragraph> </td> <td valign=\"top\"> <paragraph>367</paragraph> </td> </tr> <tr> <td valign=\"top\"/> <td align=\"center\" colspan=\"2\" valign=\"top\"> <paragraph>35&#xB0;C</paragraph> </td> <td valign=\"top\"> <paragraph>450</paragraph> </td> </tr> <tr> <td valign=\"top\"/> <td colspan=\"2\" valign=\"top\"/> <td valign=\"top\"/> </tr> <tr> <td colspan=\"4\" valign=\"top\"> <paragraph>**Equation for vapor pressure calculation:</paragraph> </td> </tr> <tr> <td colspan=\"2\" valign=\"top\"> <paragraph>log<sub>10</sub>P<sub>vap</sub>= A + B/T where:</paragraph> </td> <td colspan=\"2\" valign=\"top\"> <paragraph>A = 8.056</paragraph> </td> </tr> <tr> <td valign=\"top\"/> <td valign=\"top\"/> <td colspan=\"2\" valign=\"top\"> <paragraph>B = -1664.58</paragraph> </td> </tr> <tr> <td valign=\"top\"/> <td valign=\"top\"/> <td colspan=\"2\" valign=\"top\"> <paragraph>T = &#xB0;C + 273.16 (Kelvin)</paragraph> </td> </tr> </tbody> </table>",
         "<table width=\"100%\"> <col width=\"23%\"/> <col width=\"23%\"/> <tbody> <tr> <td styleCode=\"Toprule \" valign=\"top\"> <paragraph>Water/gas</paragraph> </td> <td styleCode=\"Toprule \" valign=\"top\"> <paragraph>0.61</paragraph> </td> </tr> <tr> <td valign=\"top\"> <paragraph>Blood/gas</paragraph> </td> <td valign=\"top\"> <paragraph>1.43</paragraph> </td> </tr> <tr> <td styleCode=\"Botrule \" valign=\"top\"> <paragraph>Oil/gas</paragraph> </td> <td styleCode=\"Botrule \" valign=\"top\"> <paragraph>90.8</paragraph> </td> </tr> </tbody> </table>",
@@ -96,7 +96,7 @@
           "542347"
         ],
         "spl_id": [
-          "eab990cb-4961-4fd5-ae64-e5e9beffdb65"
+          "4c7bd03c-8f88-4e83-aa81-37eedb693d36"
         ],
         "substance_name": [
           "ISOFLURANE"
@@ -111,7 +111,7 @@
           "NDA017624"
         ]
       },
-      "version": "4",
+      "version": "5",
       "dosage_and_administration": [
         "DOSAGE AND ADMINISTRATION Premedication: Premedication should be selected according to the need of the individual patient, taking into account that secretions are weakly stimulated by FORANE, and the heart rate tends to be increased. The use of anticholinergic drugs is a matter of choice. Inspired Concentration: The concentration of isoflurane being delivered from a vaporizer during anesthesia should be known. This may be accomplished by using: a. Vaporizers calibrated specifically for isoflurane; b. Vaporizers from which delivered flows can be calculated, such as vaporizers delivering a saturated vapor which is then diluted. The delivered concentration from such a vaporizer may be calculated using the formula: % isoflurane = 100 PVFV / FT(PA – PV) Where: PA = Pressure of atmosphere PV = Vapor pressure of isoflurane FV = Flow of gas through vaporizer (mL/min) FT = Total gas flow (mL/min) Isoflurane contains no stabilizer. Nothing in the agent alters calibration or operation of these vaporizers. Induction: Induction with isoflurane in oxygen or in combination with oxygen-nitrous oxide mixtures may produce coughing, breath holding, or laryngospasm. These difficulties may be avoided by the use of a hypnotic dose of an ultra-short-acting barbiturate. Inspired concentrations of 1.5 to 3.0% isoflurane usually produce surgical anesthesia in 7 to 10 minutes. Maintenance: Surgical levels of anesthesia may be sustained with a 1.0 to 2.5% concentration when nitrous oxide is used concomitantly. An additional 0.5 to 1.0% may be required when isoflurane is given using oxygen alone. If added relaxation is required, supplemental doses of muscle relaxants may be used. The level of blood pressure during maintenance is an inverse function of isoflurane concentration in the absence of other complicating problems. Excessive decreases may be due to depth of anesthesia and in such instances may be corrected by lightening anesthesia."
       ],

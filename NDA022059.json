@@ -3,7 +3,7 @@
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "terms": "https://open.fda.gov/terms/",
     "license": "https://open.fda.gov/license/",
-    "last_updated": "2019-12-14",
+    "last_updated": "2020-07-23",
     "results": {
       "skip": 0,
       "limit": 1,
@@ -12,7 +12,7 @@
   },
   "results": [
     {
-      "effective_time": "20190919",
+      "effective_time": "20200612",
       "drug_interactions": [
         "7 DRUG INTERACTIONS •TYKERB is likely to increase exposure to concomitantly administered drugs which are substrates of CYP3A4, CYP2C8, or P-glycoprotein (ABCB1). (7.1) •Avoid strong CYP3A4 inhibitors. If unavoidable, consider dose reduction of TYKERB in patients coadministered a strong CYP3A4 inhibitor. (2.2, 7.2) •Avoid strong CYP3A4 inducers. If unavoidable, consider gradual dose increase of TYKERB in patients coadministered a strong CYP3A4 inducer. (2.2, 7.2) 7.1 Effects of Lapatinib on Drug-Metabolizing Enzymes and Drug Transport Systems Lapatinib inhibits CYP3A4, CYP2C8, and P-glycoprotein (P-gp, ABCB1) in vitro at clinically relevant concentrations and is a weak inhibitor of CYP3A4 in vivo. Caution should be exercised and dose reduction of the concomitant substrate drug should be considered when dosing TYKERB concurrently with medications with narrow therapeutic windows that are substrates of CYP3A4, CYP2C8, or P-gp. Lapatinib did not significantly inhibit the following enzymes in human liver microsomes: CYP1A2, CYP2C9, CYP2C19, and CYP2D6 or UGT enzymes in vitro, however, the clinical significance is unknown. Midazolam: Following coadministration of TYKERB and midazolam (CYP3A4 substrate), 24-hour systemic exposure (AUC) of orally administered midazolam increased 45%, while 24-hour AUC of intravenously administered midazolam increased 22%. Paclitaxel: In cancer patients receiving TYKERB and paclitaxel (CYP2C8 and P-gp substrate), 24-hour systemic exposure (AUC) of paclitaxel was increased 23%. This increase in paclitaxel exposure may have been underestimated from the in vivo evaluation due to study design limitations. Digoxin: Following coadministration of TYKERB and digoxin (P-gp substrate), systemic AUC of an oral digoxin dose increased approximately 2.8-fold. Serum digoxin concentrations should be monitored prior to initiation of TYKERB and throughout coadministration. If digoxin serum concentration is greater than 1.2 ng/mL, the digoxin dose should be reduced by half. 7.2 Drugs That Inhibit or Induce Cytochrome P450 3A4 Enzymes Lapatinib undergoes extensive metabolism by CYP3A4, and concomitant administration of strong inhibitors or inducers of CYP3A4 alter lapatinib concentrations significantly (see Ketoconazole and Carbamazepine sections, below). Dose adjustment of TYKERB should be considered for patients who must receive concomitant strong inhibitors or concomitant strong inducers of CYP3A4 enzymes [see Dosage and Administration (2.2)]. Ketoconazole: In healthy subjects receiving ketoconazole, a CYP3A4 inhibitor, at 200 mg twice daily for 7 days, systemic exposure (AUC) to lapatinib was increased to approximately 3.6-fold of control and half-life increased to 1.7-fold of control. Carbamazepine: In healthy subjects receiving the CYP3A4 inducer, carbamazepine, at 100 mg twice daily for 3 days and 200 mg twice daily for 17 days, systemic exposure (AUC) to lapatinib was decreased approximately 72%. 7.3 Drugs That Inhibit Drug Transport Systems Lapatinib is a substrate of the efflux transporter P-glycoprotein (P-gp, ABCB1). If TYKERB is administered with drugs that inhibit P-gp, increased concentrations of lapatinib are likely, and caution should be exercised. 7.4 Acid-Reducing Agents The aqueous solubility of lapatinib is pH dependent, with higher pH resulting in lower solubility. However, esomeprazole, a proton pump inhibitor, administered at a dose of 40 mg once daily for 7 days, did not result in a clinically meaningful reduction in lapatinib steady-state exposure."
       ],
@@ -53,7 +53,7 @@
         "1 INDICATIONS AND USAGE TYKERB® is indicated in combination with: •capecitabine for the treatment of patients with advanced or metastatic breast cancer whose tumors overexpress human epidermal growth factor receptor 2 (HER2) and who have received prior therapy including an anthracycline, a taxane, and trastuzumab. Limitations of Use: Patients should have disease progression on trastuzumab prior to initiation of treatment with TYKERB in combination with capecitabine. •letrozole for the treatment of postmenopausal women with hormone receptor-positive metastatic breast cancer that overexpresses the HER2 receptor for whom hormonal therapy is indicated. TYKERB in combination with an aromatase inhibitor has not been compared to a trastuzumab-containing chemotherapy regimen for the treatment of metastatic breast cancer. TYKERB is a kinase inhibitor indicated in combination with: (1) capecitabine for the treatment of patients with advanced or metastatic breast cancer whose tumors overexpress human epidermal growth factor receptor 2 (HER2) and who have received prior therapy including an anthracycline, a taxane, and trastuzumab. Limitations of Use: Patients should have disease progression on trastuzumab prior to initiation of treatment with TYKERB in combination with capecitabine. letrozole for the treatment of postmenopausal women with hormone receptor-positive metastatic breast cancer that overexpresses the HER2 receptor for whom hormonal therapy is indicated. TYKERB in combination with an aromatase inhibitor has not been compared to a trastuzumab-containing chemotherapy regimen for the treatment of metastatic breast cancer."
       ],
       "set_id": "eee37f88-ec6a-4c30-b8aa-e2c71f93088c",
-      "id": "02c8a7ae-1e09-4668-bbac-090960e734c9",
+      "id": "3f79a478-60a0-420b-b26e-9314dcd5a470",
       "pediatric_use": [
         "8.4 Pediatric Use The safety and effectiveness of TYKERB in pediatric patients have not been established."
       ],
@@ -104,12 +104,8 @@
         "unii": [
           "G873GX646R"
         ],
-        "rxcui": [
-          "672152",
-          "672149"
-        ],
         "spl_id": [
-          "02c8a7ae-1e09-4668-bbac-090960e734c9"
+          "3f79a478-60a0-420b-b26e-9314dcd5a470"
         ],
         "substance_name": [
           "LAPATINIB DITOSYLATE"
@@ -124,7 +120,7 @@
           "NDA022059"
         ]
       },
-      "version": "5",
+      "version": "6",
       "recent_major_changes_table": [
         "<table width=\"100%\"> <col width=\"87%\"/> <col width=\"13%\"/> <tbody> <tr> <td> <paragraph>Warnings and Precautions, QT Prolongation (<linkHtml href=\"#s5p6\">5.6</linkHtml>)</paragraph> </td> <td align=\"center\"> <paragraph>12/2018</paragraph> </td> </tr> <tr> <td> <paragraph>Warnings and Precautions, Embryo-Fetal Toxicity (<linkHtml href=\"#s5p8\">5.8</linkHtml>)</paragraph> </td> <td align=\"center\"> <paragraph>12/2018</paragraph> </td> </tr> </tbody> </table>"
       ],

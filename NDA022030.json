@@ -3,16 +3,16 @@
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "terms": "https://open.fda.gov/terms/",
     "license": "https://open.fda.gov/license/",
-    "last_updated": "2019-12-14",
+    "last_updated": "2020-07-23",
     "results": {
       "skip": 0,
       "limit": 1,
-      "total": 2
+      "total": 3
     }
   },
   "results": [
     {
-      "effective_time": "20181227",
+      "effective_time": "20191213",
       "drug_interactions": [
         "7 DRUG INTERACTIONS 7.1 Antimuscarinic Drugs Coadministration of Toviaz with other antimuscarinic agents that produce dry mouth, constipation, urinary retention, and other anticholinergic pharmacological effects may increase the frequency and/or severity of such effects. Anticholinergic agents may potentially alter the absorption of some concomitantly administered drugs due to anticholinergic effects on gastrointestinal motility. 7.2 CYP3A4 Inhibitors Doses of Toviaz greater than 4 mg are not recommended in patients taking potent CYP3A4 inhibitors, such as ketoconazole, itraconazole, and clarithromycin. Coadministration of the potent CYP3A4 inhibitor ketoconazole with fesoterodine led to approximately a doubling of the maximum concentration (Cmax) and area under the concentration versus time curve (AUC) of 5-hydroxymethyl tolterodine (5-HMT), the active metabolite of fesoterodine. Compared with CYP2D6 extensive metabolizers not taking ketoconazole, further increases in the exposure to 5-HMT were observed in subjects who were CYP2D6 poor metabolizers taking ketoconazole [see Clinical Pharmacology (12.3), Warnings and Precautions (5.8), and Dosage and Administration (2) ]. There is no clinically relevant effect of moderate CYP3A4 inhibitors on the pharmacokinetics of fesoterodine. Following blockade of CYP3A4 by coadministration of the moderate CYP3A4 inhibitor fluconazole 200 mg twice a day for 2 days, the average (90% confidence interval) increase in Cmax and AUC of the active metabolite of fesoterodine was approximately 19% (11% – 28%) and 27% (18% – 36%) respectively. No dosing adjustments are recommended in the presence of moderate CYP3A4 inhibitors (e.g., erythromycin, fluconazole, diltiazem, verapamil and grapefruit juice). The effect of weak CYP3A4 inhibitors (e.g. cimetidine) was not examined; it is not expected to be in excess of the effect of moderate inhibitors [see Clinical Pharmacology (12.3), Warnings and Precautions (5.8), and Dosage and Administration (2) ]. 7.3 CYP3A4 Inducers No dosing adjustments are recommended in the presence of CYP3A4 inducers, such as rifampin and carbamazepine. Following induction of CYP3A4 by coadministration of rifampin 600 mg once a day, Cmax and AUC of the active metabolite of fesoterodine decreased by approximately 70% and 75%, respectively, after oral administration of Toviaz 8 mg. The terminal half-life of the active metabolite was not changed. 7.4 CYP2D6 Inhibitors The interaction with CYP2D6 inhibitors was not tested clinically. In poor metabolizers for CYP2D6, representing a maximum CYP2D6 inhibition, Cmax and AUC of the active metabolite are increased 1.7- and 2-fold, respectively. No dosing adjustments are recommended in the presence of CYP2D6 inhibitors. 7.5 Drugs Metabolized by Cytochrome P450 In vitro data indicate that at therapeutic concentrations, the active metabolite of fesoterodine does not have the potential to inhibit or induce Cytochrome P450 enzyme systems [see Clinical Pharmacology (12.3) ]. 7.6 Oral Contraceptives In the presence of fesoterodine, there are no clinically significant changes in the plasma concentrations of combined oral contraceptives containing ethinyl estradiol and levonorgestrel [see Clinical Pharmacology (12.3) ]. 7.7 Warfarin A clinical study has shown that fesoterodine 8 mg once daily has no significant effect on the pharmacokinetics or the anticoagulant activity (PT/INR) of warfarin 25 mg. Standard therapeutic monitoring for warfarin should be continued [see Clinical Pharmacology (12.3) ]. 7.8 Drug-Laboratory Test Interactions Interactions between Toviaz and laboratory tests have not been studied."
       ],
@@ -59,7 +59,7 @@
         "1 INDICATIONS AND USAGE Toviaz® is a muscarinic antagonist indicated for the treatment of overactive bladder with symptoms of urge urinary incontinence, urgency, and frequency. Toviaz is a muscarinic antagonist indicated for the treatment of overactive bladder with symptoms of urge urinary incontinence, urgency, and frequency. (1)"
       ],
       "set_id": "4f01dced-195a-4712-a614-d68012bc29df",
-      "id": "f4a107e0-f8aa-4811-8623-3194b4670491",
+      "id": "609718bd-59c7-422d-b6f6-2602b9a41ba0",
       "teratogenic_effects": [
         "Pregnancy Category C. There are no adequate and well-controlled studies using Toviaz in pregnant women. No dose-related teratogenicity was observed in reproduction studies performed in mice and rabbits. In mice at 6 to 27 times the expected exposure at the maximum recommended human dose (MRHD) of 8 mg based on AUC (75 mg/kg/day, oral), increased resorptions and decreased live fetuses were observed. One fetus with cleft palate was observed at each dose (15, 45, and 75 mg/kg/day), at an incidence within the background historical range. In rabbits treated at 3 to 11 times the MRHD (27 mg/kg/day, oral), incompletely ossified sternebrae (retardation of bone development) were observed in fetuses. In rabbits at 9 to 11 times the MRHD (4.5 mg/kg/day, subcutaneous), maternal toxicity and incompletely ossified sternebrae were observed in fetuses (at an incidence within the background historical range). In rabbits at 3 times the MRHD (1.5 mg/kg/day, subcutaneous), decreased maternal food consumption in the absence of any fetal effects was observed. Oral administration of 30 mg/kg/day fesoterodine to mice in a pre- and post-natal development study resulted in decreased body weight of the dams and delayed ear opening of the pups. No effects were noted on mating and reproduction of the F1 dams or on the F2 offspring. Toviaz should be used during pregnancy only if the potential benefit outweighs the potential risk to the fetus."
       ],
@@ -120,7 +120,7 @@
           "810075"
         ],
         "spl_id": [
-          "f4a107e0-f8aa-4811-8623-3194b4670491"
+          "609718bd-59c7-422d-b6f6-2602b9a41ba0"
         ],
         "substance_name": [
           "FESOTERODINE FUMARATE"
@@ -135,7 +135,7 @@
           "NDA022030"
         ]
       },
-      "version": "4",
+      "version": "5",
       "recent_major_changes_table": [
         "<table width=\"75%\" styleCode=\"Noautorules\"> <col width=\"80%\" align=\"left\" valign=\"bottom\"/> <col width=\"20%\" align=\"left\" valign=\"bottom\"/> <tbody> <tr styleCode=\"Toprule\"> <td>Warnings and Precautions: Concomitant Administration with CYP3A4 Inhibitors (<linkHtml href=\"#S5.8\">5.8</linkHtml>)</td> <td>10/2011</td> </tr> <tr> <td>Warnings and Precautions: Central Nervous System Effects (<linkHtml href=\"#s5.5\">5.5</linkHtml>)</td> <td>08/2012</td> </tr> </tbody> </table>"
       ],

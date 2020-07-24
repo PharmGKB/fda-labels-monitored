@@ -3,7 +3,7 @@
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "terms": "https://open.fda.gov/terms/",
     "license": "https://open.fda.gov/license/",
-    "last_updated": "2019-12-14",
+    "last_updated": "2020-07-23",
     "results": {
       "skip": 0,
       "limit": 1,
@@ -64,6 +64,12 @@
         "product_ndc": [
           "54766-590"
         ],
+        "nui": [
+          "N0000175459",
+          "N0000008065",
+          "N0000175712",
+          "N0000000233"
+        ],
         "is_original_packager": [
           true
         ],
@@ -75,6 +81,10 @@
         ],
         "spl_set_id": [
           "606101a0-6244-7eff-e053-2a91aa0acadd"
+        ],
+        "pharm_class_cs": [
+          "Nucleoside Analog [Chemical/Ingredient]",
+          "Purines [Chemical/Ingredient]"
         ],
         "upc": [
           "0354766590108"
@@ -104,8 +114,14 @@
         "route": [
           "ORAL"
         ],
+        "pharm_class_moa": [
+          "Nucleic Acid Synthesis Inhibitors [MoA]"
+        ],
         "application_number": [
           "NDA016324"
+        ],
+        "pharm_class_epc": [
+          "Purine Antimetabolite [EPC]"
         ]
       },
       "version": "3",

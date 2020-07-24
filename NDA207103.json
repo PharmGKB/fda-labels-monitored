@@ -3,7 +3,7 @@
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "terms": "https://open.fda.gov/terms/",
     "license": "https://open.fda.gov/license/",
-    "last_updated": "2019-12-14",
+    "last_updated": "2020-07-23",
     "results": {
       "skip": 0,
       "limit": 1,
@@ -12,7 +12,7 @@
   },
   "results": [
     {
-      "effective_time": "20181227",
+      "effective_time": "20191210",
       "drug_interactions": [
         "7 DRUG INTERACTIONS Palbociclib is primarily metabolized by CYP3A and sulfotransferase (SULT) enzyme SULT2A1. In vivo, palbociclib is a time-dependent inhibitor of CYP3A. CYP3A Inhibitors: Avoid concurrent use of IBRANCE with strong CYP3A inhibitors. If the strong inhibitor cannot be avoided, reduce the IBRANCE dose. (2.2, 7.1) CYP3A Inducers: Avoid concurrent use of IBRANCE with strong CYP3A inducers. (7.2) CYP3A Substrates: The dose of sensitive CYP3A4 substrates with narrow therapeutic indices may need to be reduced when given concurrently with IBRANCE. (7.3) 7.1 Agents That May Increase Palbociclib Plasma Concentrations Effect of CYP3A Inhibitors Coadministration of a strong CYP3A inhibitor (itraconazole) increased the plasma exposure of palbociclib in healthy subjects by 87%. Avoid concomitant use of strong CYP3A inhibitors (e.g., clarithromycin, indinavir, itraconazole, ketoconazole, lopinavir/ritonavir, nefazodone, nelfinavir, posaconazole, ritonavir, saquinavir, telaprevir, telithromycin, and voriconazole). Avoid grapefruit or grapefruit juice during IBRANCE treatment. If coadministration of IBRANCE with a strong CYP3A inhibitor cannot be avoided, reduce the dose of IBRANCE [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)]. 7.2 Agents That May Decrease Palbociclib Plasma Concentrations Effect of CYP3A Inducers Coadministration of a strong CYP3A inducer (rifampin) decreased the plasma exposure of palbociclib in healthy subjects by 85%. Avoid concomitant use of strong CYP3A inducers (e.g., phenytoin, rifampin, carbamazepine, enzalutamide, and St John's Wort) [see Clinical Pharmacology (12.3)]. 7.3 Drugs That May Have Their Plasma Concentrations Altered by Palbociclib Coadministration of midazolam with multiple doses of IBRANCE increased the midazolam plasma exposure by 61%, in healthy subjects, compared with administration of midazolam alone. The dose of the sensitive CYP3A substrate with a narrow therapeutic index (e.g., alfentanil, cyclosporine, dihydroergotamine, ergotamine, everolimus, fentanyl, pimozide, quinidine, sirolimus and tacrolimus) may need to be reduced as IBRANCE may increase their exposure [see Clinical Pharmacology (12.3)]."
       ],
@@ -56,7 +56,7 @@
         "1 INDICATIONS AND USAGE IBRANCE is indicated for the treatment of HR-positive, HER2-negative advanced or metastatic breast cancer in combination with: letrozole as initial endocrine based therapy in postmenopausal women, or fulvestrant in women with disease progression following endocrine therapy. The indication in combination with letrozole is approved under accelerated approval based on progression-free survival (PFS) [see Clinical Studies (14)]. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial. IBRANCE is a kinase inhibitor indicated for the treatment of hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer in combination with: letrozole as initial endocrine based therapy in postmenopausal women (1), or fulvestrant in women with disease progression following endocrine therapy. The indication in combination with letrozole is approved under accelerated approval based on progression-free survival (PFS). Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial. (1)"
       ],
       "set_id": "86718885-da44-4d3d-b3ca-06cbcedcffd8",
-      "id": "a641f224-c128-45f9-8700-f85549fb2b50",
+      "id": "9be7a029-f5c9-4d4c-9f84-ca35b25d1c07",
       "dosage_and_administration_table": [
         "<table width=\"75%\"> <caption>Table 1. Recommended Dose Modification for Adverse Reactions</caption> <col width=\"50%\" align=\"left\" valign=\"top\"/> <col width=\"50%\" align=\"center\" valign=\"top\"/> <thead> <tr> <th styleCode=\"Lrule Rrule\" align=\"center\">Dose Level</th> <th styleCode=\"Rrule\">Dose</th> </tr> </thead> <tbody> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\">Recommended starting dose</td> <td styleCode=\"Rrule\">125 mg/day</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\">First dose reduction</td> <td styleCode=\"Rrule\">100 mg/day</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\">Second dose reduction</td> <td styleCode=\"Rrule\">75 mg/day<footnote>If further dose reduction below 75 mg/day is required, discontinue.</footnote> </td> </tr> </tbody> </table>",
         "<table width=\"75%\"> <caption>Table 2. Dose Modification and Management &#x2013; Hematologic Toxicities<footnote>Table applies to all hematologic adverse reactions except lymphopenia (unless associated with clinical events, e.g., opportunistic infections).</footnote> </caption> <col width=\"30%\" align=\"left\" valign=\"top\"/> <col width=\"70%\" align=\"left\" valign=\"top\"/> <tfoot> <tr> <td colspan=\"2\" align=\"left\" valign=\"top\">Grading according to CTCAE 4.0.</td> </tr> <tr> <td colspan=\"2\" align=\"left\" valign=\"top\">CTCAE=Common Terminology Criteria for Adverse Events; LLN=lower limit of normal.</td> </tr> </tfoot> <tbody> <tr> <td styleCode=\"Lrule Rrule Botrule\" colspan=\"2\">Monitor complete blood counts prior to the start of IBRANCE therapy and at the beginning of each cycle, as well as on Day 14 of the first 2 cycles, and as clinically indicated.</td> </tr> <tr> <td styleCode=\"Lrule Rrule Botrule\" align=\"center\"> <content styleCode=\"bold\"> <content styleCode=\"xmChange\">CTCAE Grade</content> </content> </td> <td styleCode=\"Rrule Botrule\" align=\"center\"> <content styleCode=\"bold\">Dose Modifications</content> </td> </tr> <tr> <td styleCode=\"Lrule Rrule Botrule\">Grade 1 or 2</td> <td styleCode=\"Rrule Botrule\">No dose adjustment is required.</td> </tr> <tr> <td styleCode=\"Lrule Rrule Botrule\">Grade 3</td> <td styleCode=\"Rrule Botrule\"> <content styleCode=\"underline\">Day 1 of cycle</content>: Withhold IBRANCE, repeat complete blood count monitoring within 1 week. When recovered to Grade &#x2264;2, start the next cycle at the <content styleCode=\"italics\">same dose</content>.    <content styleCode=\"underline\">Day 14 of first 2 cycles</content>: Continue IBRANCE at current dose to complete cycle. Repeat complete blood count on Day 21.   Consider dose reduction in cases of prolonged (&gt;1 week) recovery from Grade 3 neutropenia or recurrent Grade 3 neutropenia in subsequent cycles.</td> </tr> <tr> <td styleCode=\"Lrule Rrule Botrule\">Grade 3 neutropenia<footnote>Absolute neutrophil count (ANC): Grade 1: ANC &lt; LLN - 1500/mm<sup>3</sup>; Grade 2: ANC 1000 - &lt;1500/mm<sup>3</sup>; Grade 3: ANC 500 - &lt;1000/mm<sup>3</sup>; Grade 4: ANC &lt;500/mm<sup>3</sup> </footnote> with fever &#x2265;38.5 &#xB0;C and/or infection</td> <td styleCode=\"Rrule Botrule\">Withhold IBRANCE until recovery to Grade &#x2264;2. Resume at the <content styleCode=\"italics\">next lower dose</content>.</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\">Grade 4</td> <td styleCode=\"Rrule\">Withhold IBRANCE until recovery to Grade &#x2264;2. Resume at the <content styleCode=\"italics\">next lower dose</content>.</td> </tr> </tbody> </table>",
@@ -121,7 +121,7 @@
           "1601388"
         ],
         "spl_id": [
-          "a641f224-c128-45f9-8700-f85549fb2b50"
+          "9be7a029-f5c9-4d4c-9f84-ca35b25d1c07"
         ],
         "substance_name": [
           "PALBOCICLIB"
@@ -136,7 +136,7 @@
           "NDA207103"
         ]
       },
-      "version": "2",
+      "version": "3",
       "recent_major_changes_table": [
         "<table width=\"100%\"> <col width=\"85%\" align=\"left\" valign=\"top\"/> <col width=\"15%\" align=\"right\" valign=\"top\"/> <tbody> <tr> <td>Indications and Usage (<linkHtml href=\"#S1\">1</linkHtml>)</td> <td>2/2016</td> </tr> <tr> <td>Dosage and Administration (<linkHtml href=\"#S2.1\">2.1</linkHtml>, <linkHtml href=\"#S2.2\">2.2</linkHtml>)</td> <td>2/2016</td> </tr> <tr> <td>Warnings and Precautions (<linkHtml href=\"#S5.1\">5.1</linkHtml>, <linkHtml href=\"#S5.2\">5.2</linkHtml>, <linkHtml href=\"#S5.3\">5.3</linkHtml>)</td> <td>2/2016</td> </tr> </tbody> </table>"
       ],

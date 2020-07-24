@@ -3,7 +3,7 @@
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "terms": "https://open.fda.gov/terms/",
     "license": "https://open.fda.gov/license/",
-    "last_updated": "2019-12-14",
+    "last_updated": "2020-07-23",
     "results": {
       "skip": 0,
       "limit": 1,
@@ -12,7 +12,7 @@
   },
   "results": [
     {
-      "effective_time": "20190312",
+      "effective_time": "20190315",
       "drug_interactions": [
         "7 DRUG INTERACTIONS CNS depressants (e.g., alcohol, benzodiazepines, opioids, tricyclic antidepressants) - additive sedative effects (5.1, 7.1) 7.1 CNS Depressants The sedative effects of SOMA and other CNS depressants (e.g., alcohol, benzodiazepines, opioids, tricyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneously. Concomitant use of SOMA and meprobamate, a metabolite of SOMA, is not recommended [ see Warnings and Precautions (5.1) ]. 7.2 CYP2C19 Inhibitors and Inducers Carisoprodol is metabolized in the liver by CYP2C19 to form meprobamate [ see Clinical Pharmacology (12.3) ]. Co-administration of CYP2C19 inhibitors, such as omeprazole or fluvoxamine, with SOMA could result in increased exposure of carisoprodol and decreased exposure of meprobamate. Co-administration of CYP2C19 inducers, such as rifampin or St. John’s Wort, with SOMA could result in decreased exposure of carisoprodol and increased exposure of meprobamate. Low dose aspirin also showed an induction effect on CYP2C19. The full pharmacological impact of these potential alterations of exposures in terms of either efficacy or safety of SOMA is unknown."
       ],
@@ -59,7 +59,7 @@
         "9.3 Dependence Tolerance is when a patient’s reaction to a specific dosage and concentration is progressively reduced in the absence of disease progression, requiring an increase in the dosage to maintain the same. Physical dependence is characterized by withdrawal symptoms after abrupt discontinuation or a significant dose reduction of a drug. Both tolerance and physical dependence have been reported with the prolonged use of SOMA. Reported withdrawal symptoms with SOMA include insomnia, vomiting, abdominal cramps, headache, tremors, muscle twitching, anxiety, ataxia, hallucinations, and psychosis. Instruct patients taking large doses of SOMA or those taking the drug for a prolonged time to not abruptly stop SOMA [see Warnings and Precautions (5.2)]."
       ],
       "set_id": "6297cf20-830a-11dc-94c8-0002a5d5c51b",
-      "id": "4f783cb0-6884-44ce-a88e-8901fd1e6bed",
+      "id": "7fd8b77e-66c5-439b-a919-1e636e0b153d",
       "pediatric_use": [
         "8.4 Pediatric Use The efficacy, safety, and pharmacokinetics of SOMA in pediatric patients less than 16 years of age have not been established."
       ],
@@ -117,7 +117,7 @@
           "213695"
         ],
         "spl_id": [
-          "4f783cb0-6884-44ce-a88e-8901fd1e6bed"
+          "7fd8b77e-66c5-439b-a919-1e636e0b153d"
         ],
         "substance_name": [
           "CARISOPRODOL"
@@ -135,7 +135,7 @@
       "controlled_substance": [
         "9.1 Controlled Substance SOMA contains carisoprodol, a Schedule IV controlled substance. Carisoprodol has been subject to abuse, misuse, and criminal diversion for nontherapeutic use [see Warnings and Precautions (5.2)]."
       ],
-      "version": "15",
+      "version": "16",
       "dosage_and_administration": [
         "2 DOSAGE AND ADMINISTRATION The recommended dose of SOMA is 250 mg to 350 mg three times a day and at bedtime. The recommended maximum duration of SOMA use is up to two or three weeks. •Recommended dose is 250 mg to 350 mg three times a day and at bedtime. (2)"
       ],
@@ -156,8 +156,8 @@
         "17 PATIENT COUNSELING INFORMATION Patients should be advised to contact their physician if they experience any adverse reactions to SOMA. Sedation Advise patients that SOMA may cause drowsiness and/or dizziness, and has been associated with motor vehicle accidents. Patients should be advised to avoid taking SOMA before engaging in potentially hazardous activities such as driving a motor vehicle or operating machinery [see Warnings and Precautions (5.1) ]. Avoidance of Alcohol and Other CNS Depressants Advise patients to avoid alcoholic beverages while taking SOMA and to check with their doctor before taking other CNS depressants such as benzodiazepines, opioids, tricyclic antidepressants, sedating antihistamines, or other sedatives [see Warnings and Precautions (5.1) ]. SOMA Should Only Be Used for Short-Term Treatment Advise patients that treatment with SOMA should be limited to acute use (up to two or three weeks) for the relief of acute, musculoskeletal discomfort. In the post-marketing experience with SOMA, cases of dependence, withdrawal, and abuse have been reported with prolonged use. If the musculoskeletal symptoms still persist, patients should contact their healthcare provider for further evaluation. Lactation Advise nursing mothers using SOMA to monitor neonates for signs of sedation [see Use in Specific Populations (8.2)]. SOMA and MEDA PHARMACEUTICALS are registered trademarks of MEDA AB or a related entity. Manufactured for: Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120 SOMA is a registered trademark of Meda Pharmaceuticals Inc., a Mylan company ©2019 Mylan Specialty LP IN-90H2-22 Revised: 3/2019 500491-04"
       ],
       "package_label_principal_display_panel": [
-        "PRINCIPAL DISPLAY PANEL – 250 mg NDC 0037-2250-30 30 Tablets Soma® CIV Carisoprodol Tablets, USP 250 mg Rx Only MEDA Package circular attached. Usual adult dosage: 1 tablet three times daily and at bedtime. Dispense in tight container. Store at controlled room temperature 20°-25°C (68°-77°F). Meda Pharmaceuticals Inc. Somerset, NJ 08873-4120 LB-90H2-14 Rev. 5/2018 400940-01 Soma Tablets 250 mg Bottle Label",
-        "PRINCIPAL DISPLAY PANEL – 350 mg NDC 0037-2001-01 100 Tablets Soma® CIV Carisoprodol Tablets, USP 350 mg Rx Only MEDA Please see enclosed full Prescribing Information. Dispense in tight container. Store at controlled room temperature 20°-25°C (68°-77°F). Meda Pharmaceuticals Inc. Somerset, NJ 08873-4120 LB-90G6-05 Rev. 5/2018 400939-01 Soma Tablets 350 mg Bottle Label"
+        "PRINCIPAL DISPLAY PANEL – 250 mg NDC 0037-2250-30 30 Tablets Soma® CIV Carisoprodol Tablets, USP 250 mg Rx Only MEDA Package circular attached. Usual adult dosage: 1 tablet three times daily and at bedtime. Dispense in tight container. Store at controlled room temperature 20°-25°C (68°-77°F). Meda Pharmaceuticals Inc. Somerset, NJ 08873-4120 LB-90G6-05 Rev. 5/2018 400939-01 Soma Tablets 250 mg Bottle Label",
+        "PRINCIPAL DISPLAY PANEL – 350 mg NDC 0037-2001-01 100 Tablets Soma® CIV Carisoprodol Tablets, USP 350 mg Rx Only MEDA Please see enclosed full Prescribing Information. Dispense in tight container. Store at controlled room temperature 20°-25°C (68°-77°F). Meda Pharmaceuticals Inc. Somerset, NJ 08873-4120 LB-90H2-14 Rev. 5/2018 400940-01 Soma Tablets 350 mg Bottle Label"
       ],
       "clinical_studies": [
         "14 CLINICAL STUDIES The safety and efficacy of SOMA for the relief of acute, idiopathic mechanical low back pain was evaluated in two, 7-day, double blind, randomized, multicenter, placebo controlled, U.S. trials (Studies 1 and 2). Patients had to be 18 to 65 years old and had to have acute back pain (≤ 3 days of duration) to be included in the trials. Patients with chronic back pain; at increased risk for vertebral fracture (e.g., history of osteoporosis); with a history of spinal pathology (e.g., herniated nucleus pulposus, spondylolisthesis or spinal stenosis); with inflammatory back pain, or with evidence of a neurologic deficit were excluded from participation. Concomitant use of analgesics (e.g., acetaminophen, NSAIDs, tramadol, opioid agonists), other muscle relaxants, botulinum toxin, sedatives (e.g., barbiturates, benzodiazepines, promethazine hydrochloride), and anti-epileptic drugs was prohibited. In Study 1, patients were randomized to one of three treatment groups (i.e., SOMA 250 mg, SOMA 350 mg, or placebo) and in Study 2 patients were randomized to two treatment groups (i.e., SOMA 250 mg or placebo). In both studies, patients received study medication three times a day and at bedtime for seven days. The primary endpoints were the relief from starting backache and the global impression of change, as reported by patients, on Study Day 3. Both endpoints were scored on a 5-point rating scale from 0 (worst outcome) to 4 (best outcome) in both studies. The primary statistical comparison was between the SOMA 250 mg and placebo groups in both studies. The proportion of patients who used concomitant acetaminophen, NSAIDs, tramadol, opioid agonists, other muscle relaxants, and benzodiazepines was similar in the treatment groups. The results for the primary efficacy evaluations in the acute, low back pain studies are presented in Table 3. Table 3. Results of the Primary Efficacy EndpointsThe primary efficacy endpoints (Relief from Starting Backache and Global Impression of Change) were assessed by the patients on Study Day 3. These endpoints were scored on a 5-point rating scale from 0 (worst outcome) to 4 (best outcome). in Studies 1 and 2 Study Parameter Placebo SOMA 250 mg SOMA 350 mg 1 Number of Patients n=269 n=264 n=273 Relief from Starting Backache, Mean (SE) Mean is the least squared mean and SE is the standard error of the mean. The ANOVA model was used for the primary statistical comparison between the SOMA 250 mg and placebo groups. 1.4 (0.1) 1.8 (0.1) 1.8 (0.1) Difference between SOMA and Placebo, Mean (SE) (95% CI) 0.4 (0.2, 0.5) 0.4 (0.2, 0.6) Global Impression of Change, Mean (SE) 1.9 (0.1) 2.2 (0.1) 2.2 (0.1) Difference between SOMA and Placebo, Mean (SE) (95% CI) 0.2 (0.1, 0.4) 0.3 (0.1, 0.4) 2 Number of Patients n=278 n=269 Relief from Starting Backache, Mean (SE) 1.1 (0.1) 1.8 (0.1) Difference between SOMA and Placebo, Mean (SE) (95% CI) 0.7 (0.5, 0.9) Global Impression of Change, Mean (SE) 1.7 (0.1) 2.2 (0.1) Difference between SOMA and Placebo, Mean (SE) (95% CI) 0.5 (0.4, 0.7) Patients treated with SOMA experienced improvement in function as measured by the Roland-Morris Disability Questionnaire (RMDQ) score on Days 3 and 7."

@@ -3,16 +3,16 @@
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "terms": "https://open.fda.gov/terms/",
     "license": "https://open.fda.gov/license/",
-    "last_updated": "2019-12-14",
+    "last_updated": "2020-07-23",
     "results": {
       "skip": 0,
       "limit": 1,
-      "total": 5
+      "total": 6
     }
   },
   "results": [
     {
-      "effective_time": "20150911",
+      "effective_time": "20191227",
       "drug_interactions": [
         "7 DRUG INTERACTIONS Serotonergic Drugs (e.g., MAOIs, triptans, SSRIs, other SNRIs, linezolid, lithium, tramadol, or St. John's wort): Potential for serotonin syndrome. Careful patient observation is advised ( 4.2, 5.2, 7.3). 7.1 Central Nervous System (CNS)-Active Drugs The risk of using venlafaxine in combination with other CNS-active drugs has not been systematically evaluated. Consequently, caution is advised when venlafaxine hydrochloride extended-release is taken in combination with other CNS-active drugs. 7.2 Monoamine Oxidase Inhibitors Adverse reactions, some of which were serious, have been reported in patients who have recently been discontinued from an MAOI and started on antidepressants with pharmacological properties similar to venlafaxine hydrochloride extended-release (SNRIs or SSRIs), or who have recently had SNRI or SSRI therapy discontinued prior to initiation of an MAOI [ see Dosage and Administration (2.9), Contraindications (4.2) and Warnings and Precautions (5.2) ]. 7.3 Serotonergic Drugs Based on the mechanism of action of venlafaxine hydrochloride extended-release and the potential for serotonin syndrome, caution is advised when venlafaxine hydrochloride extended-release is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, SSRIs, other SNRIs, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's wort. If concomitant treatment with venlafaxine hydrochloride extended-release and these drugs is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases. The concomitant use of venlafaxine hydrochloride extended-release with tryptophan supplements is not recommended [ see Dosage and Administration (2.9), Contraindications (4.2), and Warnings and Precautions (5.2) ]. 7.4 Drugs that Interfere with Hemostasis (e.g., NSAIDs, Aspirin, and Warfarin) Serotonin release by platelets plays an important role in hemostasis. The use of psychotropic drugs that interfere with serotonin reuptake is associated with the occurrence of upper gastrointestinal bleeding and concurrent use of an NSAID or aspirin may potentiate this risk of bleeding [ see Warnings and Precautions (5.4) ]. Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs and SNRIs are coadministered with warfarin. Patients receiving warfarin therapy should be carefully monitored when venlafaxine hydrochloride extended-release is initiated or discontinued. 7.5 Weight Loss Agents The safety and efficacy of venlafaxine therapy in combination with weight loss agents, including phentermine, have not been established. Coadministration of venlafaxine hydrochloride extended-release and weight loss agents is not recommended. Venlafaxine hydrochloride extended-release is not indicated for weight loss alone or in combination with other products. 7.6 Effects of Other Drugs on Venlafaxine hydrochloride Extended-Release Figure 1: Effect of interacting drugs on the pharmacokinetics of venlafaxine and active metabolite O-desmethylvenlafaxine (ODV). Abbreviations: ODV, O-desmethylvenlafaxine; AUC, area under the curve; C max, peak plasma concentrations; EM's, extensive metabolizers; PM's, poor metabolizers * No dose adjustment on co-administration with CYP2D6 inhibitors (Fig 3 and Metabolism Section 12.3) figure1 7.7 Effects of Venlafaxine hydrochloride Extended-Release on Other Drugs Figure 2: Effect of venlafaxine on the pharmacokinetics interacting drugs and their active metabolites. Abbreviations: AUC, area under the curve; C max, peak plasma concentrations; OH, hydroxyl * Data for 2-OH desipramine were not plotted to enhance clarity; the fold change and 90% CI for C max and AUC of 2-OH desipramine were 6.6 (5.5, 7.9) and 4.4 (3.8, 5.0), respectively. Note: *: Administration of venlafaxine in a stable regimen did not exaggerate the psychomotor and psychometric effects induced by ethanol in these same subjects when they were not receiving venlafaxine. figure2 7.8 Drug-Laboratory Test Interactions False-positive urine immunoassay screening tests for phencyclidine (PCP) and amphetamine have been reported in patients taking venlafaxine. This is due to lack of specificity of the screening tests. False positive test results may be expected for several days following discontinuation of venlafaxine therapy. Confirmatory tests, such as gas chromatography/mass spectrometry, will distinguish venlafaxine from PCP and amphetamine."
       ],
@@ -59,7 +59,7 @@
         "1 INDICATIONS AND USAGE Venlafaxine hydrochloride extended-release is a serotonin and norepinephrine reuptake inhibitor (SNRI) indicated for the treatment of: Major Depressive Disorder (MDD) Generalized Anxiety Disorder (GAD) Social Anxiety Disorder (SAD) Panic Disorder (PD) 1.1 Major Depressive Disorder Venlafaxine hydrochloride extended-release capsules are indicated for the treatment of major depressive disorder (MDD). Efficacy was established in three short-term (4, 8, and 12 weeks) and two long-term, maintenance trials. 1.2 Generalized Anxiety Disorder Venlafaxine hydrochloride extended-release is indicated for the treatment of Generalized Anxiety Disorder (GAD). Efficacy was established in two 8-week and two 26-week placebo-controlled trials. 1.3 Social Anxiety Disorder Venlafaxine hydrochloride extended-release is indicated for the treatment of Social Anxiety Disorder (SAD), also known as social phobia. Efficacy was established in four 12-week and one 26-week, placebo-controlled trials. 1.4 Panic Disorder Venlafaxine hydrochloride extended-release is indicated for the treatment of Panic Disorder (PD), with or without agoraphobia. Efficacy was established in two 12-week placebo-controlled trials."
       ],
       "set_id": "1f808a76-4837-687f-e054-00144ff88e88",
-      "id": "1f80aef4-3ca8-42ec-e054-00144ff8d46c",
+      "id": "9ab35ec5-4dd6-d09d-e053-2a95a90a2fa8",
       "teratogenic_effects": [
         "Teratogenic Effects – Pregnancy Category C Venlafaxine did not cause malformations in offspring of rats or rabbits given doses up to 2.5 times (rat) or 4 times (rabbit) the maximum recommended human daily dose on a mg/m 2 basis. However, in rats, there was a decrease in pup weight, an increase in stillborn pups, and an increase in pup deaths during the first 5 days of lactation, when dosing began during pregnancy and continued until weaning. The cause of these deaths is not known. These effects occurred at 2.5 times (mg/m 2) the maximum human daily dose. The no effect dose for rat pup mortality was 0.25 times the human dose on a mg/m 2 basis. In reproductive developmental studies in rats and rabbits with O-desmethylvenlafaxine (ODV), the major human metabolite of venlafaxine, evidence of teratogenicity was not observed at exposure margins of 13 in rats and 0.3 in rabbits. There are no adequate and well-controlled studies in pregnant women. Venlafaxine hydrochloride extended-release should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed."
       ],
@@ -95,7 +95,7 @@
       "controlled_substance": [
         "9.1 Controlled Substance Venlafaxine hydrochloride extended-release is not a controlled substance."
       ],
-      "version": "2",
+      "version": "3",
       "package_label_principal_display_panel": [
         "PRINCIPAL DISPLAY PANEL - 37.5 mg Bottle Label - 60 count pdp37.5",
         "PRINCIPAL DISPLAY PANEL - 75 mg Bottle Label - 60 count pdp75"
@@ -183,7 +183,7 @@
           "7D7RX5A8MO"
         ],
         "spl_id": [
-          "1f80aef4-3ca8-42ec-e054-00144ff8d46c"
+          "9ab35ec5-4dd6-d09d-e053-2a95a90a2fa8"
         ],
         "substance_name": [
           "VENLAFAXINE HYDROCHLORIDE"

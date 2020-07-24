@@ -3,7 +3,7 @@
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "terms": "https://open.fda.gov/terms/",
     "license": "https://open.fda.gov/license/",
-    "last_updated": "2019-12-14",
+    "last_updated": "2020-07-23",
     "results": {
       "skip": 0,
       "limit": 1,
@@ -12,7 +12,7 @@
   },
   "results": [
     {
-      "effective_time": "20190821",
+      "effective_time": "20200117",
       "drug_interactions": [
         "Drug Interactions Caution is advised if primaquine is used concomitantly with other drugs that prolong the QT interval (see PRECAUTIONS, ADVERSE REACTIONS, and OVERDOSAGE)."
       ],
@@ -35,7 +35,7 @@
         "INDICATIONS AND USAGE Primaquine phosphate is indicated for the radical cure (prevention of relapse) of vivax malaria."
       ],
       "set_id": "1bfbf4ae-81b8-4160-a00d-6322aadd4b59",
-      "id": "2db9b23d-3e40-49de-9e3b-32424574c276",
+      "id": "8c6f75c0-1e92-49c5-a711-c57307d267f1",
       "contraindications": [
         "CONTRAINDICATIONS Severe glucose-6-phosphate dehydrogenase (G6PD) deficiency (see WARNINGS). Pregnant women (see WARNINGS, Usage in Pregnancy). Primaquine phosphate is contraindicated in acutely ill patients suffering from systemic disease manifested by tendency to granulocytopenia, such as rheumatoid arthritis and lupus erythematosus. The drug is also contraindicated in patients receiving concurrently other potentially hemolytic drugs or depressants of myeloid elements of the bone marrow. Because quinacrine hydrochloride appears to potentiate the toxicity of antimalarial compounds which are structurally related to primaquine, the use of quinacrine in patients receiving primaquine is contraindicated. Similarly, primaquine should not be administered to patients who have received quinacrine recently, as toxicity is increased."
       ],
@@ -77,7 +77,7 @@
           "904170"
         ],
         "spl_id": [
-          "2db9b23d-3e40-49de-9e3b-32424574c276"
+          "8c6f75c0-1e92-49c5-a711-c57307d267f1"
         ],
         "substance_name": [
           "PRIMAQUINE PHOSPHATE"
@@ -92,7 +92,7 @@
           "NDA008316"
         ]
       },
-      "version": "14",
+      "version": "16",
       "dosage_and_administration": [
         "DOSAGE AND ADMINISTRATION Primaquine phosphate is recommended only for the radical cure of vivax malaria, the prevention of relapse in vivax malaria, or following the termination of chloroquine phosphate suppressive therapy in an area where vivax malaria is endemic. Patients suffering from an attack of vivax malaria or having parasitized red blood cells should receive a course of chloroquine phosphate, which quickly destroys the erythrocytic parasites and terminates the paroxysm. Primaquine phosphate should be administered concurrently in order to eradicate the exoerythrocytic parasites in a dosage of 1 tablet (equivalent to 15 mg base) daily for 14 days."
       ],

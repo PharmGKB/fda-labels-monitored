@@ -3,16 +3,16 @@
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "terms": "https://open.fda.gov/terms/",
     "license": "https://open.fda.gov/license/",
-    "last_updated": "2019-12-14",
+    "last_updated": "2020-07-23",
     "results": {
       "skip": 0,
       "limit": 1,
-      "total": 3
+      "total": 2
     }
   },
   "results": [
     {
-      "effective_time": "20190416",
+      "effective_time": "20191216",
       "drug_interactions": [
         "7 DRUG INTERACTIONS FLOMAX capsules 0.4 mg should not be used with strong inhibitors of CYP3A4 (e.g., ketoconazole). FLOMAX capsules should be used with caution in combination with moderate inhibitors of CYP3A4 (e.g., erythromycin), in combination with strong (e.g., paroxetine) or moderate (e.g., terbinafine) inhibitors of CYP2D6, or in patients known to be CYP2D6 poor metabolizers, particularly at a dose higher than 0.4 mg (e.g., 0.8 mg). (5.2, 7.1, 12.3) Concomitant use of PDE5 inhibitors with tamsulosin can potentially cause symptomatic hypotension (5.2, 7.3, 12.3) 7.1 Cytochrome P450 Inhibition Strong and Moderate Inhibitors of CYP3A4 or CYP2D6 Tamsulosin is extensively metabolized, mainly by CYP3A4 and CYP2D6. Concomitant treatment with ketoconazole (a strong inhibitor of CYP3A4) resulted in an increase in the Cmax and AUC of tamsulosin by a factor of 2.2 and 2.8, respectively [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)]. The effects of concomitant administration of a moderate CYP3A4 inhibitor (e.g., erythromycin) on the pharmacokinetics of FLOMAX have not been evaluated [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)]. Concomitant treatment with paroxetine (a strong inhibitor of CYP2D6) resulted in an increase in the Cmax and AUC of tamsulosin by a factor of 1.3 and 1.6, respectively [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)]. A similar increase in exposure is expected in CYP2D6 poor metabolizers (PM) as compared to extensive metabolizers (EM). Since CYP2D6 PMs cannot be readily identified and the potential for significant increase in tamsulosin exposure exists when FLOMAX 0.4 mg is coadministered with strong CYP3A4 inhibitors in CYP2D6 PMs, FLOMAX capsules 0.4 mg should not be used in combination with strong inhibitors of CYP3A4 (e.g., ketoconazole) [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)]. The effects of concomitant administration of a moderate CYP2D6 inhibitor (e.g., terbinafine) on the pharmacokinetics of FLOMAX have not been evaluated [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)]. The effects of coadministration of both a CYP3A4 and a CYP2D6 inhibitor with FLOMAX capsules have not been evaluated. However, there is a potential for significant increase in tamsulosin exposure when FLOMAX 0.4 mg is coadministered with a combination of both CYP3A4 and CYP2D6 inhibitors [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)]. Cimetidine Treatment with cimetidine resulted in a significant decrease (26%) in the clearance of tamsulosin hydrochloride, which resulted in a moderate increase in tamsulosin hydrochloride AUC (44%) [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)]. 7.2 Other Alpha Adrenergic Blocking Agents The pharmacokinetic and pharmacodynamic interactions between FLOMAX capsules and other alpha adrenergic blocking agents have not been determined; however, interactions between FLOMAX capsules and other alpha adrenergic blocking agents may be expected [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)]. 7.3 PDE5 Inhibitors Caution is advised when alpha adrenergic blocking agents including FLOMAX are coadministered with PDE5 inhibitors. Alpha-adrenergic blockers and PDE5 inhibitors are both vasodilators that can lower blood pressure. Concomitant use of these two drug classes can potentially cause symptomatic hypotension [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)]. 7.4 Warfarin A definitive drug-drug interaction study between tamsulosin hydrochloride and warfarin was not conducted. Results from limited in vitro and in vivo studies are inconclusive. Caution should be exercised with concomitant administration of warfarin and FLOMAX capsules [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)]. 7.5 Nifedipine, Atenolol, Enalapril Dosage adjustments are not necessary when FLOMAX capsules are administered concomitantly with nifedipine, atenolol, or enalapril [see Clinical Pharmacology (12.3)]. 7.6 Digoxin and Theophylline Dosage adjustments are not necessary when a FLOMAX capsule is administered concomitantly with digoxin or theophylline [see Clinical Pharmacology (12.3)]. 7.7 Furosemide FLOMAX capsules had no effect on the pharmacodynamics (excretion of electrolytes) of furosemide. While furosemide produced an 11% to 12% reduction in tamsulosin hydrochloride Cmax and AUC, these changes are expected to be clinically insignificant and do not require adjustment of the FLOMAX capsules dosage [see Clinical Pharmacology (12.3)]."
       ],
@@ -56,7 +56,7 @@
         "1 INDICATIONS AND USAGE FLOMAX (tamsulosin hydrochloride, USP) capsules are indicated for the treatment of the signs and symptoms of benign prostatic hyperplasia (BPH) [see Clinical Studies (14)]. FLOMAX capsules are not indicated for the treatment of hypertension. FLOMAX is an alpha1 adrenoceptor antagonist indicated for treatment of the signs and symptoms of benign prostatic hyperplasia (1) FLOMAX capsules are not indicated for the treatment of hypertension (1)"
       ],
       "set_id": "6771ad8e-ac92-4aec-b484-5d8350a353f8",
-      "id": "558422a9-af55-43e9-8658-e9bbb96acf3f",
+      "id": "db1b29b8-fb5c-42ff-a093-cc5001e6ad6f",
       "pediatric_use": [
         "8.4 Pediatric Use FLOMAX capsules are not indicated for use in pediatric populations. Efficacy and positive benefit/risk of tamsulosin hydrochloride was not demonstrated in two studies conducted in patients 2 years to 16 years of age with elevated detrusor leak point pressure (>40 cm H2O) associated with known neurological disorder (e.g., spina bifida). Patients in both studies were treated on a weight-based mg/kg schema (0.025 mg, 0.05 mg, 0.1 mg, 0.2 mg, or 0.4 mg tamsulosin hydrochloride) for the reduction in detrusor leak point pressure below 40 cm H2O. In a randomized, double-blind, placebo-controlled, 14-week, pharmacokinetic, safety and efficacy study in 161 patients, no statistically significant difference in the proportion of responders was observed between groups receiving tamsulosin hydrochloride and placebo. In an open-label, 12-month safety study, 87 patients were treated with tamsulosin hydrochloride. The most frequently reported adverse events (≥5%) from the pooled data of both studies were urinary tract infection, vomiting, pyrexia, headache, nasopharyngitis, cough, pharyngitis, influenza, diarrhea, abdominal pain, and constipation."
       ],
@@ -91,6 +91,9 @@
         "spl_set_id": [
           "6771ad8e-ac92-4aec-b484-5d8350a353f8"
         ],
+        "upc": [
+          "0300245837011"
+        ],
         "brand_name": [
           "FLOMAX"
         ],
@@ -105,7 +108,7 @@
           "863671"
         ],
         "spl_id": [
-          "558422a9-af55-43e9-8658-e9bbb96acf3f"
+          "db1b29b8-fb5c-42ff-a093-cc5001e6ad6f"
         ],
         "substance_name": [
           "TAMSULOSIN HYDROCHLORIDE"
@@ -120,7 +123,7 @@
           "NDA020579"
         ]
       },
-      "version": "3",
+      "version": "4",
       "dosage_and_administration": [
         "2 DOSAGE AND ADMINISTRATION FLOMAX capsules 0.4 mg once daily is recommended as the dose for the treatment of the signs and symptoms of BPH. It should be administered approximately one-half hour following the same meal each day. FLOMAX capsules should not be crushed, chewed or opened. For those patients who fail to respond to the 0.4 mg dose after 2 to 4 weeks of dosing, the dose of FLOMAX capsules can be increased to 0.8 mg once daily. FLOMAX capsules 0.4 mg should not be used in combination with strong inhibitors of CYP3A4 (e.g., ketoconazole) [see Warnings and Precautions (5.2)]. If FLOMAX capsules administration is discontinued or interrupted for several days at either the 0.4 mg or 0.8 mg dose, therapy should be started again with the 0.4 mg once-daily dose. 0.4 mg once daily taken approximately one-half hour following the same meal each day. FLOMAX capsules should not be crushed, chewed or opened. (2) Can be increased to 0.8 mg once daily for patients who fail to respond to the 0.4 mg dose after 2 to 4 weeks of dosing (2) If discontinued or interrupted for several days, therapy should start again with the 0.4 mg once-daily dose (2)"
       ],

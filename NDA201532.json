@@ -3,16 +3,16 @@
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "terms": "https://open.fda.gov/terms/",
     "license": "https://open.fda.gov/license/",
-    "last_updated": "2019-12-14",
+    "last_updated": "2020-07-23",
     "results": {
       "skip": 0,
       "limit": 1,
-      "total": 1
+      "total": 2
     }
   },
   "results": [
     {
-      "effective_time": "20171205",
+      "effective_time": "20171222",
       "drug_interactions": [
         "7 DRUG INTERACTIONS 7.1 Effects of Other Drugs on HALAVEN No drug-drug interactions are expected with CYP3A4 inhibitors, CYP3A4 inducers or P-glycoprotein (P-gp) inhibitors. Clinically meaningful differences in exposure (AUC) were not observed in patients with advanced solid tumors when HALAVEN was administered with or without ketoconazole (a strong inhibitor of CYP3A4 and a P-gp inhibitor) and when HALAVEN was administered with or without rifampin (a CYP3A4 inducer) [see Clinical Pharmacology (12.3) ]. 7.2 Effect s of HALAVEN on Other Drugs Eribulin does not inhibit CYP1A2, CYP2C9, CYP2C19, CYP2D6, CYP2E1 or CYP3A4 enzymes or induce CYP1A2, CYP2C9, CYP2C19 or CYP3A4 enzymes at relevant clinical concentrations. Eribulin is not expected to alter the plasma concentrations of drugs that are substrates of these enzymes [see Clinical Pharmacology (12.3) ]."
       ],
@@ -49,7 +49,7 @@
         "1 INDICATIONS AND USAGE HALAVEN is a microtubule inhibitor indicated for the treatment of patients with: Metastatic breast cancer who have previously received at least two chemotherapeutic regimens for the treatment of metastatic disease. Prior therapy should have included an anthracycline and a taxane in either the adjuvant or metastatic setting. (1.1) Unresectable or metastatic liposarcoma who have received a prior anthracycline-containing regimen. (1.2) 1.1 Me tastatic Breast Cancer HALAVEN is indicated for the treatment of patients with metastatic breast cancer who have previously received at least two chemotherapeutic regimens for the treatment of metastatic disease. Prior therapy should have included an anthracycline and a taxane in either the adjuvant or metastatic setting [see Clinical Studies (14.1) ]. 1.2 Liposarcoma HALAVEN is indicated for the treatment of patients with unresectable or metastatic liposarcoma who have received a prior anthracycline-containing regimen [see Clinical Studies (14.2) ]."
       ],
       "set_id": "31ce4750-ded5-4a0b-95e9-f229fa6bc822",
-      "id": "4a93c69d-df32-48ed-8c73-7f6531b154d2",
+      "id": "39d32671-bab1-4415-8a5f-a900819d607f",
       "dosage_and_administration_table": [
         "<table> <caption>Table 1: Recommended Dose Reductions</caption> <col width=\"396\"/> <col width=\"180\"/> <tbody> <tr> <td styleCode=\"Toprule Lrule Rrule \" align=\"center\"> <content styleCode=\"bold\">Event Description</content> </td> <td styleCode=\"Toprule Lrule Rrule \" align=\"center\"> <content styleCode=\"bold\">Recommended</content> <content styleCode=\"bold\"> </content> <content styleCode=\"bold\">HALAVEN</content>   <content styleCode=\"bold\">Dose</content> </td> </tr> <tr> <td styleCode=\"Toprule Lrule Rrule \"> <content styleCode=\"bold\">Permanently reduce the 1.4 mg/m</content> <content styleCode=\"bold\"> <sup>2</sup> </content> <content styleCode=\"bold\"> HALAVEN dos</content> <content styleCode=\"bold\">e for any of the</content>   <content styleCode=\"bold\">following:</content> </td> <td styleCode=\"Toprule Lrule Rrule \" align=\"center\">1.1 mg/m<sup>2</sup> </td> </tr> <tr> <td styleCode=\"Toprule Lrule Rrule \"> ANC &lt;500/mm<sup>3</sup> for &gt;7 days </td> <td styleCode=\"Lrule Rrule \" align=\"center\"/> </tr> <tr> <td styleCode=\"Toprule Lrule Rrule \"> ANC &lt;1,000 /mm<sup>3</sup> with fever or infection</td> <td styleCode=\"Lrule Rrule \"/> </tr> <tr> <td styleCode=\"Toprule Lrule Rrule \"> Platelets &lt;25,000/mm<sup>3</sup> </td> <td styleCode=\"Lrule Rrule \"/> </tr> <tr> <td styleCode=\"Toprule Lrule Rrule \"> Platelets &lt;50,000/mm<sup>3</sup> requiring transfusion</td> <td styleCode=\"Lrule Rrule \"/> </tr> <tr> <td styleCode=\"Toprule Lrule Rrule \"> Non-hematologic Grade 3 or 4 toxicities </td> <td styleCode=\"Lrule Rrule \"/> </tr> <tr> <td styleCode=\"Toprule Lrule Rrule \"> Omission or delay of Day 8 HALAVEN dose in previous cycle for toxicity</td> <td styleCode=\"Lrule Rrule \"/> </tr> <tr> <td styleCode=\"Toprule Lrule Rrule \"> <content styleCode=\"bold\">Occurrence </content>of any event requiring permanent dose reduction while receiving 1.1 mg/m<sup>2 </sup> </td> <td styleCode=\"Toprule Lrule Rrule \" align=\"center\">0.7 mg/m<sup>2</sup> </td> </tr> <tr> <td styleCode=\"Toprule Lrule Rrule \"> <content styleCode=\"bold\">Occurrence</content> of any event requiring permanent dose reduction while receiving 0.7 mg/m<sup>2 </sup> </td> <td styleCode=\"Toprule Lrule Rrule \" align=\"center\">Discontinue HALAVEN</td> </tr> <tr> <td styleCode=\"Toprule Lrule Rrule \" colspan=\"2\">ANC = absolute neutrophil count.  Toxicities graded in accordance with National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 3.0. </td> </tr> </tbody> </table>"
       ],
@@ -103,7 +103,7 @@
           "1045460"
         ],
         "spl_id": [
-          "4a93c69d-df32-48ed-8c73-7f6531b154d2"
+          "39d32671-bab1-4415-8a5f-a900819d607f"
         ],
         "substance_name": [
           "ERIBULIN MESYLATE"
@@ -118,7 +118,7 @@
           "NDA201532"
         ]
       },
-      "version": "47",
+      "version": "48",
       "dosage_and_administration": [
         "2 DOSAGE AND ADMINISTRATION Administer 1.4 mg/m2 intravenously over 2 to 5 minutes on Days 1 and 8 of a 21-day cycle. (2.1) Reduce dose in patients with hepatic impairment or with moderate or severe renal impairment. (2.1) Do not mix with other drugs or administer with dextrose-containing solutions. (2.3) 2.1 Recommended Dose The recommended dose of HALAVEN is 1.4 mg/m2 administered intravenously over 2 to 5 minutes on Days 1 and 8 of a 21-day cycle. The recommended dose of HALAVEN in patients with mild hepatic impairment (Child-Pugh A) is 1.1 mg/m2 administered intravenously over 2 to 5 minutes on Days 1 and 8 of a 21-day cycle [ see Use in Specific Populations (8.6) ]. The recommended dose of HALAVEN in patients with moderate hepatic impairment (Child-Pugh B) is 0.7 mg/m2 administered intravenously over 2 to 5 minutes on Days 1 and 8 of a 21-day cycle [ see Use in Specific Populations (8.6) ]. The recommended dose of HALAVEN in patients with moderate or severe renal impairment (creatinine clearance (CLcr) 15-49 mL/min) is 1.1 mg/m2 administered intravenously over 2 to 5 minutes on Days 1 and 8 of a 21-day cycle [ see Use in Specific Populations (8.7) ]. 2.2 Dose Modification Assess for peripheral neuropathy and obtain complete blood cell counts prior to each dose. Recommended dose delays Do not administer HALAVEN on Day 1 or Day 8 for any of the following: - ANC < 1,000/mm3 - Platelets < 75,000/mm3 - Grade 3 or 4 non-hematological toxicities. The Day 8 dose may be delayed for a maximum of 1 week. - If toxicities do not resolve or improve to ≤ Grade 2 severity by Day 15, omit the dose. - If toxicities resolve or improve to ≤ Grade 2 severity by Day 15, administer HALAVEN at a reduced dose and initiate the next cycle no sooner than 2 weeks later. Recommended dose reductions If a dose has been delayed for toxicity and toxicities have recovered to Grade 2 severity or less, resume HALAVEN at a reduced dose as set out in Table 1. Do not re-escalate HALAVEN dose after it has been reduced. Table 1: Recommended Dose Reductions Event Description Recommended HALAVEN Dose Permanently reduce the 1.4 mg/m 2 HALAVEN dos e for any of the following: 1.1 mg/m2 ANC <500/mm3 for >7 days ANC <1,000 /mm3 with fever or infection Platelets <25,000/mm3 Platelets <50,000/mm3 requiring transfusion Non-hematologic Grade 3 or 4 toxicities Omission or delay of Day 8 HALAVEN dose in previous cycle for toxicity Occurrence of any event requiring permanent dose reduction while receiving 1.1 mg/m2 0.7 mg/m2 Occurrence of any event requiring permanent dose reduction while receiving 0.7 mg/m2 Discontinue HALAVEN ANC = absolute neutrophil count. Toxicities graded in accordance with National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 3.0. 2.3 Instructions for Preparation and Administration Aseptically withdraw the required amount of HALAVEN from the single-use vial and administer undiluted or diluted in 100 mL of 0.9% Sodium Chloride Injection, USP. Do not dilute in or administer through an intravenous line containing solutions with dextrose. Do not administer in the same intravenous line concurrent with the other medicinal products. Store undiluted HALAVEN in the syringe for up to 4 hours at room temperature or for up to 24 hours under refrigeration (40°F or 4°C). Store diluted solutions of HALAVEN for up to 4 hours at room temperature or up to 24 hours under refrigeration. Discard unused portions of the vial."
       ],

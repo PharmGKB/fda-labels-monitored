@@ -3,7 +3,7 @@
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "terms": "https://open.fda.gov/terms/",
     "license": "https://open.fda.gov/license/",
-    "last_updated": "2019-12-14",
+    "last_updated": "2020-07-23",
     "results": {
       "skip": 0,
       "limit": 1,
@@ -12,7 +12,7 @@
   },
   "results": [
     {
-      "effective_time": "20190724",
+      "effective_time": "20200123",
       "drug_interactions": [
         "7 DRUG INTERACTIONS Anastrozole and letrozole: Should not be used in combination with tamoxifen. (7.1) Warfarin: Do not use in patients taking tamoxifen for DCIS and for reduction in breast cancer incidence in women at high risk. (4) Closely monitor coagulation indices for increased anticoagulant effect when used with tamoxifen for metastatic breast cancer or as adjuvant therapy. (7.2) 7.1 Aromatase Inhibitors Anastrozole The combination of anastrozole and tamoxifen did not demonstrate any benefit when compared to tamoxifen alone and should be avoided in all patients [see Clinical Studies (14.2)]. In the ATAC trial, co-administration of anastrozole and tamoxifen in breast cancer patients reduced the anastrozole plasma concentration by 27% compared to that achieved with anastrozole alone. The tamoxifen concentration was not altered [see Clinical Pharmacology (12.3)]. Letrozole The concomitant use of letrozole with tamoxifen is not recommended because the efficacy of the combination in the adjuvant treatment of breast cancer has not been established. Tamoxifen reduced the plasma concentration of letrozole by 38% when these drugs were co-administered [see Clinical Pharmacology (12.3)]. 7.2. Warfarin A marked increase in anticoagulant effect may occur when tamoxifen is used in combination with warfarin. Closely monitor coagulation indices in patients who are taking tamoxifen for either the treatment of metastatic breast cancer or as adjuvant therapy who require concomitant use of warfarin [see Contraindications (4)]. 7.3 Inducers of CYP3A4 Strong CYP3A4 inducers should not be used with tamoxifen. Strong CYP3A4 inducers (e.g., rifampin) reduce tamoxifen AUC and Cmax [see Clinical Pharmacology (12.3)]. 7.4 Strong Inhibitors of CYP2D6 The impact on the efficacy of tamoxifen with co-administration of strong CYP2D6 inhibitors (e.g., paroxetine) is not well established. Some studies have shown that the efficacy of tamoxifen may be reduced when the drugs are co-administered as a result of reduced levels of potent active metabolites of tamoxifen. However, other studies have failed to demonstrate such an effect [see Clinical Pharmacology (12.3)]. 7.5 Drug-Laboratory Test Interactions There are postmarketing reports of T4 elevations in postmenopausal patients taking tamoxifen that may be explained by increases in thyroid-binding globulin. These elevations were not accompanied by clinical hyperthyroidism. Variations in the karyopyknotic index on vaginal smears and various degrees of estrogen effect on Pap smears have been seen in postmenopausal patients taking tamoxifen."
       ],
@@ -53,7 +53,7 @@
         "1 INDICATIONS AND USAGE SOLTAMOX is an estrogen agonist/antagonist indicated: For treatment of adult patients with estrogen receptor-positive metastatic breast cancer (1.1) For adjuvant treatment of adult patients with early stage estrogen receptor- positive breast cancer (1.2) To reduce risk of invasive breast cancer following breast surgery and radiation in adult women with ductal carcinoma in situ (DCIS) (1.3) To reduce the incidence of breast cancer in adult women at high risk (1.4) 1.1 Metastatic Breast Cancer SOLTAMOX is indicated for the treatment of adult patients with estrogen receptor-positive metastatic breast cancer. 1.2 Adjuvant Treatment of Breast Cancer SOLTAMOX is indicated: for the adjuvant treatment of adult patients with early stage estrogen receptor-positive breast cancer to reduce the occurrence of contralateral breast cancer in adult patients when used as adjuvant therapy for the treatment of breast cancer. 1.3 Ductal Carcinoma in Situ In adult women with DCIS, following breast surgery and radiation, SOLTAMOX is indicated to reduce the risk of invasive breast cancer [see Boxed Warning and Clinical Studies (14.3)]. 1.4 Reduction in Breast Cancer Incidence in Women at High Risk SOLTAMOX is indicated to reduce the incidence of breast cancer in adult women at high risk for breast cancer.[see Boxed Warning and Clinical Studies (14.4)]."
       ],
       "set_id": "bd72fd53-ae0c-4080-9b7f-2d294b14cc86",
-      "id": "c28e2408-a8c9-4b75-aa82-b5cc7aa810c9",
+      "id": "892c5a33-6c1b-4e97-896f-4cae67a387e9",
       "pediatric_use": [
         "8.4 Pediatric Use The safety and effectiveness of SOLTAMOX in pediatric patients have not been established. Tamoxifen Use in McCune-Albright Syndrome The safety and effectiveness of SOLTAMOX for the treatment of girls with McCune-Albright syndrome, including long-term effects, have not been established. A single, uncontrolled multicenter trial of tamoxifen 20 mg once a day was conducted in a heterogeneous group of girls with McCune-Albright syndrome and precocious puberty manifested by physical signs of pubertal development, episodes of vaginal bleeding, and/or advanced bone age (bone age of at least 12 months beyond chronological age). Twenty-eight female pediatric patients, aged 2 to 10 years, were treated for up to 12 months. Effect of treatment on frequency of vaginal bleeding, bone age advancement, and linear growth rate was assessed relative to prestudy baseline. Tamoxifen treatment was associated with a 50% reduction in frequency of vaginal bleeding episodes by patient or family report (mean annualized frequency of 3.56 episodes at baseline and 1.73 episodes on-treatment). Among the patients who reported vaginal bleeding during the prestudy period, 62% (13 out of 21 patients) reported no bleeding for a 6-month period and 33% (7 out of 21 patients) reported no vaginal bleeding for the duration of the trial. Not all patients improved on treatment and a few patients not reporting vaginal bleeding in the 6 months prior to enrollment reported menses on treatment. Tamoxifen therapy was associated with a reduction in mean rate of increase of bone age (defined as the ratio of bone age change and chronological age); individual responses with regard to this endpoint were highly heterogeneous. Linear growth rate (height velocity) was reduced during the course of tamoxifen treatment in a majority of patients (mean change of 1.68 cm/year relative to baseline; change from 7.47 cm/year at baseline to 5.79 cm/year on study). This change was not uniformly seen across all stages of bone maturity; all recorded response failures occurred in patients with bone ages less than 7 years at screening. Mean uterine volume increased after 6 months of treatment and doubled at the end of the one-year study. A causal relationship to tamoxifen has not been established; however, as an increase in the incidence of endometrial adenocarcinoma and uterine sarcoma has been noted in adults treated with tamoxifen, continued monitoring of McCune-Albright patients treated with tamoxifen for long-term uterine effects is recommended. Pharmacokinetics in Pediatric Patients The pharmacokinetics of tamoxifen and N-desmethyl tamoxifen were characterized using a population pharmacokinetic analysis with sparse samples per patient obtained from 27 female pediatric patients aged 2 to 10 years enrolled in a study of tamoxifen in treating McCune-Albright syndrome. Clearance (CL/F), adjusted for body weight, in female pediatric patients was approximately 2.3-fold higher than in adult female breast cancer patients. In the youngest cohort of female pediatric patients (2 to 6 year olds), CL/F was 2.6-fold higher; in the oldest cohort (7 to 10.9 year olds), CL/F was approximately 1.9-fold higher. Exposure to N-desmethyl tamoxifen was comparable between the pediatric and adult patients. In pediatric patients, an average steady-state peak plasma concentration (Css, max) and AUC were 187 ng/mL and 4,110 ng hr/mL, respectively, and Css, max occurred approximately 8 hours after dosing. Animal Data Direct neonatal exposure of tamoxifen to mice and rats produced: 1) reproductive tract lesions in female rodents (similar to those seen in humans after intrauterine exposure to DES) and 2) functional defects of the reproductive tract in male rodents such as testicular atrophy and arrest of spermatogenesis."
       ],
@@ -105,7 +105,7 @@
           "Soltamox"
         ],
         "manufacturer_name": [
-          "Midatech Pharma US Inc."
+          "Fortovia Therapeutics Inc."
         ],
         "unii": [
           "7FRV7310N6"
@@ -115,7 +115,7 @@
           "644304"
         ],
         "spl_id": [
-          "c28e2408-a8c9-4b75-aa82-b5cc7aa810c9"
+          "892c5a33-6c1b-4e97-896f-4cae67a387e9"
         ],
         "substance_name": [
           "TAMOXIFEN CITRATE"
@@ -130,7 +130,7 @@
           "NDA021807"
         ]
       },
-      "version": "4",
+      "version": "5",
       "recent_major_changes_table": [
         "<table width=\"100%\" styleCode=\"Noautorules\"> <col width=\"70%\" align=\"left\" valign=\"top\"/> <col width=\"30%\" align=\"right\" valign=\"top\"/> <tbody> <tr> <td>Dosage and Administration (<linkHtml href=\"#S2\">2</linkHtml>)</td> <td>09/2018</td> </tr> <tr> <td>Warnings and Precautions, Embryo-Fetal Toxicity (<linkHtml href=\"#S5.3\">5.3</linkHtml>)</td> <td>09/2018</td> </tr> </tbody> </table>"
       ],
