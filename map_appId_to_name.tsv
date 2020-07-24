@@ -1,0 +1,296 @@
+ANDA072691.json -> Annotation of FDA Label for amoxapine and CYP2D6
+ANDA076037.json -> Annotation of FDA Label for nefazodone and CYP2D6
+ANDA084211.json -> Annotation of FDA Label for probenecid and G6PD
+ANDA086445.json -> Annotation of FDA Label for tolbutamide and G6PD
+ANDA088004.json -> Annotation of FDA Label for thioridazine and CYP2D6
+ANDA089338.json -> Annotation of FDA Label for quinidine and CYP2D6
+BLA103705.json -> Annotation of FDA Label for rituximab and MS4A1
+BLA103792.json -> Annotation of FDA Label for trastuzumab and ERBB2
+BLA103792.json -> Annotation of FDA Label for trastuzumab and ESR1,ESR2,PGR
+BLA103946.json -> Annotation of FDA Label for rasburicase and CYB5R1,CYB5R2,CYB5R3,CYB5R4
+BLA103946.json -> Annotation of FDA Label for rasburicase and G6PD
+BLA103949.json -> Annotation of FDA Label for peginterferon alfa-2b and IFNL3
+BLA125019.json -> Annotation of FDA Label for ibritumomab and MS4A1
+BLA125084.json -> Annotation of FDA Label for cetuximab and EGFR,KRAS,NRAS
+BLA125147.json -> Annotation of FDA Label for panitumumab and EGFR,KRAS,NRAS
+BLA125293.json -> Annotation of FDA Label for pegloticase and G6PD
+BLA125326.json -> Annotation of FDA Label for ofatumumab and MS4A1
+BLA125377.json -> Annotation of FDA Label for ipilimumab
+BLA125377.json -> Annotation of FDA Label for ipilimumab and HLA-A
+BLA125388.json -> Annotation of FDA Label for brentuximab vedotin and ALK
+BLA125409.json -> Annotation of FDA Label for pertuzumab and ERBB2
+BLA125409.json -> Annotation of FDA Label for pertuzumab and ESR1,ESR2,PGR
+BLA125427.json -> Annotation of FDA Label for trastuzumab emtansine and ERBB2
+BLA125460.json -> Annotation of FDA Label for elosulfase alfa and GALNS
+BLA125477.json -> Annotation of FDA Label for ramucirumab and KRAS
+BLA125486.json -> Annotation of FDA Label for afutuzumab and MS4A1
+BLA125511.json -> Annotation of FDA Label for Parathyroid Hormones And Analogues and CASR
+BLA125514.json -> Annotation of FDA Label for pembrolizumab and ALK,CD274,EGFR
+BLA125514.json -> Annotation of FDA Label for pembrolizumab and BRAF
+BLA125516.json -> Annotation of FDA Label for dinutuximab and MYCN
+BLA125522.json -> Annotation of FDA Label for evolocumab and LDLR
+BLA125554.json -> Annotation of FDA Label for nivolumab
+BLA125554.json -> Annotation of FDA Label for nivolumab and ALK,BRAF,CD274,EGFR
+BLA125557.json -> Annotation of FDA Label for blinatumomab and ABL1,BCR
+BLA761034.json -> Annotation of FDA Label for atezolizumab and ALK,CD274,EGFR
+BLA761038.json -> Annotation of FDA Label for olaratumab and PDGFRA
+BLA761040.json -> Annotation of FDA Label for inotuzumab ozogamicin and ABL1,BCR
+BLA761044.json -> Annotation of FDA Label for ustekinumab and IL12A,IL12B,IL23A
+BLA761049.json -> Annotation of FDA Label for avelumab and CD274
+BLA761052.json -> Annotation of FDA Label for cerliponase alfa and TPP1
+BLA761069.json -> Annotation of FDA Label for durvalumab and CD274
+BLA761107.json -> Annotation of FDA Label for emapalumab and PRF1,RAB27A,SH2D1A,STX11,STXBP2,UNC13D,XIAP
+BLA761128.json -> Annotation of FDA Label for Crizanlizumab-tmca
+BLA761136.json -> Annotation of FDA Label for luspatercept-aamt and HBB
+BLA761137.json -> Annotation of FDA Label for enfortumab vedotin and NECTIN4
+BLA761139.json -> Annotation of FDA Label for fam-trastuzumab deruxtecan-nxki and ERBB2
+NDA007073.json -> Annotation of FDA Label for sulfasalazine and G6PD,NAT2
+NDA008316.json -> Annotation of FDA Label for primaquine and CYB5R1,CYB5R2,CYB5R3,CYB5R4
+NDA008316.json -> Annotation of FDA Label for primaquine and G6PD
+NDA008453.json -> Annotation of FDA Label for succinylcholine and BCHE,CACNA1S,RYR1
+NDA009218.json -> Annotation of FDA Label for warfarin and CYP2C9,PROC,PROS1,VKORC1
+NDA009386.json -> Annotation of FDA Label for busulfan and ABL1,BCR
+NDA009435.json -> Annotation of FDA Label for chloroprocaine and CYB5R3,G6PD
+NDA009768.json -> Annotation of FDA Label for hydroxychloroquine and G6PD
+NDA010721.json -> Annotation of FDA Label for meclizine and CYP2D6
+NDA011792.json -> Annotation of FDA Label for carisoprodol and CYP2C19
+NDA012250.json -> Annotation of FDA Label for mepivacaine and CYB5R3,G6PD
+NDA012429.json -> Annotation of FDA Label for thioguanine and NUDT15,TPMT
+NDA013263.json -> Annotation of FDA Label for diazepam and CYP2C19
+NDA014399.json -> Annotation of FDA Label for desipramine and CYP2D6
+NDA016324.json -> Annotation of FDA Label for azathioprine and NUDT15,TPMT
+NDA016988.json -> Annotation of FDA Label for fluorouracil and DPYD
+NDA017377.json -> Annotation of FDA Label for sulfamethoxazole / trimethoprim and G6PD,NAT2
+NDA017381.json -> Annotation of FDA Label for sulfadiazine and G6PD
+NDA017624.json -> Annotation of FDA Label for isoflurane and CACNA1S,RYR1
+NDA017783.json -> Annotation of FDA Label for glipizide and G6PD
+NDA017854.json -> Annotation of FDA Label for metoclopramide and CYB5R1,CYB5R2,CYB5R3,CYB5R4,G6PD
+NDA017854.json -> Annotation of FDA Label for metoclopramide and CYP2D6
+NDA018013.json -> Annotation of FDA Label for nortriptyline and CYP2D6
+NDA018057.json -> Annotation of FDA Label for cisplatin and TPMT
+NDA018147.json -> Annotation of FDA Label for piroxicam and CYP2C9
+NDA019726.json -> Annotation of FDA Label for goserelin and ESR1,ESR2,PGR
+NDA019758.json -> Annotation of FDA Label for clozapine and CYP2D6
+NDA019790.json -> Annotation of FDA Label for isosorbide dinitrate and CYB5R1,CYB5R2,CYB5R3,CYB5R4
+NDA019832.json -> Annotation of FDA Label for mafenide and G6PD
+NDA019898.json -> Annotation of FDA Label for pravastatin and APOE
+NDA019898.json -> Annotation of FDA Label for pravastatin and LDLR
+NDA019906.json -> Annotation of FDA Label for clomipramine and CYP2D6
+NDA019962.json -> Annotation of FDA Label for metoprolol and CYP2D6
+NDA019998.json -> Annotation of FDA Label for succimer and G6PD
+NDA020051.json -> Annotation of FDA Label for glibenclamide and G6PD
+NDA020103.json -> Annotation of FDA Label for ondansetron and CYP2D6
+NDA020118.json -> Annotation of FDA Label for desflurane and CACNA1S,RYR1
+NDA020126.json -> Annotation of FDA Label for doxepin and CYP2C19,CYP2D6
+NDA020215.json -> Annotation of FDA Label for isosorbide mononitrate and CYB5R1,CYB5R2,CYB5R3,CYB5R4
+NDA020281.json -> Annotation of FDA Label for tramadol and CYP2D6
+NDA020297.json -> Annotation of FDA Label for carvedilol and CYP2D6
+NDA020406.json -> Annotation of FDA Label for lansoprazole and CYP2C19
+NDA020450.json -> Annotation of FDA Label for fosphenytoin and HLA-B
+NDA020478.json -> Annotation of FDA Label for sevoflurane and CACNA1S,RYR1
+NDA020496.json -> Annotation of FDA Label for glimepiride and G6PD
+NDA020497.json -> Annotation of FDA Label for toremifene and ESR1,ESR2
+NDA020533.json -> Annotation of FDA Label for ropivacaine and CYB5R3,G6PD
+NDA020541.json -> Annotation of FDA Label for anastrozole and ESR1,ESR2,PGR
+NDA020571.json -> Annotation of FDA Label for irinotecan and UGT1A1
+NDA020572.json -> Annotation of FDA Label for sodium phenylbutyrate and ASS1,CPS1,OTC
+NDA020579.json -> Annotation of FDA Label for tamsulosin and CYP2D6
+NDA020645.json -> Annotation of FDA Label for sodium benzoate / sodium phenylacetate and ARG1,ASL,ASS1,CPS1,NAGS,OTC
+NDA020648.json -> Annotation of FDA Label for diazepam and CYP2C19
+NDA020690.json -> Annotation of FDA Label for donepezil and CYP2D6
+NDA020699.json -> Annotation of FDA Label for venlafaxine and CYP2D6
+NDA020702.json -> Annotation of FDA Label for atorvastatin and LDLR
+NDA020717.json -> Annotation of FDA Label for modafinil and CYP2D6
+NDA020726.json -> Annotation of FDA Label for letrozole and ESR1,ESR2,PGR
+NDA020727.json -> Annotation of FDA Label for hydralazine / isosorbide dinitrate and NAT2
+NDA020753.json -> Annotation of FDA Label for exemestane and ESR1,ESR2,PGR
+NDA020771.json -> Annotation of FDA Label for tolterodine and CYP2D6
+NDA020779.json -> Annotation of FDA Label for nelfinavir and CYP2C19,CYP3A
+NDA020815.json -> Annotation of FDA Label for raloxifene and ESR1,ESR2
+NDA020822.json -> Annotation of FDA Label for citalopram and CYP2C19,CYP2D6
+NDA020839.json -> Annotation of FDA Label for clopidogrel and CYP2C19
+NDA020896.json -> Annotation of FDA Label for capecitabine and DPYD
+NDA020938.json -> Annotation of FDA Label for meloxicam and CYP2C9
+NDA020954.json -> Annotation of FDA Label for busulfan and ABL1,BCR
+NDA020972.json -> Annotation of FDA Label for efavirenz and CYP2B6
+NDA020973.json -> Annotation of FDA Label for rabeprazole and CYP2C19
+NDA020977.json -> Annotation of FDA Label for abacavir and HLA-B
+NDA020985.json -> Annotation of FDA Label for fluorouracil and DPYD
+NDA020987.json -> Annotation of FDA Label for pantoprazole and CYP2C19
+NDA020989.json -> Annotation of FDA Label for cevimeline and CYP2D6
+NDA020998.json -> Annotation of FDA Label for celecoxib and CYP2C9
+NDA021153.json -> Annotation of FDA Label for esomeprazole and CYP2C19
+NDA021168.json -> Annotation of FDA Label for divalproex sodium and POLG
+NDA021169.json -> Annotation of FDA Label for galantamine and CYP2D6
+NDA021248.json -> Annotation of FDA Label for arsenic trioxide and PML,RARA
+NDA021266.json -> Annotation of FDA Label for voriconazole and CYP2C19
+NDA021299.json -> Annotation of FDA Label for paroxetine and CYP2D6
+NDA021323.json -> Annotation of FDA Label for escitalopram and CYP2C19,CYP2D6
+NDA021344.json -> Annotation of FDA Label for fulvestrant and ESR1,ESR2,PGR
+NDA021366.json -> Annotation of FDA Label for rosuvastatin and SLCO1B1
+NDA021372.json -> Annotation of FDA Label for palonosetron and CYP2D6
+NDA021411.json -> Annotation of FDA Label for atomoxetine and CYP2D6
+NDA021416.json -> Annotation of FDA Label for propafenone and CYP2D6
+NDA021427.json -> Annotation of FDA Label for duloxetine and CYP2D6
+NDA021436.json -> Annotation of FDA Label for aripiprazole and CYP2D6
+NDA021438.json -> Annotation of FDA Label for propranolol and CYP2D6
+NDA021451.json -> Annotation of FDA Label for lidocaine / prilocaine and CYB5R3,G6PD
+NDA021513.json -> Annotation of FDA Label for darifenacin and CYP2D6
+NDA021519.json -> Annotation of FDA Label for fluvoxamine and CYP2D6
+NDA021520.json -> Annotation of FDA Label for fluoxetine / olanzapine and CYP2D6
+NDA021560.json -> Annotation of FDA Label for everolimus and ERBB2,ESR1,ESR2
+NDA021588.json -> Annotation of FDA Label for imatinib and ABL1,BCR,FIP1L1,KIT,PDGFRA,PDGFRB
+NDA021623.json -> Annotation of FDA Label for lidocaine and tetracaine and CYB5R3,G6PD
+NDA021676.json -> Annotation of FDA Label for drospirenone / ethinyl estradiol and CYP2C19
+NDA021742.json -> Annotation of FDA Label for nebivolol and CYP2D6
+NDA021743.json -> Annotation of FDA Label for erlotinib and EGFR
+NDA021794.json -> Annotation of FDA Label for dapsone and CYB5R3,G6PD
+NDA021799.json -> Annotation of FDA Label for quinine and CYP2D6,G6PD
+NDA021807.json -> Annotation of FDA Label for tamoxifen and CYP2D6
+NDA021807.json -> Annotation of FDA Label for tamoxifen and ESR1,ESR2,PGR
+NDA021807.json -> Annotation of FDA Label for tamoxifen and F2,F5
+NDA021879.json -> Annotation of FDA Label for dextromethorphan / quinidine and CYP2D6
+NDA021880.json -> Annotation of FDA Label for lenalidomide
+NDA021881.json -> Annotation of FDA Label for moviprep and G6PD
+NDA021894.json -> Annotation of FDA Label for tetrabenazine and CYP2D6
+NDA021912.json -> Annotation of FDA Label for arformoterol and CYP2D6,UGT1A1
+NDA021936.json -> Annotation of FDA Label for tiotropium and CYP2D6
+NDA021986.json -> Annotation of FDA Label for dasatinib and ABL1,BCR
+NDA021992.json -> Annotation of FDA Label for desvenlafaxine and CYP2D6
+NDA021999.json -> Annotation of FDA Label for paliperidone and CYP2D6
+NDA022007.json -> Annotation of FDA Label for formoterol and CYP2C19,CYP2D6
+NDA022030.json -> Annotation of FDA Label for fesoterodine and CYP2D6
+NDA022036.json -> Annotation of FDA Label for doxepin and CYP2C19,CYP2D6
+NDA022056.json -> Annotation of FDA Label for omeprazole and CYP2C19
+NDA022059.json -> Annotation of FDA Label for lapatinib and ERBB2,ESR1,ESR2,PGR
+NDA022059.json -> Annotation of FDA Label for lapatinib and HLA-DQA1,HLA-DRB1
+NDA022065.json -> Annotation of FDA Label for Ixabepilone and ERBB2,ESR1,ESR2,PGR
+NDA022068.json -> Annotation of FDA Label for nilotinib and ABL1,BCR
+NDA022068.json -> Annotation of FDA Label for nilotinib and UGT1A1
+NDA022145.json -> Annotation of FDA Label for raltegravir and UGT1A1
+NDA022192.json -> Annotation of FDA Label for iloperidone and CYP2D6
+NDA022234.json -> Annotation of FDA Label for docetaxel and ESR1,ESR2,PGR
+NDA022253.json -> Annotation of FDA Label for lacosamide and CYP2C19
+NDA022287.json -> Annotation of FDA Label for dexlansoprazole and CYP2C19
+NDA022291.json -> Annotation of FDA Label for eltrombopag and F5,SERPINC1
+NDA022307.json -> Annotation of FDA Label for prasugrel and CYP2B6,CYP2C19,CYP2C9,CYP3A5
+NDA022334.json -> Annotation of FDA Label for everolimus and ERBB2,ESR1,ESR2
+NDA022383.json -> Annotation of FDA Label for indacaterol and UGT1A1
+NDA022402.json -> Annotation of FDA Label for codeine and CYP2D6
+NDA022406.json -> Annotation of FDA Label for rivaroxaban and F5
+NDA022433.json -> Annotation of FDA Label for ticagrelor and CYP2C19
+NDA022465.json -> Annotation of FDA Label for pazopanib and HLA-B,UGT1A1
+NDA022466.json -> Annotation of FDA Label for articaine / epinephrine and CYB5R3,G6PD
+NDA022526.json -> Annotation of FDA Label for flibanserin and CYP2C19,CYP2C9,CYP2D6
+NDA022562.json -> Annotation of FDA Label for carglumic acid and NAGS
+NDA050791.json -> Annotation of FDA Label for mycophenolic acid and HPRT1
+NDA201292.json -> Annotation of FDA Label for afatinib and EGFR
+NDA201532.json -> Annotation of FDA Label for eribulin and ERBB2,ESR1,ESR2,PGR
+NDA202429.json -> Annotation of FDA Label for vemurafenib and BRAF
+NDA202429.json -> Annotation of FDA Label for vemurafenib and HRAS,KRAS,NRAS
+NDA202497.json -> Annotation of FDA Label for vincristine and ABL1,BCR
+NDA202570.json -> Annotation of FDA Label for crizotinib and ALK,ROS1
+NDA202611.json -> Annotation of FDA Label for mirabegron and CYP2D6
+NDA202806.json -> Annotation of FDA Label for dabrafenib and BRAF
+NDA202806.json -> Annotation of FDA Label for dabrafenib and G6PD
+NDA202806.json -> Annotation of FDA Label for dabrafenib and HRAS,KRAS,NRAS
+NDA202810.json -> Annotation of FDA Label for oxcarbazepine and HLA-B
+NDA202971.json -> Annotation of FDA Label for aripiprazole and CYP2D6
+NDA203085.json -> Annotation of FDA Label for regorafenib and EGFR,KRAS,VEGFA
+NDA203188.json -> Annotation of FDA Label for ivacaftor and CFTR
+NDA203341.json -> Annotation of FDA Label for bosutinib and ABL1,BCR
+NDA203469.json -> Annotation of FDA Label for ponatinib and ABL1,BCR
+NDA203505.json -> Annotation of FDA Label for ospemifene and CYP2B6,CYP2C9
+NDA203585.json -> Annotation of FDA Label for homoharringtonine and ABL1,BCR
+NDA203756.json -> Annotation of FDA Label for cabozantinib and RET
+NDA203858.json -> Annotation of FDA Label for lomitapide and LDLR
+NDA203922.json -> Annotation of FDA Label for sodium nitrite and CYB5R3,G6PD
+NDA204114.json -> Annotation of FDA Label for trametinib and BRAF
+NDA204114.json -> Annotation of FDA Label for trametinib and G6PD
+NDA204114.json -> Annotation of FDA Label for trametinib and HRAS,KRAS,NRAS
+NDA204325.json -> Annotation of FDA Label for amphetamine and CYP2D6
+NDA204370.json -> Annotation of FDA Label for cariprazine and CYP2D6
+NDA204447.json -> Annotation of FDA Label for vortioxetine and CYP2D6
+NDA204630.json -> Annotation of FDA Label for methylene blue and G6PD
+NDA204671.json -> Annotation of FDA Label for sofosbuvir and IFNL3
+NDA204790.json -> Annotation of FDA Label for dolutegravir and UGT1A1
+NDA205382.json -> Annotation of FDA Label for umeclidinium and CYP2D6
+NDA205422.json -> Annotation of FDA Label for brexpiprazole and CYP2D6
+NDA205494.json -> Annotation of FDA Label for eliglustat and CYP2D6
+NDA205525.json -> Annotation of FDA Label for dronabinol and CYP2C9
+NDA205750.json -> Annotation of FDA Label for cholic acid and AKR1D1,AMACR,CYP27A1,CYP7A1,DHCR7,HSD3B7
+NDA205834.json -> Annotation of FDA Label for ledipasvir / sofosbuvir and IFNL3
+NDA205836.json -> Annotation of FDA Label for brivaracetam and CYP2C19
+NDA205919.json -> Annotation of FDA Label for mercaptopurine and NUDT15,TPMT
+NDA206192.json -> Annotation of FDA Label for cobimetinib and BRAF
+NDA206256.json -> Annotation of FDA Label for belinostat and UGT1A1
+NDA206488.json -> Annotation of FDA Label for eteplirsen and DMD
+NDA206619.json -> Annotation of FDA Label for dasabuvir / ombitasvir / paritaprevir / ritonavir and IFNL3
+NDA206947.json -> Annotation of FDA Label for lenvatinib
+NDA206995.json -> Annotation of FDA Label for gefitinib and CYP2D6
+NDA206995.json -> Annotation of FDA Label for gefitinib and EGFR
+NDA207103.json -> Annotation of FDA Label for palbociclib and ERBB2,ESR1,ESR2
+NDA207233.json -> Annotation of FDA Label for meloxicam and CYP2C9
+NDA207533.json -> Annotation of FDA Label for aripiprazole lauroxil and CYP2D6
+NDA207793.json -> Annotation of FDA Label for irinotecan and UGT1A1
+NDA207988.json -> Annotation of FDA Label for lesinurad and CYP2C9
+NDA207997.json -> Annotation of FDA Label for midostaurin and FLT3
+NDA207997.json -> Annotation of FDA Label for midostaurin and KIT,NPM1
+NDA208051.json -> Annotation of FDA Label for neratinib and ERBB2
+NDA208051.json -> Annotation of FDA Label for neratinib and ESR1,ESR2,PGR
+NDA208065.json -> Annotation of FDA Label for osimertinib and EGFR
+NDA208078.json -> Annotation of FDA Label for amifampridine phosphate and NAT2
+NDA208082.json -> Annotation of FDA Label for deutetrabenazine and CYP2D6
+NDA208261.json -> Annotation of FDA Label for elbasvir / grazoprevir and IFNL3
+NDA208341.json -> Annotation of FDA Label for sofosbuvir / velpatasvir and IFNL3
+NDA208434.json -> Annotation of FDA Label for alectinib and ALK
+NDA208447.json -> Annotation of FDA Label for niraparib and BRCA1,BRCA2
+NDA208558.json -> Annotation of FDA Label for olaparib and BRCA1,BRCA2,ERBB2
+NDA208558.json -> Annotation of FDA Label for olaparib and ESR1,ESR2,PGR
+NDA208573.json -> Annotation of FDA Label for venetoclax and FLT3,IDH1,IDH2,NPM1,TP53
+NDA208623.json -> Annotation of FDA Label for migalastat and GLA
+NDA208692.json -> Annotation of FDA Label for cabozantinib and RET
+NDA208716.json -> Annotation of FDA Label for abemaciclib and ERBB2,ESR1,ESR2,PGR
+NDA208772.json -> Annotation of FDA Label for brigatinib and ALK
+NDA208791.json -> Annotation of FDA Label for chloroprocaine and CYB5R3,G6PD
+NDA209092.json -> Annotation of FDA Label for ribociclib and ERBB2,ESR1,ESR2,PGR
+NDA209115.json -> Annotation of FDA Label for rucaparib and BRCA1,BRCA2
+NDA209115.json -> Annotation of FDA Label for rucaparib and CYP1A2,CYP2D6
+NDA209195.json -> Annotation of FDA Label for sofosbuvir / velpatasvir / voxilaprevir and IFNL3
+NDA209229.json -> Annotation of FDA Label for lofexidine and CYP2D6
+NDA209241.json -> Annotation of FDA Label for valbenazine and CYP2D6
+NDA209321.json -> Annotation of FDA Label for amifampridine and NAT2
+NDA209531.json -> Annotation of FDA Label for nusinersen and SMN2
+NDA209606.json -> Annotation of FDA Label for enasidenib and IDH2
+NDA209830.json -> Annotation of FDA Label for aripiprazole lauroxil and CYP2D6
+NDA209884.json -> Annotation of FDA Label for siponimod and CYP2C9
+NDA210238.json -> Annotation of FDA Label for avatrombopag and F2,F5,PROC,PROS1,SERPINC1
+NDA210450.json -> Annotation of FDA Label for elagolix and SLCO1B1
+NDA210491.json -> Annotation of FDA Label for ivacaftor / tezacaftor and CFTR
+NDA210496.json -> Annotation of FDA Label for encorafenib and BRAF
+NDA210498.json -> Annotation of FDA Label for binimetinib and BRAF
+NDA210498.json -> Annotation of FDA Label for binimetinib and UGT1A1
+NDA210607.json -> Annotation of FDA Label for tafenoquine and G6PD
+NDA210655.json -> Annotation of FDA Label for risperidone and CYP2D6
+NDA210861.json -> Annotation of FDA Label for larotrectinib sulfate and NTRK1,NTRK2,NTRK3
+NDA210868.json -> Annotation of FDA Label for lorlatinib and ALK
+NDA210868.json -> Annotation of FDA Label for lorlatinib and ROS1
+NDA210923.json -> Annotation of FDA Label for lusutrombopag and F2,F5,PROC,PROS1,SERPINC1
+NDA211150.json -> Annotation of FDA Label for pitolisant and CYP2D6
+NDA211155.json -> Annotation of FDA Label for duvelisib
+NDA211172.json -> Annotation of FDA Label for inotersen and TTR
+NDA211192.json -> Annotation of FDA Label for ivosidenib and IDH1
+NDA211210.json -> Annotation of FDA Label for meloxicam and CYP2C9
+NDA211288.json -> Annotation of FDA Label for dacomitinib and EGFR
+NDA211349.json -> Annotation of FDA Label for gilteritinib and FLT3
+NDA211651.json -> Annotation of FDA Label for talazoparib and BRCA1,BRCA2
+NDA211651.json -> Annotation of FDA Label for talazoparib and ERBB2
+NDA211675.json -> Annotation of FDA Label for upadacitinib and CYP2D6
+NDA211970.json -> Annotation of FDA Label for Golodirsen and DMD
+NDA211996.json -> Annotation of FDA Label for tafamidis and TTR
+NDA212018.json -> Annotation of FDA Label for erdafitinib and CYP2C9
+NDA212018.json -> Annotation of FDA Label for erdafitinib and FGFR2,FGFR3
+NDA212194.json -> Annotation of FDA Label for givosiran and CPOX,HMBS,PPOX
+NDA212273.json -> Annotation of FDA Label for elexacaftor / tezacaftor / ivacaftor and CFTR
+NDA212725.json -> Annotation of FDA Label for entrectinib and NTRK1,NTRK2,NTRK3,ROS1
+NDA213137.json -> Annotation of FDA Label for voxelotor and HBB
