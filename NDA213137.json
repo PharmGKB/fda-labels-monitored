@@ -11,7 +11,7 @@
   },
   "results": [
     {
-      "effective_time": "20191203",
+      "effective_time": "20200730",
       "drug_interactions": [
         "7 DRUG INTERACTIONSSensitive CYP3A4 Substrates: Avoid co-administration of sensitive CYP3A4 substrates with a narrow therapeutic index (7.2).Strong CYP3A4 Inhibitors or Fluconazole: Avoid co-administration with strong CYP3A4 inhibitors or fluconazole. If unavoidable, reduce the dose of OXBRYTA (2.3, 7.1).Strong or Moderate CYP3A4 Inducers: Avoid co-administration with strong or moderate CYP3A4 inducers. If unavoidable, increase the dose of OXBRYTA (2.3, 7.1).7.1 Effect of Other Drugs on VoxelotorStrong CYP3A4 Inhibitors or FluconazoleCo-administration of strong CYP3A4 inhibitors or fluconazole may increase voxelotor plasma concentrations and may lead to increased toxicity.Avoid co-administration of OXBRYTA with strong CYP3A4 inhibitors or fluconazole and replace these drugs with alternative drugs when possible [see Clinical Pharmacology (12.3)]. Decrease the OXBRYTA dosage when co-administration with a strong CYP3A4 inhibitor or fluconazole is unavoidable [see Dosage and Administration (2.3)].Strong or Moderate CYP3A4 InducersCo-administration of strong or moderate CYP3A4 inducers may decrease voxelotor plasma concentrations and may lead to reduced efficacy.Avoid co-administration of OXBRYTA with strong or moderate CYP3A4 inducers. Increase the OXBRYTA dosage when co-administration with a strong or moderate CYP3A4 inducer is unavoidable [see Dosage and Administration (2.3)].7.2 Effect of Voxelotor on Other DrugsVoxelotor increased the systemic exposure of midazolam (a sensitive CYP3A4 substrate) [see Clinical Pharmacology (12.3)]. Avoid co-administration of OXBRYTA with sensitive CYP3A4 substrates with a narrow therapeutic index. If concomitant use is unavoidable, consider dose reduction of the sensitive CYP3A4 substrate(s).7.3 Laboratory Test InterferenceOXBRYTA administration may interfere with measurement of Hb subtypes (HbA, HbS, and HbF) by HPLC [see Warnings and Precautions (5.2)]. If precise quantitation of Hb species is required, chromatography should be performed when the patient is not receiving OXBRYTA therapy."
       ],
@@ -56,7 +56,7 @@
         "1 INDICATIONS AND USAGEOXBRYTA is indicated for the treatment of sickle cell disease (SCD) in adults and pediatric patients 12 years of age and older.This indication is approved under accelerated approval based on increase in hemoglobin (Hb) [see Clinical Studies (14)]. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trial(s).OXBRYTA is a hemoglobin S polymerization inhibitor indicated for the treatment of sickle cell disease in adults and pediatric patients 12 years of age and older.This indication is approved under accelerated approval based on increase in hemoglobin (Hb). Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trial(s) (1)."
       ],
       "set_id": "3c557fac-29ec-483f-b691-8a935d4decc3",
-      "id": "c4048d0b-cb90-43d8-bd67-ac1b0f8d4720",
+      "id": "29c55c86-5fb9-4e4d-aa8c-f8521f71ddac",
       "dosage_and_administration_table": [
         "<table width=\"75%\"><caption>Table 1: OXBRYTA Recommended Dosage for Concomitant Medications</caption><col width=\"50%\" align=\"center\" valign=\"middle\"/><col width=\"50%\" align=\"center\" valign=\"middle\"/><thead><tr><th styleCode=\"Lrule Rrule\">Concomitant Medication</th><th styleCode=\"Rrule\">Recommended OXBRYTA Dosage</th></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Strong CYP3A4 inhibitors or fluconazole</td><td styleCode=\"Rrule\">1,000 mg once daily</td></tr><tr><td styleCode=\"Lrule Rrule\">Strong or moderate CYP3A4 inducers</td><td styleCode=\"Rrule\">2,500 mg once daily</td></tr></tbody></table>"
       ],
@@ -104,7 +104,7 @@
           "3ZO554A4Q8"
         ],
         "spl_id": [
-          "c4048d0b-cb90-43d8-bd67-ac1b0f8d4720"
+          "29c55c86-5fb9-4e4d-aa8c-f8521f71ddac"
         ],
         "substance_name": [
           "VOXELOTOR"
@@ -119,7 +119,7 @@
           "NDA213137"
         ]
       },
-      "version": "2",
+      "version": "3",
       "dosage_and_administration": [
         "2 DOSAGE AND ADMINISTRATIONRecommended dosage: 1,500 mg orally once daily with or without food (2.1).Recommended dosage for severe hepatic impairment: 1,000 mg orally once daily in patients with severe hepatic impairment (Child Pugh C) (2.2).2.1 Recommended Dosage for Sickle Cell DiseaseThe recommended dosage of OXBRYTA is 1,500 mg taken orally once daily with or without food. If a dose is missed, continue dosing on the day following the missed dose.Patients should swallow OXBRYTA tablets whole. Do not cut, crush, or chew the tablets.OXBRYTA may be given with or without hydroxyurea.2.2 Recommended Dosage for Hepatic ImpairmentThe recommended dosage of OXBRYTA in patients with severe hepatic impairment (Child Pugh C) is 1,000 mg taken once daily with or without food. No dosage adjustment of OXBRYTA is required for patients with mild or moderate hepatic impairment [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].2.3 Recommended Dosage of OXBRYTA When Used with Concomitant Moderate or Strong Inducers, Strong Inhibitors of CYP3A4, or FluconazoleAvoid concomitant use of strong or moderate CYP3A4 inducers, strong CYP3A4 inhibitors, or fluconazole with OXBRYTA [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)]. If concomitant use of strong or moderate CYP3A4 inducers, strong CYP3A4 inhibitors, or fluconazole is unavoidable, adjust the OXBRYTA dosage as recommended in Table 1.Table 1: OXBRYTA Recommended Dosage for Concomitant MedicationsConcomitant MedicationRecommended OXBRYTA DosageStrong CYP3A4 inhibitors or fluconazole1,000 mg once dailyStrong or moderate CYP3A4 inducers2,500 mg once daily"
       ],
