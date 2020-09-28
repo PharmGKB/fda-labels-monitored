@@ -11,7 +11,7 @@
   },
   "results": [
     {
-      "effective_time": "20200403",
+      "effective_time": "20200921",
       "drug_interactions": [
         "7 DRUG INTERACTIONS Opioids: Decreased exposure to clopidogrel. Consider use of parenteral antiplatelet agent. ( 7.2 ) Nonsteroidal anti-inflammatory drugs (NSAIDs), warfarin, selective serotonin and serotonin norepinephrine reuptake inhibitors (SSRIs, SNRIs): Increases risk of bleeding. ( 7.3 , 7.4 , 7.5 ) Repaglinide (CYP2C8 substrates): Increases substrate plasma concentrations. ( 7.6 ) 7.1 CYP2C19 Inhibitors Clopidogrel is metabolized to its active metabolite in part by CYP2C19. Concomitant use of drugs that inhibit the activity of this enzyme results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition [see Warnings and Precautions (5.1) ] . Omeprazole or Esomeprazole Avoid concomitant use of Plavix with omeprazole or esomeprazole. In clinical studies, omeprazole was shown to reduce significantly the antiplatelet activity of Plavix when given concomitantly or 12 hours apart. A similar reduction in antiplatelet activity was observed with esomeprazole when given concomitantly with Plavix. Dexlansoprazole, lansoprazole, and pantoprazole had less effect on the antiplatelet activity of Plavix than did omeprazole or esomeprazole [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3) ]. 7.2 Opioids As with other oral P2Y 12 inhibitors, coadministration of opioid agonists delay and reduce the absorption of clopidogrel, presumably because of slowed gastric emptying, resulting in reduced exposure to its metabolites [see Clinical Pharmacology (12.3) ] . Consider the use of a parenteral antiplatelet agent in acute coronary syndrome patients requiring coadministration of morphine or other opioid agonists. 7.3 Nonsteroidal Anti-inflammatory Drugs (NSAIDs) Coadministration of Plavix and NSAIDs increases the risk of gastrointestinal bleeding. 7.4 Warfarin (CYP2C9 Substrates) Although the administration of clopidogrel 75 mg per day did not modify the pharmacokinetics of S-warfarin (a CYP2C9 substrate) or INR in patients receiving long-term warfarin therapy, coadministration of Plavix with warfarin increases the risk of bleeding because of independent effects on hemostasis. However, at high concentrations in vitro , clopidogrel inhibits CYP2C9. 7.5 SSRIs and SNRIs Since selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) affect platelet activation, the concomitant administration of SSRIs and SNRIs with clopidogrel may increase the risk of bleeding. 7.6 Repaglinide (CYP2C8 Substrates) The acyl-β-glucuronide metabolite of clopidogrel is a strong inhibitor of CYP2C8. Plavix can increase the systemic exposure to drugs that are primarily cleared by CYP2C8, thereby needing dose adjustment and appropriate monitoring. Plavix increased repaglinide exposures by 3.9-fold to 5.1-fold [see Clinical Pharmacology (12.3) ] . Avoid concomitant use of repaglinide with Plavix. If concomitant use cannot be avoided, initiate repaglinide at 0.5 mg before each meal and do not exceed a total daily dose of 4 mg. Increased frequency of glucose monitoring may be required during concomitant use."
       ],
@@ -53,7 +53,7 @@
         "1 INDICATIONS AND USAGE Plavix is a P2Y 12 platelet inhibitor indicated for: Acute coronary syndrome – For patients with non–ST-segment elevation ACS (unstable angina [UA]/non–ST-elevation myocardial infarction [NSTEMI]), Plavix has been shown to reduce the rate of myocardial infarction (MI) and stroke. ( 1.1 ) – For patients with ST-elevation myocardial infarction (STEMI), Plavix has been shown to reduce the rate of MI and stroke. ( 1.1 ) Recent MI, recent stroke, or established peripheral arterial disease. Plavix has been shown to reduce the rate of MI and stroke. ( 1.2 ) 1.1 Acute Coronary Syndrome (ACS) Plavix is indicated to reduce the rate of myocardial infarction (MI) and stroke in patients with non–ST-segment elevation ACS (unstable angina [UA]/non–ST-elevation myocardial infarction [NSTEMI]), including patients who are to be managed medically and those who are to be managed with coronary revascularization. Plavix should be administered in conjunction with aspirin. Plavix is indicated to reduce the rate of myocardial infarction and stroke in patients with acute ST-elevation myocardial infarction (STEMI) who are to be managed medically. Plavix should be administered in conjunction with aspirin. 1.2 Recent MI, Recent Stroke, or Established Peripheral Arterial Disease In patients with established peripheral arterial disease or with a history of recent myocardial infarction (MI) or recent stroke Plavix is indicated to reduce the rate of MI and stroke."
       ],
       "set_id": "01b14603-8f29-4fa3-8d7e-9d523f802e0b",
-      "id": "94cbc44f-0574-4127-86ff-d9b39932f480",
+      "id": "12eb3088-f30b-4bb5-aee0-113114b5a08c",
       "pediatric_use": [
         "8.4 Pediatric Use Safety and effectiveness in pediatric populations have not been established. A randomized, placebo-controlled trial (CLARINET) did not demonstrate a clinical benefit of clopidogrel in neonates and infants with cyanotic congenital heart disease palliated with a systemic-to-pulmonary arterial shunt. Possible factors contributing to this outcome were the dose of clopidogrel, the concomitant administration of aspirin, and the late initiation of therapy following shunt palliation. It cannot be ruled out that a trial with a different design would demonstrate a clinical benefit in this patient population."
       ],
@@ -111,7 +111,7 @@
           "08I79HTP27"
         ],
         "spl_id": [
-          "94cbc44f-0574-4127-86ff-d9b39932f480"
+          "12eb3088-f30b-4bb5-aee0-113114b5a08c"
         ],
         "substance_name": [
           "CLOPIDOGREL BISULFATE"
@@ -126,7 +126,7 @@
           "NDA020839"
         ]
       },
-      "version": "32",
+      "version": "33",
       "dosage_and_administration": [
         "2 DOSAGE AND ADMINISTRATION Acute coronary syndrome ( 2.1 ) – Initiate Plavix with a single 300 mg oral loading dose and then continue at 75 mg once daily. – Initiating Plavix without a loading dose will delay establishment of an antiplatelet effect by several days. Recent MI, recent stroke, or established peripheral arterial disease: 75 mg once daily orally without a loading dose. ( 2.2 ) 2.1 Acute Coronary Syndrome In patients who need an antiplatelet effect within hours, initiate Plavix with a single 300 mg oral loading dose and then continue at 75 mg once daily. Initiating Plavix without a loading dose will delay establishment of an antiplatelet effect by several days [see Clinical Pharmacology (12.3) and Clinical Studies (14.1) ] . 2.2 Recent MI, Recent Stroke, or Established Peripheral Arterial Disease 75 mg once daily orally without a loading dose [see Clinical Pharmacology (12.3) and Clinical Studies (14.2) ] ."
       ],
