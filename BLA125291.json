@@ -94,6 +94,10 @@
         "substance_name": [
           "ALGLUCOSIDASE ALFA"
         ],
+        "rxcui": [
+          "629568",
+          "993072"
+        ],
         "spl_id": [
           "00f8e613-9d69-41c2-a6e0-a036a9a82516"
         ],

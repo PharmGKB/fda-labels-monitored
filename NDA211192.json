@@ -105,6 +105,10 @@
         "substance_name": [
           "IVOSIDENIB"
         ],
+        "rxcui": [
+          "2049878",
+          "2049884"
+        ],
         "spl_id": [
           "f0c7542e-1187-4a5a-b592-65cc0dbd249e"
         ],

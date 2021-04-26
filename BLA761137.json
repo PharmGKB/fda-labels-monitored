@@ -108,6 +108,12 @@
         "substance_name": [
           "ENFORTUMAB VEDOTIN"
         ],
+        "rxcui": [
+          "2268311",
+          "2268315",
+          "2268317",
+          "2268319"
+        ],
         "spl_id": [
           "a0bd515f-bd40-44fe-a659-6fde4795c93d"
         ],
