@@ -11,7 +11,7 @@
   },
   "results": [
     {
-      "effective_time": "20210331",
+      "effective_time": "20190206",
       "recent_major_changes": [
         "Indications and Usage ( 1 ) 02/2021 Dosage and Administration ( 2.1 , 2.3 ) 02/2021 Dosage and Administration ( 2.2 ) 05/2020 Contraindications ( 4 ) 02/2021 Warnings and Precautions ( 5.1 ) 02/2021"
       ],
@@ -96,7 +96,7 @@
         "<table><col width=\"36\"/><col width=\"0\"/><col width=\"630\"/><tbody><tr><td styleCode=\"Toprule Lrule Rrule \" colspan=\"2\"><content styleCode=\"bold\">4 </content><content styleCode=\"bold\">B</content></td><td styleCode=\"Toprule Lrule Rrule \">Check the injection site.</td></tr><tr><td styleCode=\"Toprule Lrule \"/><td styleCode=\"Toprule Rrule \" colspan=\"2\">If there is blood, press a cotton ball or gauze pad on your injection site. Apply an adhesive bandage if needed.</td></tr><tr><td styleCode=\"Lrule \"/><td styleCode=\"Rrule \" colspan=\"2\"><content styleCode=\"bold\">Do not </content>rub the injection site.</td></tr></tbody></table>"
       ],
       "set_id": "709338ae-ab8f-44a9-b7d5-abaabec3493a",
-      "id": "02a067d5-ee1b-4d79-aea5-d0e843246a64",
+      "id": "e69093d8-6437-4f02-b23a-91c8d85b7828",
       "pediatric_use": [
         "8.4 Pediatric Use The safety and effectiveness of REPATHA in combination with diet and other LDL-C-lowering therapies for the treatment of HoFH have been established in pediatric patients aged 13 years and older. Use of REPATHA for this indication is supported by evidence from adequate and well-controlled trials in adults and pediatric patients aged 13 years and older with HoFH (including 7 pediatric patients treated with REPATHA) and an open-label study in 14 pediatric patients aged 13 years and older with HoFH (including 7 patients not previously treated with REPATHA) [see Adverse Reactions (6.1) and Clinical Studies (14) ]. The safety and effectiveness of REPATHA have not been established in pediatric patients with HoFH who are younger than 13 years old or in pediatric patients with primary hyperlipidemia."
       ],
@@ -143,16 +143,8 @@
         "substance_name": [
           "EVOLOCUMAB"
         ],
-        "rxcui": [
-          "1665895",
-          "1665900",
-          "1665904",
-          "1665906",
-          "1801319",
-          "1801322"
-        ],
         "spl_id": [
-          "02a067d5-ee1b-4d79-aea5-d0e843246a64"
+          "e69093d8-6437-4f02-b23a-91c8d85b7828"
         ],
         "spl_set_id": [
           "709338ae-ab8f-44a9-b7d5-abaabec3493a"
@@ -188,7 +180,7 @@
       "recent_major_changes_table": [
         "<table width=\"100%\" styleCode=\"Noautorules\"><col width=\"85%\" align=\"left\" valign=\"bottom\"/><col width=\"15%\" align=\"right\" valign=\"bottom\"/><tbody><tr><td>Indications and Usage (<linkHtml href=\"#S1\">1</linkHtml>)</td><td>02/2021</td></tr><tr><td>Dosage and Administration (<linkHtml href=\"#S2.1\">2.1</linkHtml>, <linkHtml href=\"#S2.3\">2.3</linkHtml>)</td><td>02/2021</td></tr><tr><td>Dosage and Administration (<linkHtml href=\"#S2.2\">2.2</linkHtml>)</td><td>05/2020</td></tr><tr><td>Contraindications (<linkHtml href=\"#S4\">4</linkHtml>)</td><td>02/2021</td></tr><tr><td>Warnings and Precautions (<linkHtml href=\"#S5.1\">5.1</linkHtml>)</td><td>02/2021</td></tr></tbody></table>"
       ],
-      "version": "32",
+      "version": "33",
       "dosage_and_administration": [
         "2 DOSAGE AND ADMINISTRATION In adults with established CVD or with primary hyperlipidemia : The recommended dosage of REPATHA is either 140 mg every 2 weeks OR 420 mg once monthly administered subcutaneously. ( 2.1 ) If switching dosage regimens, administer the first dose of the new regimen on the next scheduled date of the prior regimen. ( 2.1 ) In patients with HoFH : The initial recommended dosage of REPATHA is 420 mg once monthly administered subcutaneously. ( 2.1 ) The dosage can be increased to 420 mg every 2 weeks if a clinically meaningful response is not achieved in 12 weeks. ( 2.1 ) Patients on lipid apheresis may initiate treatment with 420 mg every 2 weeks to correspond with their apheresis schedule. Administer REPATHA after the apheresis session is complete. ( 2.1 ) Assess LDL-C when clinically appropriate. The LDL-lowering effect of REPATHA may be measured as early as 4 weeks after initiation. ( 2.1 ) Advise latex-sensitive patients that the needle cover of the glass single-dose prefilled syringe and the single-dose prefilled autoinjector contain dry natural rubber, a derivative of latex. ( 2.3 ) Administer REPATHA subcutaneously into areas of the abdomen, thigh, or upper arm. Rotate injection sites for each administration. ( 2.3 ) See Full Prescribing Information for important administration instructions. ( 2.3 ) 2.1 Recommended Dosage In adults with established cardiovascular disease or with primary hyperlipidemia: The recommended dosage of REPATHA is either 140 mg every 2 weeks OR 420 mg once monthly administered subcutaneously [see Dosage and Administration (2.3) ]. If switching dosage regimens, administer the first dose of the new regimen on the next scheduled date of the prior regimen. In patients with HoFH: The initial recommended dosage of REPATHA is 420 mg once monthly administered subcutaneously [see Dosage and Administration (2.3) ]. The dosage can be increased to 420 mg every 2 weeks if a clinically meaningful response is not achieved in 12 weeks. Patients on lipid apheresis may initiate treatment with 420 mg every 2 weeks to correspond with their apheresis schedule. Administer REPATHA after the apheresis session is complete. Assess LDL-C when clinically appropriate. The LDL-lowering effect of REPATHA may be measured as early as 4 weeks after initiation. When monitoring LDL-C for patients receiving REPATHA 420 mg once monthly, note that LDL-C can vary during the dosing interval in some patients; recommend measuring LDL-C just prior to the next scheduled dose [see Clinical Studies (14) ] . 2.2 Missed Doses If a dose is missed: Within 7 days from the missed dose, instruct the patient to administer REPATHA and resume the patient's original schedule. More than 7 days after the missed dose: For an every 2-week dose, instruct the patient to wait until the next dose on the original schedule. For a once-monthly dose, instruct the patient to administer the dose and start a new schedule based on this date. 2.3 Important Administration Instructions Advise latex-sensitive patients that the needle cover of the glass single-dose prefilled syringe and the single-dose prefilled autoinjector contain dry natural rubber (a derivative of latex) that may cause allergic reactions in individuals sensitive to latex [see Warnings and Precautions (5.1) ] . Train patients and/or caregivers on how to prepare and administer REPATHA, according to the Instructions for Use and instruct them to read and follow the Instructions for Use each time they use REPATHA. Prior to use, allow REPATHA to warm to room temperature for at least 30 minutes for the prefilled autoinjector or syringe and for at least 45 minutes for the on-body infusor with prefilled cartridge if REPATHA has been refrigerated [see How Supplied/Storage and Handling (16) ] . Visually inspect REPATHA prior to administration. REPATHA is a clear to opalescent, colorless to pale yellow solution. Do not use if the solution is cloudy, discolored, or contains particles. Administer REPATHA subcutaneously into areas of the abdomen, thigh, or upper arm that are not tender, bruised, red, or indurated. Avoid injecting into areas with scars or stretch marks. Rotate injection sites for each administration. The 420 mg dose of REPATHA can be administered: over 5 minutes by using the single-dose on-body infusor with prefilled cartridge, or by giving 3 injections consecutively within 30 minutes using the single-dose prefilled autoinjector or single-dose prefilled syringe."
       ],
