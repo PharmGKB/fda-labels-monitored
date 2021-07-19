@@ -11,7 +11,7 @@
   },
   "results": [
     {
-      "effective_time": "20210305",
+      "effective_time": "20210714",
       "drug_interactions": [
         "7 DRUG INTERACTIONS Opioids: Decreased exposure to prasugrel. Consider use of parenteral antiplatelet agent ( 7.3 ). 7.1 Warfarin Coadministration of Effient and warfarin increases the risk of bleeding [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3) ] . 7.2 Nonsteroidal Anti-Inflammatory Drugs Coadministration of Effient and NSAIDs (used chronically) may increase the risk of bleeding [see Warnings and Precautions (5.1) ] . 7.3 Opioids As with other oral P2Y 12 inhibitors, coadministration of opioid agonists delay and reduce the absorption of prasugrel's active metabolite presumably because of slowed gastric emptying [see Clinical Pharmacology (12.3) ] . Consider the use of a parenteral anti-platelet agent in acute coronary syndrome patients requiring coadministration of morphine or other opioid agonists. 7.4 Other Concomitant Medications Effient can be administered with drugs that are inducers or inhibitors of cytochrome P450 enzymes [see Clinical Pharmacology (12.3) ] . Effient can be administered with aspirin (75 mg to 325 mg per day), heparin, GPIIb/IIIa inhibitors, statins, digoxin, and drugs that elevate gastric pH, including proton pump inhibitors and H 2 blockers [see Clinical Pharmacology (12.3) ] ."
       ],
@@ -56,7 +56,7 @@
         "1 INDICATIONS AND USAGE Effient is a P2Y 12 platelet inhibitor indicated for the reduction of thrombotic cardiovascular events (including stent thrombosis) in patients with acute coronary syndrome who are to be managed with percutaneous coronary intervention (PCI) as follows: Patients with unstable angina or non-ST-elevation myocardial infarction (NSTEMI) ( 1.1 ). Patients with ST-elevation myocardial infarction (STEMI) when managed with either primary or delayed PCI ( 1.1 ). 1.1 Acute Coronary Syndrome Effient ® is indicated to reduce the rate of thrombotic CV events (including stent thrombosis) in patients with acute coronary syndrome (ACS) who are to be managed with percutaneous coronary intervention (PCI) as follows: Patients with unstable angina (UA) or non-ST-elevation myocardial infarction (NSTEMI). Patients with ST-elevation myocardial infarction (STEMI) when managed with primary or delayed PCI. Effient has been shown to reduce the rate of a combined endpoint of cardiovascular death, nonfatal myocardial infarction (MI), or nonfatal stroke compared to clopidogrel. The difference between treatments was driven predominantly by MI, with no difference on strokes and little difference on CV death [see Clinical Studies (14) ] ."
       ],
       "set_id": "6d790690-dc3f-4ab4-83e9-0ebff6c18d61",
-      "id": "cb80c323-f6df-40a2-9eb1-c1b6ceb65e77",
+      "id": "3789ea07-fd49-482a-bcdb-493179905966",
       "pediatric_use": [
         "8.4 Pediatric Use Safety and effectiveness in pediatric patients have not been established. In a randomized, placebo-controlled trial, the primary objective of reducing the rate of vaso-occlusive crisis (painful crisis or acute chest syndrome) in pediatric patients, aged 2 to less than 18 years, with sickle cell anemia was not met."
       ],
@@ -95,7 +95,7 @@
           "PRASUGREL HYDROCHLORIDE"
         ],
         "manufacturer_name": [
-          "Daiichi Sankyo Inc."
+          "Daiichi Sankyo, Inc."
         ],
         "product_ndc": [
           "65597-601",
@@ -110,14 +110,8 @@
         "substance_name": [
           "PRASUGREL HYDROCHLORIDE"
         ],
-        "rxcui": [
-          "855812",
-          "855816",
-          "855818",
-          "855820"
-        ],
         "spl_id": [
-          "cb80c323-f6df-40a2-9eb1-c1b6ceb65e77"
+          "3789ea07-fd49-482a-bcdb-493179905966"
         ],
         "spl_set_id": [
           "6d790690-dc3f-4ab4-83e9-0ebff6c18d61"
@@ -137,7 +131,7 @@
           "G89JQ59I13"
         ]
       },
-      "version": "2",
+      "version": "3",
       "dosage_and_administration": [
         "2 DOSAGE AND ADMINISTRATION Initiate Effient treatment as a single 60 mg oral loading dose and then continue at 10 mg orally once daily. Patients taking Effient should also take aspirin (75 mg to 325 mg) daily [see Drug Interactions (7.4) and Clinical Pharmacology (12.3) ] . Effient may be administered with or without food [see Clinical Pharmacology (12.3) and Clinical Studies (14) ] . Initiate treatment with a single 60 mg oral loading dose ( 2 ). Continue at 10 mg once daily with or without food. Consider 5 mg once daily for patients <60 kg ( 2 ). Patients should also take aspirin (75 mg to 325 mg) daily ( 2 ). Timing of Loading Dose In the clinical trial that established the efficacy and safety of Effient, the loading dose of Effient was not administered until coronary anatomy was established in UA/NSTEMI patients and in STEMI patients presenting more than 12 hours after symptom onset. In STEMI patients presenting within 12 hours of symptom onset, the loading dose of Effient was administered at the time of diagnosis, although most received Effient at the time of PCI [see Clinical Studies (14) ] . For the small fraction of patients that required urgent CABG after treatment with Effient, the risk of significant bleeding was substantial. Although it is generally recommended that antiplatelet therapy be administered promptly in the management of ACS because many cardiovascular events occur within hours of initial presentation, in a trial of 4033 NSTEMI patients, no clear benefit was observed when Effient loading dose was administered prior to diagnostic coronary angiography compared to at the time of PCI; however, risk of bleeding was increased with early administration in patients undergoing PCI or early CABG. Dosing in Low Weight Patients Compared to patients weighing ≥60 kg, patients weighing <60 kg have an increased exposure to the active metabolite of prasugrel and an increased risk of bleeding on a 10 mg once daily maintenance dose. Consider lowering the maintenance dose to 5 mg in patients <60 kg. The effectiveness and safety of the 5 mg dose have not been prospectively studied [see Warnings and Precautions (5.1) , Adverse Reactions (6.1) , and Clinical Pharmacology (12.3) ] ."
       ],

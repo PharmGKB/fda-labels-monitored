@@ -11,7 +11,7 @@
   },
   "results": [
     {
-      "effective_time": "20210128",
+      "effective_time": "20210713",
       "recent_major_changes": [
         "Boxed Warning 4/2020 Warnings and Precautions, Embryo-Fetal Toxicity ( 5.1 ) 4/2020 Warnings and Precautions, Lymphoma and Other Malignancies ( 5.3 ) 4/2020 Warnings and Precautions, Immunizations ( 5.8 ) 4/2020 Warnings and Precautions, Blood Donation ( 5.10 ) 4/2020 Warnings and Precautions, Semen Donation ( 5.11 ) 4/2020"
       ],
@@ -58,7 +58,7 @@
         "1 INDICATIONS AND USAGE Myfortic is an antimetabolite immunosuppressant indicated for prophylaxis of organ rejection in adult patients receiving kidney transplants and in pediatric patients at least 5 years of age and older who are at least 6 months post kidney transplant. ( 1.1 ) Use in combination with cyclosporine and corticosteroids. ( 1.1 ) Limitations of Use: Myfortic delayed release tablets and mycophenolate mofetil tablets and capsules should not be used interchangeably. ( 1.2 ) 1.1 Prophylaxis of Organ Rejection in Kidney Transplant Myfortic ® (mycophenolic acid) is indicated for the prophylaxis of organ rejection in adult patients receiving a kidney transplant. Myfortic is indicated for the prophylaxis of organ rejection in pediatric patients 5 years of age and older who are at least 6 months post kidney transplant. Myfortic is to be used in combination with cyclosporine and corticosteroids. 1.2 Limitations of Use Myfortic delayed-release tablets and mycophenolate mofetil (MMF) tablets and capsules should not be used interchangeably without physician supervision because the rate of absorption following the administration of these two products is not equivalent."
       ],
       "set_id": "eed26501-890d-4ff6-88e7-6dbea4726e53",
-      "id": "2c98d83e-c559-4652-8345-a3577649f203",
+      "id": "5ef667e7-00ef-493a-aefc-387ccdadca37",
       "pediatric_use": [
         "8.4 Pediatric Use The safety and effectiveness of Myfortic have been established in pediatric kidney transplant patients 5 to 16 years of age who were initiated on Myfortic at least 6 months post-transplant. Use of Myfortic in this age group is supported by evidence from adequate and well-controlled studies of Myfortic in a similar population of adult kidney transplant patients with additional pharmacokinetic data in pediatric kidney transplant patients [see Dosage and Administration (2.2, 2.3), Clinical Pharmacology (12.3)] . Pediatric doses for patients with BSA <1.19 m 2 cannot be accurately administered using currently available formulations of Myfortic tablets. The safety and effectiveness of Myfortic in de novo pediatric kidney transplant patients and in pediatric kidney transplant patients below the age of 5 years have not been established."
       ],
@@ -109,7 +109,7 @@
           "MYCOPHENOLATE SODIUM"
         ],
         "spl_id": [
-          "2c98d83e-c559-4652-8345-a3577649f203"
+          "5ef667e7-00ef-493a-aefc-387ccdadca37"
         ],
         "spl_set_id": [
           "eed26501-890d-4ff6-88e7-6dbea4726e53"
@@ -128,7 +128,7 @@
       "recent_major_changes_table": [
         "<table width=\"100%\"><col width=\"90%\"/><col width=\"10%\"/><tbody><tr><td><paragraph>Boxed Warning</paragraph></td><td align=\"center\"><paragraph>4/2020</paragraph></td></tr><tr><td><paragraph>Warnings and Precautions, Embryo-Fetal Toxicity (<linkHtml href=\"#s5p1\">5.1</linkHtml>)</paragraph></td><td align=\"center\"><paragraph>4/2020</paragraph></td></tr><tr><td><paragraph>Warnings and Precautions, Lymphoma and Other Malignancies (<linkHtml href=\"#s5p3\">5.3</linkHtml>)</paragraph></td><td align=\"center\"><paragraph>4/2020</paragraph></td></tr><tr><td><paragraph>Warnings and Precautions, Immunizations (<linkHtml href=\"#s5p8\">5.8</linkHtml>)</paragraph></td><td align=\"center\"><paragraph>4/2020</paragraph></td></tr><tr><td><paragraph>Warnings and Precautions, Blood Donation (<linkHtml href=\"#s5p10\">5.10</linkHtml>)</paragraph></td><td align=\"center\"><paragraph>4/2020</paragraph></td></tr><tr><td><paragraph>Warnings and Precautions, Semen Donation (<linkHtml href=\"#s5p11\">5.11</linkHtml>)</paragraph></td><td align=\"center\"><paragraph>4/2020</paragraph></td></tr></tbody></table>"
       ],
-      "version": "26",
+      "version": "27",
       "dosage_and_administration": [
         "2 DOSAGE AND ADMINISTRATION In adults: 720 mg by mouth, twice daily (1440 mg total daily dose) on an empty stomach, 1 hour before or 2 hours after food intake. ( 2.1 ) In children: 5 years of age and older (who are at least 6 months post kidney transplant), 400 mg/m 2 by mouth, twice daily (up to a maximum of 720 mg twice daily). ( 2.2 ) Do not crush, chew, or cut tablet prior to ingestion. ( 2.3 ) 2.1 Dosage in Adult Kidney Transplant Patients The recommended dose of Myfortic is 720 mg administered twice daily (1440 mg total daily dose). 2.2 Dosage in Pediatric Kidney Transplant Patients The recommended dose of Myfortic in conversion (at least 6 months post-transplant) pediatric patients age 5 years and older is 400 mg/m 2 body surface area (BSA) administered twice daily (up to a maximum dose of 720 mg administered twice daily). 2.3 Administration Myfortic tablets should be taken on an empty stomach, 1 hour before or 2 hours after food intake [ see Clinical Pharmacology (12.3) ]. Myfortic tablets should not be crushed, chewed, or cut prior to ingesting. The tablets should be swallowed whole in order to maintain the integrity of the enteric coating. Pediatric patients with a BSA of 1.19 m 2 to 1.58 m 2 may be dosed either with three Myfortic 180 mg tablets, or one 180 mg tablet plus one 360 mg tablet twice daily (1080 mg daily dose). Patients with a BSA of >1.58 m 2 may be dosed either with four Myfortic 180 mg tablets, or two Myfortic 360 mg tablets twice daily (1440 mg daily dose). Pediatric doses for patients with BSA <1.19 m 2 cannot be accurately administered using currently available formulations of Myfortic tablets."
       ],
