@@ -6,12 +6,12 @@
     "results": {
       "skip": 0,
       "limit": 1,
-      "total": 3
+      "total": 9
     }
   },
   "results": [
     {
-      "effective_time": "20200814",
+      "effective_time": "20210628",
       "drug_interactions": [
         "7 DRUG INTERACTIONS Coadministration of meclizine hydrochloride with other CNS depressants, including alcohol, may result in increased CNS depression ( 7.1 ). CYP2D6 inhibitors: As meclizine is metabolized by CYP2D6, there is a potential for drug-drug interactions between meclizine hydrochloride and CYP2D6 inhibitors ( 7.2 ). 7.1 CNS Depressants There may be increased CNS depression when meclizine hydrochloride is administered concurrently with other CNS depressants, including alcohol [see Warnings and Precautions (5.1) ] . 7.2 CYP2D6 Inhibitors Based on in-vitro evaluation, meclizine is metabolized by CYP2D6. Therefore, there is a possibility for a drug interaction between meclizine hydrochloride and CYP2D6 inhibitors. Therefore, monitor for adverse reactions and clinical effect accordingly."
       ],
@@ -22,7 +22,7 @@
         "12.2 Pharmacodynamics There are no relevant pharmacodynamic data regarding meclizine."
       ],
       "description": [
-        "11 DESCRIPTION Meclizine hydrochloride, a histamine (H1) receptor antagonist, is a white or slightly yellowish, crystalline powder. It has the following structural formula: Chemically, meclizine hydrochloride is 1-(p-chloro-α-phenylbenzyl)-4-(m-methylbenzyl) piperazine dihydrochloride monohydrate. Tablets Inactive ingredients for the tablets are: corn starch; dibasic calcium phosphate; magnesium stearate; polyethylene glycol; sucrose. The 12.5 mg tablets also contain: FD&C Blue # 1. The 25 mg tablets also contain: FD&C Yellow # 6 and D&C Yellow # 10. The 50 mg tablets also contain: FD&C Blue # 1, FD&C Yellow # 6 and D&C Yellow # 10. Each meclizine hydrochloride 12.5 mg tablet contains 12.5 mg of meclizine dihydrochloride equivalent to 10.53 mg of meclizine free base. Each meclizine hydrochloride 25 mg tablet contains 25 mg of meclizine dihydrochloride equivalent to 21.07 mg of meclizine free base. Each meclizine hydrochloride 50 mg tablet contains 50 mg of meclizine dihydrochloride equivalent to 42.14 mg of meclizine free base. Chewable Tablets Inactive ingredients for the chewable tablets are: corn starch, colloidal silicon dioxide, FD&C Red # 40, lactose monohydrate, magnesium stearate, raspberry flavor, saccharin sodium, and talc. Each meclizine hydrochloride 25 mg chewable tablet contains 25 mg of meclizine dihydrochloride equivalent to 21.07 mg of meclizine free base. struct-1"
+        "11 DESCRIPTION Meclizine hydrochloride, a histamine (H1) receptor antagonist, is a white or slightly yellowish, crystalline powder. It has the following structural formula: Chemically, meclizine hydrochloride is 1-(p-chloro-α-phenylbenzyl)-4-(m-methylbenzyl) piperazine dihydrochloride monohydrate. Tablets Inactive ingredients for the tablets are: corn starch; dibasic calcium phosphate; magnesium stearate; polyethylene glycol; sucrose. The 12.5 mg tablets also contain: FD&C Blue # 1. The 25 mg tablets also contain: FD&C Yellow # 6 and D&C Yellow # 10. The 50 mg tablets also contain: FD&C Blue # 1, FD&C Yellow # 6 and D&C Yellow # 10. Each meclizine hydrochloride 12.5 mg tablet contains 12.5 mg of meclizine dihydrochloride equivalent to 10.53 mg of meclizine free base. Each meclizine hydrochloride 25 mg tablet contains 25 mg of meclizine dihydrochloride equivalent to 21.07 mg of meclizine free base. Each meclizine hydrochloride 50 mg tablet contains 50 mg of meclizine dihydrochloride equivalent to 42.14 mg of meclizine free base. Chewable Tablets Inactive ingredients for the chewable tablets are: corn starch, colloidal silicon dioxide, FD&C Red # 40, lactose monohydrate, magnesium stearate, raspberry flavor, saccharin sodium, and talc. Each meclizine hydrochloride 25 mg chewable tablet contains 25 mg of meclizine dihydrochloride equivalent to 21.07 mg of meclizine free base."
       ],
       "nonclinical_toxicology": [
         "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Carcinogenesis Animal studies to assess the carcinogenic potential of meclizine have not been conducted. Mutagenesis Genetic toxicology studies of meclizine have not been conducted. Impairment of Fertility Animal studies to assess the effects of meclizine on fertility and early embryonic development have not been conducted."
@@ -39,8 +39,8 @@
       "indications_and_usage": [
         "1 INDICATIONS AND USAGE Meclizine hydrochloride is indicated for the treatment of vertigo associated with diseases affecting the vestibular system in adults. Meclizine hydrochloride is indicated for the treatment of vertigo associated with diseases affecting the vestibular system in adults."
       ],
-      "set_id": "14b6ef66-c47a-4fa6-a238-5a3568e356e8",
-      "id": "bce6ddf3-867c-44f9-82c3-6c52b597d262",
+      "set_id": "112103bc-25e2-42cf-8542-ba1d3392a2c3",
+      "id": "bb375ae6-e833-41e2-9eb6-e99b714f43e6",
       "pediatric_use": [
         "8.4 Pediatric Use Safety and effectiveness in pediatric patients have not been established."
       ],
@@ -51,48 +51,26 @@
         "8.1 Pregnancy Risk Summary Data from epidemiological studies have not generally indicated a drug-associated risk of major birth defects with meclizine during pregnancy. However, in a published study, an increased incidence of fetal malformations was observed following oral administration of meclizine to pregnant rats during the period of organogenesis, at doses similar to those used clinically. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively. The background risk of major birth defects and miscarriage for the indicated population is unknown. Data Human Data Epidemiological studies reporting on pregnancies exposed to meclizine have not identified an association between the use of meclizine during pregnancy and an increased risk of major birth defects. Animal Data In a published study, oral administration of meclizine (25-250 mg/kg) to pregnant rats during the period of organogenesis resulted in a high incidence of fetal malformations. These effects occurred at doses as low as 25 mg/kg, which is approximately 2 times the maximum recommended human dose (100 mg) on a body surface area (mg/m2) basis."
       ],
       "spl_product_data_elements": [
-        "Meclizine Hydrochloride Meclizine Hydrochloride MECLIZINE HYDROCHLORIDE MECLIZINE STARCH, CORN SUCROSE WATER POLYETHYLENE GLYCOL, UNSPECIFIED MAGNESIUM STEARATE ANHYDROUS DIBASIC CALCIUM PHOSPHATE FD&C YELLOW NO. 6 D&C YELLOW NO. 10 FD&C BLUE NO. 1 ALCOHOL Pale Blue to Yellow Biconvex, two layered tablet 50;L Meclizine Hydrochloride Meclizine Hydrochloride MECLIZINE HYDROCHLORIDE MECLIZINE STARCH, CORN SILICON DIOXIDE FD&C RED NO. 40 LACTOSE MONOHYDRATE MAGNESIUM STEARATE RASPBERRY SACCHARIN SODIUM TALC M;25"
+        "Meclizine Hydrochloride Meclizine Hydrochloride MECLIZINE HYDROCHLORIDE MECLIZINE STARCH, CORN SUCROSE WATER POLYETHYLENE GLYCOL, UNSPECIFIED MAGNESIUM STEARATE FD&C BLUE NO. 1 ALCOHOL ANHYDROUS DIBASIC CALCIUM PHOSPHATE Pale Blue to White Biconvex, two layered tablet 34;L struct-1"
       ],
       "warnings_and_cautions": [
         "5 WARNINGS AND PRECAUTIONS May cause drowsiness: Use caution when driving a car or operating dangerous machinery ( 5.1 ). Potential anticholinergic action: this drug should be prescribed with care to patients with a history of asthma, glaucoma, or enlargement of the prostate gland ( 5.2 ). 5.1 Drowsiness Since drowsiness may occur with use of meclizine hydrochloride, patients should be warned of this possibility and cautioned against driving a car or operating dangerous machinery. Patients should avoid alcoholic beverages while taking meclizine hydrochloride [see Drug Interactions (7.1) ] . 5.2 Concurrent Medical Conditions Because of its potential anticholinergic action, meclizine hydrochloride should be used with caution in patients with asthma, glaucoma, or enlargement of the prostate gland."
       ],
       "openfda": {
-        "product_ndc": [
-          "74074-003",
-          "74074-004"
-        ],
-        "is_original_packager": [
-          true
-        ],
-        "package_ndc": [
-          "74074-003-01",
-          "74074-003-99",
-          "74074-004-01"
-        ],
-        "generic_name": [
-          "MECLIZINE HYDROCHLORIDE"
-        ],
-        "spl_set_id": [
-          "14b6ef66-c47a-4fa6-a238-5a3568e356e8"
-        ],
-        "upc": [
-          "0374074003015",
-          "0374074004012"
+        "application_number": [
+          "NDA010721"
         ],
         "brand_name": [
           "Meclizine Hydrochloride"
         ],
-        "manufacturer_name": [
-          "Nortic Pharma, LLC"
-        ],
-        "unii": [
-          "HDP7W44CIO"
-        ],
-        "spl_id": [
-          "bce6ddf3-867c-44f9-82c3-6c52b597d262"
-        ],
-        "substance_name": [
+        "generic_name": [
           "MECLIZINE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Bryant Ranch Prepack"
+        ],
+        "product_ndc": [
+          "71335-1872"
         ],
         "product_type": [
           "HUMAN PRESCRIPTION DRUG"
@@ -100,28 +78,49 @@
         "route": [
           "ORAL"
         ],
-        "application_number": [
-          "NDA010721"
+        "substance_name": [
+          "MECLIZINE HYDROCHLORIDE"
+        ],
+        "spl_id": [
+          "bb375ae6-e833-41e2-9eb6-e99b714f43e6"
+        ],
+        "spl_set_id": [
+          "112103bc-25e2-42cf-8542-ba1d3392a2c3"
+        ],
+        "package_ndc": [
+          "71335-1872-1",
+          "71335-1872-2",
+          "71335-1872-3",
+          "71335-1872-4",
+          "71335-1872-5",
+          "71335-1872-6",
+          "71335-1872-7"
+        ],
+        "original_packager_product_ndc": [
+          "16571-660"
+        ],
+        "unii": [
+          "HDP7W44CIO"
         ]
       },
-      "version": "2",
+      "version": "100",
       "dosage_and_administration": [
         "2 DOSAGE AND ADMINISTRATION Recommended dosage: 25 mg to 100 mg daily, in divided doses ( 2.1 ). Tablets: Swallow whole ( 2.2 ). Chewable Tablets: Must be chewed or crushed before swallowing; do not swallow whole ( 2.2 ). 2.1 Recommended Dosage The recommended dosage is 25 mg to 100 mg daily administered orally, in divided doses, depending upon clinical response. 2.2 Administration Instructions Tablets Meclizine hydrochloride tablets must be swallowed whole. Chewable Tablets Meclizine hydrochloride chewable tablets must be chewed or crushed completely before swallowing. Do not swallow chewable tablets whole."
       ],
       "adverse_reactions": [
-        "6 ADVERSE REACTIONS The following adverse reactions associated with the use of meclizine hydrochloride were identified in clinical studies or postmarketing reports. Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Anaphylactic reaction, drowsiness, dry mouth, headache, fatigue, and vomiting. On rare occasions blurred vision has been reported. Common adverse reactions are anaphylactic reaction, drowsiness, dry mouth, headache, fatigue, and vomiting. On rare occasions blurred vision has been reported ( 6 ). To report SUSPECTED ADVERSE REACTIONS, contact Casper Pharma LLC at 1-844-522-7737 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+        "6 ADVERSE REACTIONS The following adverse reactions associated with the use of meclizine hydrochloride were identified in clinical studies or postmarketing reports. Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Anaphylactic reaction, drowsiness, dry mouth, headache, fatigue, and vomiting. On rare occasions blurred vision has been reported. Common adverse reactions are anaphylactic reaction, drowsiness, dry mouth, headache, fatigue, and vomiting. On rare occasions blurred vision has been reported ( 6 ). To report SUSPECTED ADVERSE REACTIONS, contact Rising Pharmaceuticals, Inc. at 1-866-562-4597 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
       ],
       "use_in_specific_populations": [
         "8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Risk Summary Data from epidemiological studies have not generally indicated a drug-associated risk of major birth defects with meclizine during pregnancy. However, in a published study, an increased incidence of fetal malformations was observed following oral administration of meclizine to pregnant rats during the period of organogenesis, at doses similar to those used clinically. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively. The background risk of major birth defects and miscarriage for the indicated population is unknown. Data Human Data Epidemiological studies reporting on pregnancies exposed to meclizine have not identified an association between the use of meclizine during pregnancy and an increased risk of major birth defects. Animal Data In a published study, oral administration of meclizine (25-250 mg/kg) to pregnant rats during the period of organogenesis resulted in a high incidence of fetal malformations. These effects occurred at doses as low as 25 mg/kg, which is approximately 2 times the maximum recommended human dose (100 mg) on a body surface area (mg/m2) basis. 8.2 Lactation Risk Summary There are no data on the presence of meclizine in human milk, the effects on the breastfed infant, or the effects on milk production. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for meclizine hydrochloride and any potential adverse effects on the breastfed infant from meclizine hydrochloride or from the underlying maternal condition. 8.4 Pediatric Use Safety and effectiveness in pediatric patients have not been established. 8.5 Geriatric Use In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy. 8.6 Hepatic Impairment The effect of hepatic impairment on the pharmacokinetics of meclizine has not been evaluated. As meclizine hydrochloride undergoes metabolism, hepatic impairment may result in increased systemic exposure of meclizine. Treatment with meclizine hydrochloride should be administered with caution in patients with hepatic impairment. 8.7 Renal Impairment The effect of renal impairment on the pharmacokinetics of meclizine has not been evaluated. Because of a potential for drug/metabolite accumulation, meclizine hydrochloride should be administered with caution in patients with renal impairment and in the elderly, as renal function generally declines with age. 8.8 Genetic CYP2D6 Polymorphism The genetic polymorphism of CYP2D6 that results in poor-, intermediate-, extensive-, and ultrarapid metabolizer phenotypes could contribute to large inter-individual variability in meclizine exposure. Therefore, when meclizine hydrochloride is administered to patients with CYP2D6 polymorphism, monitor for adverse reactions and clinical effect accordingly."
       ],
       "how_supplied": [
-        "16 HOW SUPPLIED/STORAGE AND HANDLING 16.1 How Supplied Tablets Meclizine hydrochloride 12.5 mg tablets are oval shaped, biconvex, two-layered tablet, one blue to pale blue layer debossed with “34” and one white to off white layer debossed with “L”. Bottles of 100 NDC 74074-001-01 Bottles of 500 NDC 74074-001-05 Meclizine hydrochloride 25 mg tablets are oval shaped, biconvex, two-layered tablet, one yellow to pale yellow layer debossed with “49” and one white to off white layer debossed with “L”. Bottles of 100 NDC 74074-002-01 Bottles of 1000 NDC 74074-002-99 Meclizine hydrochloride 50 mg tablets are oval shaped, biconvex, two-layered tablet, one blue to pale blue layer debossed with “50” and one yellow to pale yellow layer and debossed with “L”. Bottles of 100 NDC 74074-003-01 Bottles of 1000 NDC 74074-003-99 Chewable Tablets Meclizine hydrochloride 25 mg chewable tablets are pink colored round tablets debossed with “M 25” on one side and break line on other side. Bottles of 100 NDC 74074-004-01 16.2 Storage and Handling Store at 20 o C to 25 o C (68 o F to 77 o F) [See USP Controlled Room Temperature]. Dispense in a tight, light-resistant container (USP)."
+        "16 HOW SUPPLIED/STORAGE AND HANDLING NDC: 71335-1872-1: 30 Tablets in a BOTTLE NDC: 71335-1872-2: 60 Tablets in a BOTTLE NDC: 71335-1872-3: 90 Tablets in a BOTTLE NDC: 71335-1872-4: 28 Tablets in a BOTTLE NDC: 71335-1872-5: 20 Tablets in a BOTTLE NDC: 71335-1872-6: 120 Tablets in a BOTTLE NDC: 71335-1872-7: 100 Tablets in a BOTTLE"
       ],
       "information_for_patients": [
-        "17 PATIENT COUNSELING INFORMATION Administration Instructions Advise patients that the tablets must be swallowed whole, but chewable tablets must be chewed or crushed completely before swallowing [see Dosage and Administration (2.1) ] . Adverse Reactions Advise patients that meclizine hydrochloride may cause anaphylactic reaction, drowsiness, dry mouth, headache, fatigue, vomiting and, on rare occasions, blurred vision [see Warnings and Precautions (5.1) , Adverse Reactions (6) ] . Inform patients that meclizine hydrochloride may impair their ability to engage in potentially dangerous activities, such as operating machinery or vehicles. Concomitant Drug Interactions Advise patients regarding medications that should not be taken in combination with meclizine hydrochloride or that may necessitate increased monitoring [see Drug Interactions (7.1, 7.2) ] . Inform patients that alcohol may increase adverse reactions. Concurrent Medical Conditions Advise patients to notify their healthcare provider about all of their medical conditions, including if they are pregnant or plan to become pregnant or if they are breastfeeding [see Warnings and Precautions (5.2) , Use in Specific Populations (8.1, 8.2) ] . PIN00399-00 Distributed by: Nortic Pharma, LLC East Brunswick, NJ 08816 Issued: 05/2020"
+        "17 PATIENT COUNSELING INFORMATION Administration Instructions Advise patients that the tablets must be swallowed whole, but chewable tablets must be chewed or crushed completely before swallowing [see Dosage and Administration (2.1) ] . Adverse Reactions Advise patients that meclizine hydrochloride may cause anaphylactic reaction, drowsiness, dry mouth, headache, fatigue, vomiting and, on rare occasions, blurred vision [see Warnings and Precautions (5.1) , Adverse Reactions (6) ] . Inform patients that meclizine hydrochloride may impair their ability to engage in potentially dangerous activities, such as operating machinery or vehicles. Concomitant Drug Interactions Advise patients regarding medications that should not be taken in combination with meclizine hydrochloride or that may necessitate increased monitoring [see Drug Interactions (7.1, 7.2) ] . Inform patients that alcohol may increase adverse reactions. Concurrent Medical Conditions Advise patients to notify their healthcare provider about all of their medical conditions, including if they are pregnant or plan to become pregnant or if they are breastfeeding [see Warnings and Precautions (5.2) , Use in Specific Populations (8.1, 8.2) ] . PIA66201-00 Distributed by: Rising Pharmaceuticals, Inc. Saddle Brook, NJ 07663 Issued: 08/2019"
       ],
       "package_label_principal_display_panel": [
-        "PACKAGE LABEL.PRINCIPAL DISPLAY PANEL NDC 74074-003-01 Meclizine Hydrochloride Tablets, USP 50 mg Rx Only Container Label NDC 74074-004-01 Meclizine Hydrochloride Chewable Tablets 25 mg Rx Only Container Label meclizine-50-mg meclizine-25-mg-chew"
+        "Meclizine Hcl 12.5mg Tablet Label"
       ],
       "clinical_pharmacology": [
         "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action The precise mechanism by which meclizine exerts its therapeutic effect is unknown but is presumed to involve antagonism of the histamine H1 receptor. 12.2 Pharmacodynamics There are no relevant pharmacodynamic data regarding meclizine. 12.3 Pharmacokinetics The available pharmacokinetic information for meclizine following oral administration has been summarized from published literature. Absorption Meclizine is absorbed after oral administration with maximum plasma concentrations reaching at a median T max value of 3 hours post-dose (range: 1.5 to 6 hours) for the tablet dosage form. Distribution Drug distribution characteristics for meclizine in humans are unknown. Elimination Meclizine has a plasma elimination half-life of about 5-6 hours in humans. Metabolism In an in vitro metabolic study using human hepatic microsome and recombinant CYP enzyme, CYP2D6 was found to be the dominant enzyme for metabolism of meclizine."

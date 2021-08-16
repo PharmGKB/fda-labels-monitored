@@ -11,7 +11,7 @@
   },
   "results": [
     {
-      "effective_time": "20201221",
+      "effective_time": "20210803",
       "drug_interactions": [
         "7 DRUG INTERACTIONS Potential for other drugs to affect tezacaftor/ivacaftor CYP3A inhibitors: Reduce SYMDEKO dose when co-administered with strong (e.g., ketoconazole) or moderate (e.g., fluconazole) CYP3A inhibitors. Avoid food containing grapefruit. ( 2.4 , 7.2 , 12.3 ) 7.1 Inducers of CYP3A Tezacaftor and ivacaftor are substrates of CYP3A (ivacaftor is a sensitive substrate of CYP3A). Concomitant use of CYP3A inducers may result in reduced exposures and thus reduced SYMDEKO efficacy. Co-administration of ivacaftor with rifampin, a strong CYP3A inducer, significantly decreased ivacaftor exposure (area under the curve [AUC]) by 89%. Tezacaftor exposures can also be expected to decrease significantly during co-administration with strong CYP3A inducers. Therefore, co-administration of SYMDEKO with strong CYP3A inducers is not recommended [see Warnings and Precautions (5.2) , Clinical Pharmacology (12.3) , and Patient Counseling Information (17) ] . Examples of strong CYP3A inducers include: rifampin, rifabutin, phenobarbital, carbamazepine, phenytoin, and St. John's wort (Hypericum perforatum) 7.2 Inhibitors of CYP3A Co-administration with itraconazole, a strong CYP3A inhibitor, increased tezacaftor exposure (AUC) by 4.0-fold and ivacaftor by 15.6-fold. When co-administered with strong CYP3A inhibitors, the dosing regimen of SYMDEKO should be adjusted [see Dosage and Administration (2.4) , Clinical Pharmacology (12.3) , and Patient Counseling Information (17) ] . Examples of strong CYP3A inhibitors include: ketoconazole, itraconazole, posaconazole, and voriconazole telithromycin and clarithromycin Co-administration of fluconazole increased ivacaftor exposure (AUC) by 3.0-fold. Simulation suggested co-administration with fluconazole, a moderate CYP3A inhibitor, may increase tezacaftor exposure (AUC) by approximately 2.0-fold. When co-administered with moderate CYP3A inhibitors, the dosing regimen of SYMDEKO should be adjusted [see Dosage and Administration (2.4) , Clinical Pharmacology (12.3) , and Patient Counseling Information (17) ] . Examples of moderate CYP3A inhibitors include: fluconazole erythromycin Co-administration of SYMDEKO with grapefruit juice, which contains one or more components that moderately inhibit CYP3A, may increase exposure of tezacaftor and ivacaftor; therefore, food or drink containing grapefruit should be avoided during treatment with SYMDEKO [see Dosage and Administration (2.4) , Clinical Pharmacology (12.3) , and Patient Counseling Information (17) ] . 7.3 Ciprofloxacin Co-administration of SYMDEKO with ciprofloxacin had no significant effect on the exposure of tezacaftor or ivacaftor. Therefore, no dose adjustment is necessary during concomitant administration of SYMDEKO with ciprofloxacin [see Clinical Pharmacology (12.3) ] . Potential for tezacaftor/ivacaftor to affect other drugs 7.4 CYP3A Substrates Co-administration of SYMDEKO with midazolam (oral), a sensitive CYP3A substrate, did not affect midazolam exposure. No dose adjustment of CYP3A substrates is required when co-administered with SYMDEKO [see Clinical Pharmacology (12.3) ] . 7.5 CYP2C9 Substrates Ivacaftor may inhibit CYP2C9; therefore, monitoring of the international normalized ratio (INR) during co administration of SYMDEKO with warfarin is recommended. Other medicinal products for which exposure may be increased by SYMDEKO include glimepiride and glipizide; these medicinal products should be used with caution [see Clinical Pharmacology (12.3) ] . 7.6 Digoxin and Other P-gp Substrates Co-administration of SYMDEKO with digoxin, a sensitive P-gp substrate, increased digoxin exposure by 1.3-fold consistent with weak inhibition of P-gp by ivacaftor. Administration of SYMDEKO may increase systemic exposure of medicinal products that are sensitive substrates of P-gp, which may increase or prolong their therapeutic effect and adverse reactions. When used concomitantly with digoxin or other substrates of P-gp with a narrow therapeutic index such as cyclosporine, everolimus, sirolimus, and tacrolimus, caution and appropriate monitoring should be used [see Clinical Pharmacology (12.3) ] . 7.7 Hormonal Contraceptives SYMDEKO has been studied with an ethinyl estradiol/norethindrone oral contraceptive and was found to have no significant effect on the exposures of the hormonal contraceptive. SYMDEKO is not expected to modify the efficacy of hormonal contraceptives [see Clinical Pharmacology (12.3) ] ."
       ],
@@ -66,7 +66,7 @@
         "1 INDICATIONS AND USAGE SYMDEKO is indicated for the treatment of cystic fibrosis (CF) in patients age 6 years and older who are homozygous for the F508del mutation or who have at least one mutation in the cystic fibrosis transmembrane conductance regulator ( CFTR ) gene that is responsive to tezacaftor/ivacaftor based on in vitro data and/or clinical evidence [see Clinical Pharmacology (12.1) and Clinical Studies (14) ] . If the patient's genotype is unknown, an FDA-cleared CF mutation test should be used to detect the presence of a CFTR mutation followed by verification with bi-directional sequencing when recommended by the mutation test instructions for use. SYMDEKO is a combination of tezacaftor and ivacaftor, indicated for the treatment of cystic fibrosis (CF) in patients age 6 years and older who are homozygous for the F508del mutation or who have at least one mutation in the cystic fibrosis transmembrane conductance regulator ( CFTR ) gene that is responsive to tezacaftor/ivacaftor based on in vitro data and/or clinical evidence. ( 12.1 , 14 ) If the patient's genotype is unknown, an FDA-cleared CF mutation test should be used to detect the presence of a CFTR mutation followed by verification with bi-directional sequencing when recommended by the mutation test instructions for use."
       ],
       "set_id": "302ae804-37db-44fd-ac2f-3dbdeda9aa4b",
-      "id": "c7a36ca8-9f32-4478-a824-138c63852f5c",
+      "id": "f2643ac9-db62-4645-a0d4-813107bab475",
       "dosage_and_administration_table": [
         "<table width=\"75%\" ID=\"Table1\"><caption>Table 1: Recommended Dosage for Patients Age 6 Years and Older</caption><col width=\"30%\" align=\"left\" valign=\"top\"/><col width=\"50%\" align=\"left\" valign=\"top\"/><col width=\"20%\" align=\"left\" valign=\"top\"/><thead><tr><th styleCode=\"Lrule Rrule\" align=\"center\"> Age </th><th styleCode=\"Rrule\" align=\"center\">Morning (one tablet)</th><th styleCode=\"Rrule\" align=\"center\">Evening (one tablet)</th></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">6 to &lt;12 years weighing &lt;30 kg</content></td><td styleCode=\"Rrule\">tezacaftor 50 mg/ivacaftor 75 mg</td><td styleCode=\"Rrule\">ivacaftor 75 mg</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">6 to &lt;12 years weighing &#x2265;30 kg</content></td><td styleCode=\"Rrule\">tezacaftor 100 mg/ivacaftor 150 mg</td><td styleCode=\"Rrule\">ivacaftor 150 mg</td></tr><tr><td styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">&#x2265;12 years</content></td><td styleCode=\"Rrule\">tezacaftor 100 mg/ivacaftor 150 mg</td><td styleCode=\"Rrule\">ivacaftor 150 mg</td></tr></tbody></table>",
         "<table width=\"85%\" ID=\"Table2\"><caption>Table 2: Recommended Dosage for Patients with Hepatic Impairment</caption><col width=\"30%\" align=\"left\" valign=\"middle\"/><col width=\"30%\" align=\"center\" valign=\"middle\"/><col width=\"30%\" align=\"center\" valign=\"middle\"/><col width=\"10%\" align=\"center\" valign=\"middle\"/><thead><tr styleCode=\"Botrule\"><th rowspan=\"2\" align=\"center\" valign=\"top\" styleCode=\"Lrule Rrule Botrule\">Hepatic Impairment</th><th colspan=\"2\" styleCode=\"Lrule Rrule\">Morning</th><th styleCode=\"Rrule\">Evening</th></tr><tr><th styleCode=\"Rrule\" align=\"center\" valign=\"top\">Patients Age 6 to &lt;12 Years Weighing &lt;30kg</th><th styleCode=\"Rrule\" align=\"center\">Patients Age 6 to &lt;12 Years Weighing &#x2265;30 kg and Patients Age &#x2265;12 Years</th><th styleCode=\"Rrule\" align=\"center\">All Patients</th></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Rrule Lrule\"><content styleCode=\"bold\">Mild (Child-Pugh Class A)</content></td><td styleCode=\"Rrule\">No dose adjustment</td><td styleCode=\"Rrule\">No dose adjustment</td><td styleCode=\"Rrule\">No dose adjustment</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule Lrule\"><content styleCode=\"bold\">Moderate (Child-Pugh Class B)</content></td><td styleCode=\"Rrule\">One tablet of tezacaftor 50 mg/ivacaftor 75 mg once daily</td><td styleCode=\"Rrule\">One tablet of tezacaftor 100 mg/ivacaftor 150 mg once daily</td><td styleCode=\"Lrule Rrule Botrule\" rowspan=\"2\">No ivacaftor dose</td></tr><tr><td styleCode=\"Rrule Lrule\"><content styleCode=\"bold\">Severe (Child-Pugh Class C)</content></td><td styleCode=\"Rrule\">One tablet of tezacaftor 50 mg/ivacaftor 75 mg once daily (or less frequently)</td><td styleCode=\"Rrule\">One tablet of tezacaftor 100 mg/ivacaftor 150 mg once daily (or less frequently)</td></tr></tbody></table>",
@@ -92,50 +92,40 @@
         "<table width=\"60%\"><caption>Table 5: Incidence of Adverse Drug Reactions in &#x2265;3% of SYMDEKO-Treated Patients and Greater than Placebo</caption><col width=\"50%\" align=\"left\" valign=\"top\"/><col width=\"25%\" align=\"center\" valign=\"top\"/><col width=\"25%\" align=\"center\" valign=\"top\"/><thead><tr><th styleCode=\"Lrule Rrule\" align=\"center\">Adverse Reactions (Preferred Term)</th><th styleCode=\"Rrule\">SYMDEKO N=334 n (%)</th><th styleCode=\"Rrule\">Placebo N=343 n (%)</th></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Headache</td><td styleCode=\"Rrule\">49 (15)</td><td styleCode=\"Rrule\">44 (13)</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Nausea</td><td styleCode=\"Rrule\">29 (9)</td><td styleCode=\"Rrule\">24 (7)</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Sinus congestion</td><td styleCode=\"Rrule\">13 (4)</td><td styleCode=\"Rrule\">6 (2)</td></tr><tr><td styleCode=\"Lrule Rrule\">Dizziness</td><td styleCode=\"Rrule\">12 (4)</td><td styleCode=\"Rrule\">8 (2)</td></tr></tbody></table>"
       ],
       "openfda": {
+        "application_number": [
+          "NDA210491"
+        ],
+        "brand_name": [
+          "SYMDEKO"
+        ],
+        "generic_name": [
+          "TEZACAFTOR AND IVACAFTOR"
+        ],
+        "manufacturer_name": [
+          "Vertex Pharmaceuticals Incorporated"
+        ],
         "product_ndc": [
           "51167-113",
           "51167-661"
         ],
-        "spl_id": [
-          "c7a36ca8-9f32-4478-a824-138c63852f5c"
-        ],
         "product_type": [
           "HUMAN PRESCRIPTION DRUG"
         ],
-        "is_original_packager": [
-          true
+        "spl_id": [
+          "f2643ac9-db62-4645-a0d4-813107bab475"
+        ],
+        "spl_set_id": [
+          "302ae804-37db-44fd-ac2f-3dbdeda9aa4b"
         ],
         "package_ndc": [
           "51167-661-01",
           "51167-113-01"
         ],
-        "generic_name": [
-          "TEZACAFTOR AND IVACAFTOR"
-        ],
-        "spl_set_id": [
-          "302ae804-37db-44fd-ac2f-3dbdeda9aa4b"
-        ],
-        "brand_name": [
-          "SYMDEKO"
-        ],
-        "application_number": [
-          "NDA210491"
-        ],
-        "manufacturer_name": [
-          "Vertex Pharmaceuticals Incorporated"
-        ],
-        "rxcui": [
-          "1243046",
-          "1999387",
-          "1999388",
-          "1999389",
-          "2174387",
-          "2174388",
-          "2174389",
-          "2174390"
+        "is_original_packager": [
+          true
         ]
       },
-      "version": "11",
+      "version": "12",
       "dosage_and_administration": [
         "2 DOSAGE AND ADMINISTRATION Pediatric patients age 6 to less than 12 years weighing less than 30 kg: one tablet (containing tezacaftor 50 mg/ivacaftor 75 mg) in the morning and one tablet (containing ivacaftor 75 mg) in the evening, approximately 12 hours apart. SYMDEKO should be taken with fat-containing food. ( 2.1 , 2.2 , 12.3 ) Adults and pediatric patients age 12 years and older or pediatric patients age 6 to less than 12 years weighing 30 kg or more: one tablet (containing tezacaftor 100 mg/ivacaftor 150 mg) in the morning and one tablet (containing ivacaftor 150 mg) in the evening, approximately 12 hours apart. SYMDEKO should be taken with fat-containing food. ( 2.1 , 2.2 , 12.3 ) Reduce dose in patients with moderate and severe hepatic impairment. ( 2.3 , 8.6 , 12.3 ) See full prescribing information for dosage modifications due to drug interactions with SYMDEKO. ( 2.4 , 7.2 , 12.3 ) 2.1 General Dosing Information Swallow the tablets whole. SYMDEKO should be taken with fat-containing food, such as food recommended in standard nutritional guidelines. Examples of meals or snacks that contain fat are those prepared with butter or oils or those containing eggs, cheeses, nuts, whole milk, or meats, etc. [see Clinical Pharmacology (12.3) ] . 2.2 Recommended Dosage in Adults, Adolescents, and Children Age 6 Years and Older Adults, adolescents, and children age 6 years and older should be dosed according to Table 1. The morning and the evening dose should be taken approximately 12 hours apart. Table 1: Recommended Dosage for Patients Age 6 Years and Older Age Morning (one tablet) Evening (one tablet) 6 to <12 years weighing <30 kg tezacaftor 50 mg/ivacaftor 75 mg ivacaftor 75 mg 6 to <12 years weighing ≥30 kg tezacaftor 100 mg/ivacaftor 150 mg ivacaftor 150 mg ≥12 years tezacaftor 100 mg/ivacaftor 150 mg ivacaftor 150 mg Information for Missed Doses: If 6 hours or less have passed since the missed morning or evening dose, the patient should take the missed dose as soon as possible and continue on the original schedule. If more than 6 hours have passed since the missed morning or evening dose, the patient should not take the missed dose. The next scheduled dose can be taken at the usual time. More than one dose should not be taken at the same time. 2.3 Recommended Dosage for Patients with Hepatic Impairment For dose adjustment for patients with hepatic impairment, refer to Table 2. Studies have not been conducted in patients with severe hepatic impairment (Child-Pugh Class C), but exposure of tezacaftor and ivacaftor is expected to be higher than in patients with moderate hepatic impairment. Therefore, SYMDEKO should be used with caution at an adjusted dose after weighing the risks and benefits of treatment in these patients [see Use in Specific Populations (8.6) , Clinical Pharmacology (12.3) , and Patient Counseling Information (17) ]. Table 2: Recommended Dosage for Patients with Hepatic Impairment Hepatic Impairment Morning Evening Patients Age 6 to <12 Years Weighing <30kg Patients Age 6 to <12 Years Weighing ≥30 kg and Patients Age ≥12 Years All Patients Mild (Child-Pugh Class A) No dose adjustment No dose adjustment No dose adjustment Moderate (Child-Pugh Class B) One tablet of tezacaftor 50 mg/ivacaftor 75 mg once daily One tablet of tezacaftor 100 mg/ivacaftor 150 mg once daily No ivacaftor dose Severe (Child-Pugh Class C) One tablet of tezacaftor 50 mg/ivacaftor 75 mg once daily (or less frequently) One tablet of tezacaftor 100 mg/ivacaftor 150 mg once daily (or less frequently) 2.4 Dosage Adjustment for Patients Taking Drugs that are CYP3A Inhibitors The dosing regimen of SYMDEKO should be adjusted when co-administered with moderate and strong CYP3A inhibitors. Moderate CYP3A inhibitors: When co-administered with moderate CYP3A inhibitors (e.g., fluconazole, erythromycin), the dosing regimen should be adjusted as in Table 3 [see Drug Interactions (7.2) , Clinical Pharmacology (12.3) , and Patient Counseling Information (17) ] . Table 3: Dosing Schedule for Concomitant Use of SYMDEKO with Moderate CYP3A Inhibitors Day 1 Day 2 Day 3 Day 4 Continue dosing with tezacaftor/ivacaftor or ivacaftor tablets on alternate days. Patients Age 6 to <12 Years Weighing <30 kg Morning Tezacaftor 50 mg/ivacaftor 75 mg tablet ✓ - ✓ - Ivacaftor 75 mg tablet - ✓ - ✓ Evening Ivacaftor 75 mg tablet - - - - Patients Age 6 to <12 Years Weighing ≥30 kg and Patients Age ≥12 Years Morning Tezacaftor 100 mg/ivacaftor 150 mg tablet ✓ - ✓ - Ivacaftor 150 mg tablet - ✓ - ✓ Evening Ivacaftor 150 mg tablet - - - - Strong CYP3A inhibitors: When co-administered with strong CYP3A inhibitors (e.g., ketoconazole, itraconazole, posaconazole, voriconazole, telithromycin, and clarithromycin), the dosing regimen should be adjusted as in Table 4 [see Drug Interactions (7.2) , Clinical Pharmacology (12.3) , and Patient Counseling Information (17) ] . Table 4: Dosing Schedule for Concomitant Use of SYMDEKO with Strong CYP3A Inhibitors Day 1 Day 2 and Day 3 Day 4 Continue dosing with tezacaftor/ivacaftor tablets twice a week, taken approximately 3 to 4 days apart. Patients Age 6 to <12 Years Weighing <30 kg Morning Tezacaftor 50 mg/ivacaftor 75 mg tablet ✓ - ✓ Evening The evening dose of ivacaftor should not be taken on any day. Ivacaftor 75 mg tablet - - - Patients Age 6 to <12 Years Weighing ≥30 kg and Patients Age ≥12 Years Morning Tezacaftor 100 mg/ivacaftor 150 mg tablet ✓ - ✓ Evening Ivacaftor 150 mg tablet - - - Food or drink containing grapefruit should be avoided during treatment with SYMDEKO [see Drug Interactions (7.2) and Patient Counseling Information (17) ] ."
       ],
