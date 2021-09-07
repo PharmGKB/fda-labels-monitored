@@ -11,7 +11,7 @@
   },
   "results": [
     {
-      "effective_time": "20210802",
+      "effective_time": "20200331",
       "drug_interactions": [
         "7 DRUG INTERACTIONS Effects of Modafinil on CYP3A4/5 Substrates The clearance of drugs that are substrates for CYP3A4/5 (e.g., steroidal contraceptives, cyclosporine, midazolam, and triazolam) may be increased by modafinil via induction of metabolic enzymes, which results in lower systemic exposure. Dosage adjustment of these drugs should be considered when these drugs are used concomitantly with modafinil [see Clinical Pharmacology ( 12.3 )] . The effectiveness of steroidal contraceptives may be reduced when used with modafinil and for one month after discontinuation of therapy. Alternative or concomitant methods of contraception are recommended for patients taking steroidal contraceptives (e.g., ethinyl estradiol) when treated concomitantly with modafinil and for one month after discontinuation of modafinil treatment. Blood levels of cyclosporine may be reduced when used with modafinil. Monitoring of circulating cyclosporine concentrations and appropriate dosage adjustment for cyclosporine should be considered when used concomitantly with modafinil. Effects of Modafinil on CYP2C19 Substrates Elimination of drugs that are substrates for CYP2C19 (e.g., phenytoin, diazepam, propranolol, omeprazole, and clomipramine) may be prolonged by modafinil via inhibition of metabolic enzymes, with resultant higher systemic exposure. In individuals deficient in the CYP2D6 enzyme, the levels of CYP2D6 substrates which have ancillary routes of elimination through CYP2C19, such as tricyclic antidepressants and selective serotonin reuptake inhibitors, may be increased by co-administration of modafinil. Dose adjustments of these drugs and other drugs that are substrates for CYP2C19 may be necessary when used concomitantly with modafinil [see Clinical Pharmacology ( 12.3 )] . Warfarin More frequent monitoring of prothrombin times/INR should be considered whenever modafinil is coadministered with warfarin [see Clinical Pharmacology ( 12.3 )] . Monoamine Oxidase (MAO) Inhibitors Caution should be used when concomitantly administering MAO inhibitors and modafinil. Steroidal contraceptives (e.g., ethinyl estradiol): Use alternative or concomitant methods of contraception while taking modafinil and for one month after discontinuation of modafinil treatment. ( 7 ) Cyclosporine: Blood concentrations of cyclosporine may be reduced. ( 7 ) CYP2C19 substrates, such as omeprazole, phenytoin, and diazepam: Exposure of these medications may be increased. ( 7 )"
       ],
@@ -47,7 +47,7 @@
         "9.3 Dependence In one placebo-controlled clinical trial, the effects of modafinil withdrawal were monitored following 9 weeks of modafinil use. There were no reported withdrawal symptoms with modafinil during 14 days of observation, although sleepiness returned in narcoleptic patients."
       ],
       "set_id": "9f3b0bd2-72a3-411f-aeec-b533373f1a97",
-      "id": "00b5d442-7c27-4da1-876b-361abf6151df",
+      "id": "7e47f1cb-0ccb-4d1f-a83f-cac5c5958147",
       "pediatric_use": [
         "8.4 Pediatric Use Safety and effectiveness in pediatric patients have not been established. Modafinil is not approved in this population for any indication. Serious skin rashes, including erythema multiforme major (EMM) and Stevens-Johnson Syndrome (SJS) have been associated with modafinil use in pediatric patients [see Warnings and Precautions ( 5.1 )] . In a controlled 6-week study, 165 pediatric patients (aged 5-17 years) with narcolepsy were treated with modafinil (n=123), or placebo (n=42). There were no statistically significant differences favoring modafinil over placebo in prolonging sleep latency as measured by MSLT, or in perceptions of sleepiness as determined by the clinical global impression-clinician scale (CGI-C). In the controlled and open-label clinical studies, treatment emergent adverse reactions of the psychiatric and nervous system included Tourette’s syndrome, insomnia, hostility, increased cataplexy, increased hypnagogic hallucinations, and suicidal ideation. Transient leukopenia, which resolved without medical intervention, was also observed. In the controlled clinical study, 3 of 38 girls, ages 12 or older, treated with modafinil experienced dysmenorrhea compared to 0 of 10 girls who received placebo. There were three 7 to 9 week, double-blind, placebo-controlled, parallel group studies in children and adolescents (aged 6-17 years) with Attention-Deficit Hyperactivity Disorder (ADHD). Two of the studies were flexible-dose studies (up to 425 mg/day), and the third was a fixed-dose study (340 mg/day for patients <30 kg and 425 mg/day for patients ≥30 kg). Although these studies showed statistically significant differences favoring modafinil over placebo in reducing ADHD symptoms as measured by the ADHD-RS (school version), there were 3 cases of serious rash including one case of possible SJS among 933 patients exposed to modafinil in this program. Modafinil is not approved for use in treating ADHD."
       ],
@@ -98,12 +98,8 @@
         "substance_name": [
           "MODAFINIL"
         ],
-        "rxcui": [
-          "205324",
-          "260218"
-        ],
         "spl_id": [
-          "00b5d442-7c27-4da1-876b-361abf6151df"
+          "7e47f1cb-0ccb-4d1f-a83f-cac5c5958147"
         ],
         "spl_set_id": [
           "9f3b0bd2-72a3-411f-aeec-b533373f1a97"
@@ -136,7 +132,7 @@
       "controlled_substance": [
         "9.1 Controlled Substance Modafinil contains modafinil, a Schedule IV controlled substance."
       ],
-      "version": "10",
+      "version": "11",
       "dosage_and_administration": [
         "2 DOSAGE AND ADMINISTRATION The recommended dosage of modafinil for each indication is as follows: Narcolepsy or OSA: 200 mg once a day in the morning. ( 2.1 ) SWD: 200 mg once a day, taken approximately one hour prior to start of the work shift. ( 2.2 ) Severe Hepatic Impairment: reduce dose to half the recommended dose. ( 2.3 , 12.3 ) Geriatric Patients: consider lower dose. ( 2.4 , 12.3 ) 2.1 Dosage in Narcolepsy and Obstructive Sleep Apnea (OSA) The recommended dosage of modafinil for patients with narcolepsy or OSA is 200 mg taken orally once a day as a single dose in the morning. Doses up to 400 mg/day, given as a single dose, have been well tolerated, but there is no consistent evidence that this dose confers additional benefit beyond that of the 200 mg/day dose [see Clinical Pharmacology ( 12.3 ) and Clinical Studies ( 14.1 , 14.2 )] . 2.2 Dosage in Shift Work Disorder (SWD) The recommended dosage of modafinil for patients with SWD is 200 mg taken orally once a day as a single dose approximately 1 hour prior to the start of their work shift . 2.3 Dosage Modifications in Patients with Severe Hepatic Impairment In patients with severe hepatic impairment, the dosage of modafinil should be reduced to one-half of that recommended for patients with normal hepatic function [see Use in Specific Populations ( 8.6 ) and Clinical Pharmacology ( 12.3 )] . 2.4 Use in Geriatric Patients Consideration should be given to the use of lower doses and close monitoring in geriatric patients [see Use in Specific Populations ( 8.5 )] ."
       ],
