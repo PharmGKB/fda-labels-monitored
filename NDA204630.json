@@ -11,7 +11,7 @@
   },
   "results": [
     {
-      "effective_time": "20210609",
+      "effective_time": "20211006",
       "drug_interactions": [
         "7 DRUG INTERACTIONS 7.1 Serotonergic Drugs Avoid concomitant use of PROVAYBLUE® with medicinal products that enhance serotonergic transmission including SSRIs (selective serotonin reuptake inhibitors), MAO inhibitors, bupropion, buspirone, clomipramine, mirtazapine and venlafaxine; because of the potential for serious CNS reactions, including potentially fatal serotonin syndrome. Although the mechanism is not clearly understood, literature reports suggest inhibition of MAO by methylene blue may be involved. If the intravenous use of PROVAYBLUE® cannot be avoided in patients treated with serotonergic medicinal products, choose the lowest possible dose and observe closely the patient for CNS effects for up to 4 hours after administration [see Warning and Precautions ( 5.1 ) and Clinical Pharmacology ( 12.3 )]."
       ],
@@ -40,7 +40,7 @@
         "1 INDICATIONS AND USAGE PROVAYBLUE ® USP is indicated for the treatment of pediatric and adult patients with acquired methemoglobinemia. This indication is approved under accelerated approval. Continued approval for this indication may be contingent upon verification of clinical benefit in subsequent trials [ see Clinical Studies ( 14.1 ) ]. PROVAYBLUE ® (methylene blue) is an oxidation-reduction agent indicated for the treatment of pediatric and adult patients with acquired methemoglobinemia. This indication is approved under accelerated approval. Continued approval for this indication may be contingent upon verification of clinical benefit in subsequent trials. ( 1 , 14 )"
       ],
       "set_id": "4f6848e5-35ed-4046-b13c-3032b5ba3232",
-      "id": "c4568123-bde7-4671-e053-2a95a90a0e50",
+      "id": "9c01d884-f7fc-47b7-98b7-d3ac9734a112",
       "pediatric_use": [
         "8.4 Pediatric Use The safety and effectiveness of PROVAYBLUE ® have been established in pediatric patients. Use of PROVAYBLUE ® is supported by two retrospective case series that included 2 pediatric patients treated with PROVAYBLUE ® and 12 treated with another methylene blue class product. The case series included pediatric patients in the following age groups: 3 neonates (less than 1 month), 4 infants (1 month up to less than 2 years), 4 children (2 years up to less than 12 years), and 3 adolescents (12 years to less than 17 years). The efficacy outcomes were consistent across pediatric and adult patients in both case series [see Clinical Studies ( 14 )]."
       ],
@@ -88,8 +88,14 @@
         "substance_name": [
           "METHYLENE BLUE"
         ],
+        "rxcui": [
+          "1788984",
+          "1788989",
+          "2199323",
+          "2199324"
+        ],
         "spl_id": [
-          "c4568123-bde7-4671-e053-2a95a90a0e50"
+          "9c01d884-f7fc-47b7-98b7-d3ac9734a112"
         ],
         "spl_set_id": [
           "4f6848e5-35ed-4046-b13c-3032b5ba3232"
@@ -107,7 +113,7 @@
           "T42P99266K"
         ]
       },
-      "version": "16",
+      "version": "17",
       "dosage_and_administration": [
         "2 DOSAGE AND ADMINISTRATION Administer 1 mg/kg intravenously over 5-30 minutes. ( 2.1 ) If methemoglobin level remains above 30% or if clinical symptoms persist, give a repeat dose of up to 1 mg/kg one hour after the first dose. ( 2.1 ) Administer a single dose of 1 mg/kg in patients with moderate or severe renal impairment. ( 2.2 ) 2.1 Dosage and Administration Ensure patent venous access prior to administration of PROVAYBLUE®. Do not administer PROVAYBLUE® subcutaneously. Monitor vital signs, electrocardiogram and methemoglobin levels during treatment with PROVAYBLUE® and through resolution of methemoglobinemia. Administer PROVAYBLUE® 1 mg/kg intravenously over 5-30 minutes. If the methemoglobin level remains greater than 30% or if clinical signs and symptoms persist, a repeat dose of PROVAYBLUE® 1 mg/kg may be given one hour after the first dose. If methemoglobinemia does not resolve after 2 doses of PROVAYBLUE®, consider initiating alternative interventions for treatment of methemoglobinemia. 2.2 Recommended Dosage for Renal Impairment The recommended dosage of PROVAYBLUE in patients with moderate or severe renal impairment (eGFR 15-59 mL/min/1.73 m2) is a single dose of 1 mg/kg. If the methemoglobin level remains greater than 30% or if the clinical symptoms persist 1 hour after dosing, consider initiating alternative interventions for the treatment of methemoglobinemia. 2.3 Preparation and Storage Each mL of PROVAYBLUE ® contains 5 mg methylene blue Each 10 mL ampule of PROVAYBLUE ® contains 50 mg methylene blue. Each 2 mL ampule of PROVAYBLUE® contains 10 mg methylene blue. PROVAYBLUE ® is hypotonic and may be diluted before use in a solution of 50 mL 5% Dextrose in Water (D5W) in order to avoid local pain, particularly in the pediatric population. Use the diluted solution immediately after preparation. Avoid diluting with sodium chloride solutions, because it has been demonstrated that chloride reduces the solubility of methylene blue. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. Keep the ampule in the original package to protect from light."
       ],
