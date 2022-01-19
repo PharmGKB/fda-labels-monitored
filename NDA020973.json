@@ -132,9 +132,9 @@
         "PRINCIPAL DISPLAY PANEL NDC 62856-243-30 AcipHex rabeprazole Sodium delayed- release tablets 20 mg 30 tablets Rx Only PRINCIPAL DISPLAY PANEL NDC 62856-243-30 AcipHex rabeprazole Sodium delayed- release tablets 20 mg 30 tablets Rx Only"
       ],
       "set_id": "5d103551-978f-472a-9c62-51e6e4dea068",
-      "id": "b7898761-0f73-4120-9899-0319e0addbad",
-      "effective_time": "20211029",
-      "version": "44",
+      "id": "e00fa711-01d4-48ba-9c3a-594fb6abff02",
+      "effective_time": "20201104",
+      "version": "45",
       "openfda": {
         "application_number": [
           "NDA020973"
@@ -160,8 +160,12 @@
         "substance_name": [
           "RABEPRAZOLE SODIUM"
         ],
+        "rxcui": [
+          "854868",
+          "854870"
+        ],
         "spl_id": [
-          "b7898761-0f73-4120-9899-0319e0addbad"
+          "e00fa711-01d4-48ba-9c3a-594fb6abff02"
         ],
         "spl_set_id": [
           "5d103551-978f-472a-9c62-51e6e4dea068"
