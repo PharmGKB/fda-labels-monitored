@@ -114,9 +114,9 @@
         "PRINCIPAL DISPLAY PANEL NDC 0078-0676-15 R x only Zofran ® (ondansetron hydrochloride) Tablets 8 mg Each tablets contains 10 mg of ondansetron hydrochloride dihydrate equivalent to 8 mg of ondansetron. 30 Tablets Novartis Zofran 8mg 30 count bottle"
       ],
       "set_id": "555f81bc-4ce0-4f77-b394-b974838c4440",
-      "id": "305e0803-a930-4172-8f2a-7012a40eb2fc",
-      "effective_time": "20211020",
-      "version": "10",
+      "id": "8d673085-eea1-4bd0-8804-a6cc63038973",
+      "effective_time": "20220208",
+      "version": "11",
       "openfda": {
         "application_number": [
           "NDA020103"
@@ -143,8 +143,14 @@
         "substance_name": [
           "ONDANSETRON HYDROCHLORIDE"
         ],
+        "rxcui": [
+          "104895",
+          "104896",
+          "198052",
+          "312086"
+        ],
         "spl_id": [
-          "305e0803-a930-4172-8f2a-7012a40eb2fc"
+          "8d673085-eea1-4bd0-8804-a6cc63038973"
         ],
         "spl_set_id": [
           "555f81bc-4ce0-4f77-b394-b974838c4440"
@@ -157,8 +163,8 @@
           true
         ],
         "upc": [
-          "0300780676151",
-          "0300780675154"
+          "0300780675154",
+          "0300780676151"
         ],
         "unii": [
           "NMH84OZK2B"
