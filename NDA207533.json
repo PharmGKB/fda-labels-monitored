@@ -126,9 +126,9 @@
         "Principal Display Panel - 1064 mg/3.9 mL Carton Label NDC: 65757-404-03 Rx only Aristada ® aripiprazole lauroxil extended-release injectable suspension 1064 mg For gluteal intramuscular injection only Single-dose injection - Entire Content of Syringe Must Be Administered by Healthcare Professional Only 1064 mg/3.9 mL administered every 2 months. For dosing and administration instructions, please see accompanying full prescribing information. Dispense enclosed Medication Guide to Patient. Store at room temperature 20°C to 25°C (68°F to 77°F) with excursions permitted between 15°C to 30°C (59°F to 86°F) Keep out of reach of children Principal Display Panel - 1064 mg/3.9 mL Carton Label"
       ],
       "set_id": "17a8d11b-73b0-4833-a0b4-cf1ef85edefb",
-      "id": "1d4131ab-13f2-4fb7-8772-cc5b01bfc4e7",
-      "effective_time": "20211111",
-      "version": "27",
+      "id": "5cc040e9-dc5a-448c-8769-d21c7381a833",
+      "effective_time": "20220224",
+      "version": "28",
       "openfda": {
         "application_number": [
           "NDA207533"
@@ -157,27 +157,21 @@
         "substance_name": [
           "ARIPIPRAZOLE LAUROXIL"
         ],
-        "rxcui": [
-          "1673269",
-          "1673274",
-          "1673277",
-          "1673278",
-          "1673279",
-          "1673280",
-          "1925262",
-          "1925264"
-        ],
         "spl_id": [
-          "1d4131ab-13f2-4fb7-8772-cc5b01bfc4e7"
+          "5cc040e9-dc5a-448c-8769-d21c7381a833"
         ],
         "spl_set_id": [
           "17a8d11b-73b0-4833-a0b4-cf1ef85edefb"
         ],
         "package_ndc": [
           "65757-401-03",
+          "65757-401-04",
           "65757-402-03",
+          "65757-402-04",
           "65757-403-03",
-          "65757-404-03"
+          "65757-403-04",
+          "65757-404-03",
+          "65757-404-04"
         ],
         "is_original_packager": [
           true
