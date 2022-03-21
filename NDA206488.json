@@ -102,9 +102,9 @@
         "Principal Display Panel – Vial Label NDC 60923-284-10 EXONDYS 51 (eterplirsen) Injection 500 mg/10 mL (50 mg/mL) For Intravenous Infusion After Dilution Refrigerate at 2°C-8°C (36°F-46°F). Mfg for: Sarepta Therapeutics, Inc. Cambridge, MA 02142 USA Principal Display Panel – Vial Label"
       ],
       "set_id": "33bff678-7829-479e-9110-b8e33a0bc0aa",
-      "id": "74c67d7e-da69-4bc1-8f3a-6f3f9dfa6786",
-      "effective_time": "20220118",
-      "version": "10",
+      "id": "bc7aae14-1ae0-4b09-b42a-c3f5a9c7ce11",
+      "effective_time": "20220314",
+      "version": "11",
       "openfda": {
         "application_number": [
           "NDA206488"
@@ -132,7 +132,7 @@
           "ETEPLIRSEN"
         ],
         "spl_id": [
-          "74c67d7e-da69-4bc1-8f3a-6f3f9dfa6786"
+          "bc7aae14-1ae0-4b09-b42a-c3f5a9c7ce11"
         ],
         "spl_set_id": [
           "33bff678-7829-479e-9110-b8e33a0bc0aa"
@@ -145,8 +145,8 @@
           true
         ],
         "upc": [
-          "0360923363027",
-          "0360923284100"
+          "0360923284100",
+          "0360923363027"
         ],
         "nui": [
           "N0000191626",
