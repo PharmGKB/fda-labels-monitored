@@ -146,9 +146,9 @@
         "PRINCIPAL DISPLAY PANEL - 25 mg Tablet Bottle Label ALWAYS DISPENSE WITH MEDICATION GUIDE Pfizer NDC 0008-1210-30 Pristiq ® (desvenlafaxine) Extended-Release Tablets 25 mg* Unit of Use 30 Tablets Rx only Principal Display Panel - 25 mg Tablet Bottle Label"
       ],
       "set_id": "0f43610c-f290-46ea-d186-4f998ed99fce",
-      "id": "340f9f33-e006-4a61-b7a9-e6301358870e",
-      "effective_time": "20211129",
-      "version": "59",
+      "id": "0c40d9ea-730a-42d8-abd1-5a1da444dfb6",
+      "effective_time": "20220325",
+      "version": "60",
       "openfda": {
         "application_number": [
           "NDA021992"
@@ -177,7 +177,7 @@
           "DESVENLAFAXINE SUCCINATE"
         ],
         "spl_id": [
-          "340f9f33-e006-4a61-b7a9-e6301358870e"
+          "0c40d9ea-730a-42d8-abd1-5a1da444dfb6"
         ],
         "spl_set_id": [
           "0f43610c-f290-46ea-d186-4f998ed99fce"
@@ -197,8 +197,8 @@
           true
         ],
         "upc": [
-          "0300081222309",
           "0300081211303",
+          "0300081222309",
           "0300081210306"
         ],
         "unii": [
