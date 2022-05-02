@@ -12,7 +12,7 @@
   "results": [
     {
       "spl_product_data_elements": [
-        "NURTEC ODT rimegepant sulfate SUCRALOSE EUCALYPTOL GELATIN, UNSPECIFIED LIMONENE, (+)- BENZYL ALCOHOL MENTHYL ACETATE, (+/-)- VANILLIN MENTHOL, UNSPECIFIED FORM MENTHONE, (+)- MANNITOL RIMEGEPANT SULFATE RIMEGEPANT white to off-white"
+        "NURTEC ODT rimegepant sulfate SUCRALOSE EUCALYPTOL MARINE NON-GELLING GELATIN, HIGH MW LIMONENE, (+)- BENZYL ALCOHOL MENTHYL ACETATE, (+/-)- VANILLIN MENTHOL, UNSPECIFIED FORM MENTHONE, (+)- MANNITOL RIMEGEPANT SULFATE RIMEGEPANT white to off-white"
       ],
       "recent_major_changes": [
         "Indications and Usage ( 1.2 ) 5/2021 Dosage and Administration ( 2.1 , 2.2 ) 5/2021 Dosage and Administration ( 2.6 ) 12/2021"
@@ -110,9 +110,9 @@
         "NURTEC CARTON Nurtec Carton"
       ],
       "set_id": "9ef08e09-1098-35cc-e053-2a95a90a3e1d",
-      "id": "dcf48521-e838-83cc-e053-2995a90a11d1",
-      "effective_time": "20220418",
-      "version": "10",
+      "id": "dd822a47-ef53-28d2-e053-2995a90a4832",
+      "effective_time": "20220425",
+      "version": "11",
       "openfda": {
         "application_number": [
           "NDA212728"
@@ -139,7 +139,7 @@
           "RIMEGEPANT SULFATE"
         ],
         "spl_id": [
-          "dcf48521-e838-83cc-e053-2995a90a11d1"
+          "dd822a47-ef53-28d2-e053-2995a90a4832"
         ],
         "spl_set_id": [
           "9ef08e09-1098-35cc-e053-2a95a90a3e1d"
