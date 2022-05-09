@@ -135,9 +135,9 @@
         "PRINCIPAL DISPLAY PANEL - 30 mg Capsule Bottle Carton NDC 76431-130-01 Rx Only 28 capsules Juxtapid ® (lomitapide) capsules 30 mg Attention Pharmacist: Dispense the accompanying Medication Guide to each patient. AMRYT PHARMA PRINCIPAL DISPLAY PANEL - 30 mg Capsule Bottle Carton"
       ],
       "set_id": "e4c45bb5-15f4-437e-ab98-a649b3676d14",
-      "id": "3eb234ce-0275-40fa-86dd-2f98eaf88c15",
-      "effective_time": "20211123",
-      "version": "21",
+      "id": "9404d970-ee07-43d7-8fa8-30e45b08087b",
+      "effective_time": "20220428",
+      "version": "22",
       "openfda": {
         "application_number": [
           "NDA203858"
@@ -149,7 +149,7 @@
           "LOMITAPIDE MESYLATE"
         ],
         "manufacturer_name": [
-          "Amryt Pharmaceutcials DAC"
+          "Amryt Pharmaceuticals DAC"
         ],
         "product_ndc": [
           "76431-105",
@@ -167,7 +167,7 @@
           "LOMITAPIDE MESYLATE"
         ],
         "spl_id": [
-          "3eb234ce-0275-40fa-86dd-2f98eaf88c15"
+          "9404d970-ee07-43d7-8fa8-30e45b08087b"
         ],
         "spl_set_id": [
           "e4c45bb5-15f4-437e-ab98-a649b3676d14"
