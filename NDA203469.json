@@ -124,9 +124,9 @@
         "PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label NDC 63020-536-30 ICLUSIG ® (ponatinib) tablets 10 mg Each tablet contains 10 mg ponatinib equivalent to 10.68 mg ponatinib HCl Dispense Attached Medication Guide 30 tablets Rx only Takeda PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label"
       ],
       "set_id": "16d804b6-4957-43ee-b18c-3b36ec37c5ac",
-      "id": "5fb39341-60be-4975-b87b-81b784b02796",
-      "effective_time": "20220218",
-      "version": "12",
+      "id": "568f48fb-4038-429a-8d32-0e6a8b833638",
+      "effective_time": "20220422",
+      "version": "13",
       "openfda": {
         "application_number": [
           "NDA203469"
@@ -155,8 +155,18 @@
         "substance_name": [
           "PONATINIB HYDROCHLORIDE"
         ],
+        "rxcui": [
+          "1364352",
+          "1364358",
+          "1364360",
+          "1364362",
+          "1726637",
+          "1726639",
+          "2473040",
+          "2473042"
+        ],
         "spl_id": [
-          "5fb39341-60be-4975-b87b-81b784b02796"
+          "568f48fb-4038-429a-8d32-0e6a8b833638"
         ],
         "spl_set_id": [
           "16d804b6-4957-43ee-b18c-3b36ec37c5ac"
