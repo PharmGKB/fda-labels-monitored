@@ -110,9 +110,9 @@
         "NURTEC CARTON Nurtec Carton"
       ],
       "set_id": "9ef08e09-1098-35cc-e053-2a95a90a3e1d",
-      "id": "dd822a47-ef53-28d2-e053-2995a90a4832",
-      "effective_time": "20220425",
-      "version": "11",
+      "id": "df28f594-1d5a-05db-e053-2a95a90a2c64",
+      "effective_time": "20220516",
+      "version": "12",
       "openfda": {
         "application_number": [
           "NDA212728"
@@ -138,8 +138,12 @@
         "substance_name": [
           "RIMEGEPANT SULFATE"
         ],
+        "rxcui": [
+          "2282313",
+          "2282320"
+        ],
         "spl_id": [
-          "dd822a47-ef53-28d2-e053-2995a90a4832"
+          "df28f594-1d5a-05db-e053-2a95a90a2c64"
         ],
         "spl_set_id": [
           "9ef08e09-1098-35cc-e053-2a95a90a3e1d"
