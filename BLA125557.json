@@ -130,9 +130,9 @@
         "PRINCIPAL DISPLAY PANEL 1 BLINCYTO ® Single-Dose Vial 1 IV Solution Stabilizer Vial NDC 55513-160-01 AMGEN ® BLINCYTO ® (blinatumomab) for Injection 35 mcg/vial 35 mcg/vial For Intravenous Infusion Only Store at 2°C to 8°C (36°F to 46°F). Store in carton to protect from light. DO NOT SHAKE reconstituted solution. Dispense the enclosed Medication Guide to each patient. No Preservative Single-Dose Vial – Discard unused portion. Rx Only PRINCIPAL DISPLAY PANEL 1 BLINCYTO® Single-Dose Vial 1 IV Solution Stabilizer Vial NDC 55513-160-01 AMGEN® BLINCYTO® (blinatumomab) for Injection 35 mcg/vial 35 mcg/vial For Intravenous Infusion Only Store at 2°C to 8°C (36°F to 46°F). Store in carton to protect from light. DO NOT SHAKE reconstituted solution. Dispense the enclosed Medication Guide to each patient. No Preservative Single-Dose Vial – Discard unused portion. Rx Only"
       ],
       "set_id": "38b482a8-960b-4591-9857-5031ecb830aa",
-      "id": "124f3fb9-99d5-4366-a4d0-e21dcd5846af",
-      "effective_time": "20220224",
-      "version": "29",
+      "id": "466db499-0b0f-4715-9be9-f9a712cfe198",
+      "effective_time": "20220520",
+      "version": "31",
       "openfda": {
         "application_number": [
           "BLA125557"
@@ -152,12 +152,8 @@
         "product_type": [
           "HUMAN PRESCRIPTION DRUG"
         ],
-        "rxcui": [
-          "1597262",
-          "1597267"
-        ],
         "spl_id": [
-          "124f3fb9-99d5-4366-a4d0-e21dcd5846af"
+          "466db499-0b0f-4715-9be9-f9a712cfe198"
         ],
         "spl_set_id": [
           "38b482a8-960b-4591-9857-5031ecb830aa"
