@@ -108,9 +108,9 @@
         "PRINCIPAL DISPLAY PANEL - 500 mg/50 mL Vial Carton NDC 0409-1038-50 50 mL Multiple-Dose Vial Carbocaine™ mepivacaine hydrochloride injection, USP 1% 500 mg/50 mL (10 mg/mL) STERILE INJECTION For INFILTRATION and PERIPHERAL NERVE BLOCK only Not for epidural, caudal, or spinal anesthesia. Not intended for dental use. Rx only Hospira PRINCIPAL DISPLAY PANEL - 500 mg/50 mL Vial Carton"
       ],
       "set_id": "6255ce29-25db-4964-309d-10939a436ff4",
-      "id": "48f7a497-5ed2-4269-838a-20462549c030",
-      "effective_time": "20220519",
-      "version": "15",
+      "id": "7f7212c4-eb00-433b-b068-12d8cd9952ab",
+      "effective_time": "20220518",
+      "version": "16",
       "openfda": {
         "application_number": [
           "NDA012250"
@@ -125,17 +125,16 @@
           "Hospira, Inc."
         ],
         "product_ndc": [
+          "0409-1038",
           "0409-1036",
           "0409-1041",
           "0409-1067",
-          "0409-2047",
-          "0409-1038"
+          "0409-2047"
         ],
         "product_type": [
           "HUMAN PRESCRIPTION DRUG"
         ],
         "route": [
-          "EPIDURAL",
           "INFILTRATION"
         ],
         "substance_name": [
@@ -154,7 +153,7 @@
           "1866525"
         ],
         "spl_id": [
-          "48f7a497-5ed2-4269-838a-20462549c030"
+          "7f7212c4-eb00-433b-b068-12d8cd9952ab"
         ],
         "spl_set_id": [
           "6255ce29-25db-4964-309d-10939a436ff4"

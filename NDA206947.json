@@ -137,9 +137,9 @@
         "PRINCIPAL DISPLAY PANEL NDC 62856-724-05 Lenvima (lenvatinib) capsules 24 mg daily dose NDC 62856-724-05 Lenvima (lenvatinib) capsules 24 mg daily dose"
       ],
       "set_id": "f4bedd21-efde-44c6-9d9c-b48b78d7ed1e",
-      "id": "109ebffa-88a7-49cc-82cb-7faf23d39f8c",
-      "effective_time": "20211227",
-      "version": "52",
+      "id": "1d0ad01e-0359-4f46-9447-401ac14eb098",
+      "effective_time": "20211202",
+      "version": "56",
       "openfda": {
         "application_number": [
           "NDA206947"
@@ -172,30 +172,8 @@
         "substance_name": [
           "LENVATINIB"
         ],
-        "rxcui": [
-          "1604345",
-          "1604348",
-          "1604349",
-          "1604350",
-          "1604351",
-          "1604352",
-          "1604383",
-          "1604384",
-          "1604394",
-          "1604395",
-          "1792377",
-          "1792392",
-          "1792393",
-          "1796538",
-          "1796664",
-          "1796665",
-          "2054156",
-          "2054157",
-          "2054158",
-          "2054159"
-        ],
         "spl_id": [
-          "109ebffa-88a7-49cc-82cb-7faf23d39f8c"
+          "1d0ad01e-0359-4f46-9447-401ac14eb098"
         ],
         "spl_set_id": [
           "f4bedd21-efde-44c6-9d9c-b48b78d7ed1e"

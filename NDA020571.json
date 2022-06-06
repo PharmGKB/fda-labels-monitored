@@ -128,13 +128,13 @@
         "This product's labeling may have been updated. For the most recent prescribing information, please visit www.pfizer.com. LAB-0134-24.0 Logo"
       ],
       "package_label_principal_display_panel": [
-        "PRINCIPAL DISPLAY PANEL - 100 mg/5 mL Vial Label NDC 0009-7529-03 Single Use: Discard unused portion Camptosar ® irinotecan HCl injection 100 mg/5 mL (20 mg/mL) For Intravenous Use Only Cytosafe ® Vial Caution: Cytotoxic Agent PRINCIPAL DISPLAY PANEL - 100 mg/5 mL Vial Label",
-        "PRINCIPAL DISPLAY PANEL - 100 mg/5 mL Vial Carton NDC 0009-7529-03 Single Use: Discard unused portion Camptosar ® irinotecan hydrochloride injection 100 mg/5 mL (20 mg/mL) For Intravenous Use Only Cytosafe ® Vial Caution: Cytotoxic Agent Pfizer Injectables Rx only PRINCIPAL DISPLAY PANEL - 100 mg/5 mL Vial Carton"
+        "PRINCIPAL DISPLAY PANEL - 100 mg/5 mL Vial Label NDC 0009-7529-03 Single-dose: Discard unused portion Camptosar ® irinotecan HCl injection 100 mg/5 mL (20 mg/mL) For Intravenous Use Only Cytosafe ® Vial Caution: Cytotoxic Agent PRINCIPAL DISPLAY PANEL - 100 mg/5 mL Vial Label",
+        "PRINCIPAL DISPLAY PANEL - 100 mg/5 mL Vial Carton NDC 0009-7529-03 Single-dose: Discard unused portion Camptosar ® irinotecan hydrochloride injection 100 mg/5 mL (20 mg/mL) For Intravenous Use Only Cytosafe ® Vial Caution: Cytotoxic Agent Pfizer Injectables Rx only PRINCIPAL DISPLAY PANEL - 100 mg/5 mL Vial Carton"
       ],
       "set_id": "e518dfc6-7e93-4fee-a66c-51e1ab71c056",
-      "id": "b2999b28-8ba7-4755-bcc4-212819e63d2d",
-      "effective_time": "20220208",
-      "version": "28",
+      "id": "4613bc2e-a8b3-4424-98c7-8d83e074d871",
+      "effective_time": "20220511",
+      "version": "29",
       "openfda": {
         "application_number": [
           "NDA020571"
@@ -161,7 +161,7 @@
           "IRINOTECAN HYDROCHLORIDE"
         ],
         "spl_id": [
-          "b2999b28-8ba7-4755-bcc4-212819e63d2d"
+          "4613bc2e-a8b3-4424-98c7-8d83e074d871"
         ],
         "spl_set_id": [
           "e518dfc6-7e93-4fee-a66c-51e1ab71c056"
