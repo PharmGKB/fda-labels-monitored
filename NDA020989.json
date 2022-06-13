@@ -52,9 +52,9 @@
         "PRINCIPAL DISPLAY PANEL - 30 mg Capsule Bottle Label NDC 63395-201-13 Evoxac ® (cevimeline HCl) 30 mg Capsules Rx only 100 Capsules PRINCIPAL DISPLAY PANEL - 30 mg Capsule Bottle Label"
       ],
       "set_id": "0679dd4c-fece-4c6d-b273-2c62237e8973",
-      "id": "0d318261-db69-4064-9e34-5cecb91e8b3c",
-      "effective_time": "20211028",
-      "version": "13",
+      "id": "24b744ff-3334-424d-9500-76dbfca5979a",
+      "effective_time": "20220603",
+      "version": "14",
       "openfda": {
         "application_number": [
           "NDA020989"
@@ -85,7 +85,7 @@
           "309140"
         ],
         "spl_id": [
-          "0d318261-db69-4064-9e34-5cecb91e8b3c"
+          "24b744ff-3334-424d-9500-76dbfca5979a"
         ],
         "spl_set_id": [
           "0679dd4c-fece-4c6d-b273-2c62237e8973"
