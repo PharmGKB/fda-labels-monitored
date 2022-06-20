@@ -118,9 +118,9 @@
         "PRINCIPAL DISPLAY PANEL - 75 mg Capsule Bottle Label - 025-05 DISPENSE THE ENCLOSED MEDICATION GUIDE TO EACH PATIENT NDC 70255-025-05 BRAFTOVI ® (encorafenib) capsules 75 mg Rx only 90 Capsules Sample– Not For Sale PRINCIPAL DISPLAY PANEL - 75 mg Capsule Bottle Label - 025-05"
       ],
       "set_id": "235dfc38-0f0b-4037-b501-7a9f4294740c",
-      "id": "c86d5d0c-4895-44eb-ac46-7e21d640543b",
-      "effective_time": "20220218",
-      "version": "13",
+      "id": "55f69f60-7fad-4e32-af24-19148ae7f82d",
+      "effective_time": "20220610",
+      "version": "14",
       "openfda": {
         "application_number": [
           "NDA210496"
@@ -146,8 +146,12 @@
         "substance_name": [
           "ENCORAFENIB"
         ],
+        "rxcui": [
+          "2049119",
+          "2049121"
+        ],
         "spl_id": [
-          "c86d5d0c-4895-44eb-ac46-7e21d640543b"
+          "55f69f60-7fad-4e32-af24-19148ae7f82d"
         ],
         "spl_set_id": [
           "235dfc38-0f0b-4037-b501-7a9f4294740c"

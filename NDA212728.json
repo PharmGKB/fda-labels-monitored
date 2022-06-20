@@ -15,10 +15,10 @@
         "NURTEC ODT rimegepant sulfate SUCRALOSE EUCALYPTOL MARINE NON-GELLING GELATIN, HIGH MW LIMONENE, (+)- BENZYL ALCOHOL MENTHYL ACETATE, (+/-)- VANILLIN MENTHOL, UNSPECIFIED FORM MENTHONE, (+)- MANNITOL RIMEGEPANT SULFATE RIMEGEPANT white to off-white"
       ],
       "recent_major_changes": [
-        "Indications and Usage ( 1.2 ) 5/2021 Dosage and Administration ( 2.1 , 2.2 ) 5/2021 Dosage and Administration ( 2.6 ) 12/2021"
+        "Dosage and Administration ( 2.6 ) 12/2021"
       ],
       "recent_major_changes_table": [
-        "<table width=\"100%\" styleCode=\"Noautorules\"><col align=\"left\" valign=\"top\" width=\"90%\"/><col align=\"left\" valign=\"top\" width=\"10%\"/><tbody><tr><td>Indications and Usage ( <linkHtml href=\"#S1.2\">1.2</linkHtml>) </td><td>5/2021</td></tr><tr><td>Dosage and Administration ( <linkHtml href=\"#S2.1\">2.1</linkHtml>, <linkHtml href=\"#S2.2\">2.2</linkHtml>) </td><td>5/2021</td></tr><tr><td>Dosage and Administration ( <linkHtml href=\"#S2.6\">2.6</linkHtml>) </td><td>12/2021</td></tr></tbody></table>"
+        "<table width=\"100%\" styleCode=\"Noautorules\"><colgroup><col align=\"left\" valign=\"top\" width=\"90%\"/><col align=\"left\" valign=\"top\" width=\"10%\"/></colgroup><tbody><tr><td>Dosage and Administration ( <linkHtml href=\"#S2.6\">2.6</linkHtml>) </td><td>12/2021</td></tr></tbody></table>"
       ],
       "indications_and_usage": [
         "1 INDICATIONS AND USAGE NURTEC ODT is a calcitonin gene-related peptide receptor antagonist indicated for the: acute treatment of migraine with or without aura in adults ( 1.1 ) preventive treatment of episodic migraine in adults ( 1.2 ) 1.1 Acute Treatment of Migraine NURTEC ODT is indicated for the acute treatment of migraine with or without aura in adults . 1.2 Preventive Treatment of Episodic Migraine NURTEC ODT is indicated for the preventive treatment of episodic migraine in adults."
@@ -110,9 +110,9 @@
         "NURTEC CARTON Nurtec Carton"
       ],
       "set_id": "9ef08e09-1098-35cc-e053-2a95a90a3e1d",
-      "id": "df28f594-1d5a-05db-e053-2a95a90a2c64",
-      "effective_time": "20220516",
-      "version": "12",
+      "id": "e0f94cd6-2105-9548-e053-2a95a90aca58",
+      "effective_time": "20220608",
+      "version": "13",
       "openfda": {
         "application_number": [
           "NDA212728"
@@ -143,7 +143,7 @@
           "2282320"
         ],
         "spl_id": [
-          "df28f594-1d5a-05db-e053-2a95a90a2c64"
+          "e0f94cd6-2105-9548-e053-2a95a90aca58"
         ],
         "spl_set_id": [
           "9ef08e09-1098-35cc-e053-2a95a90a3e1d"
