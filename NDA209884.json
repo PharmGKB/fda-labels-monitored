@@ -110,9 +110,9 @@
         "PRINCIPAL DISPLAY PANEL NDC 0078-0986-15 Rx only MAYZENT ® (siponimod) tablets 2 mg* 30 tablets Dispense with accompanying Medication Guide. Swallow tablets whole. DO NOT split tablets. NOVARTIS PRINCIPAL DISPLAY PANEL NDC 0078-0986-15 Rx only MAYZENT® (siponimod) tablets 2 mg* 30 tablets Dispense with accompanying Medication Guide. Swallow tablets whole. DO NOT split tablets. NOVARTIS"
       ],
       "set_id": "44492772-5aed-4627-bd85-e8e89f308bb3",
-      "id": "cbedc7df-c428-46f1-a7a9-5750c27c8a11",
-      "effective_time": "20220610",
-      "version": "8",
+      "id": "7bc3f410-9309-4045-8eab-2dc16c0173fd",
+      "effective_time": "20220621",
+      "version": "9",
       "openfda": {
         "application_number": [
           "NDA209884"
@@ -141,7 +141,7 @@
           "SIPONIMOD"
         ],
         "spl_id": [
-          "cbedc7df-c428-46f1-a7a9-5750c27c8a11"
+          "7bc3f410-9309-4045-8eab-2dc16c0173fd"
         ],
         "spl_set_id": [
           "44492772-5aed-4627-bd85-e8e89f308bb3"

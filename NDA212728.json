@@ -18,7 +18,7 @@
         "Dosage and Administration ( 2.6 ) 12/2021"
       ],
       "recent_major_changes_table": [
-        "<table width=\"100%\" styleCode=\"Noautorules\"><colgroup><col align=\"left\" valign=\"top\" width=\"90%\"/><col align=\"left\" valign=\"top\" width=\"10%\"/></colgroup><tbody><tr><td>Dosage and Administration ( <linkHtml href=\"#S2.6\">2.6</linkHtml>) </td><td>12/2021</td></tr></tbody></table>"
+        "<table width=\"100%\" styleCode=\"Noautorules\"><col align=\"left\" valign=\"top\" width=\"90%\"/><col align=\"left\" valign=\"top\" width=\"10%\"/><tbody><tr><td>Dosage and Administration ( <linkHtml href=\"#S2.6\">2.6</linkHtml>) </td><td>12/2021</td></tr></tbody></table>"
       ],
       "indications_and_usage": [
         "1 INDICATIONS AND USAGE NURTEC ODT is a calcitonin gene-related peptide receptor antagonist indicated for the: acute treatment of migraine with or without aura in adults ( 1.1 ) preventive treatment of episodic migraine in adults ( 1.2 ) 1.1 Acute Treatment of Migraine NURTEC ODT is indicated for the acute treatment of migraine with or without aura in adults . 1.2 Preventive Treatment of Episodic Migraine NURTEC ODT is indicated for the preventive treatment of episodic migraine in adults."
@@ -110,9 +110,9 @@
         "NURTEC CARTON Nurtec Carton"
       ],
       "set_id": "9ef08e09-1098-35cc-e053-2a95a90a3e1d",
-      "id": "e0f94cd6-2105-9548-e053-2a95a90aca58",
-      "effective_time": "20220608",
-      "version": "13",
+      "id": "e233243f-381c-116a-e053-2a95a90a3083",
+      "effective_time": "20220624",
+      "version": "14",
       "openfda": {
         "application_number": [
           "NDA212728"
@@ -138,12 +138,8 @@
         "substance_name": [
           "RIMEGEPANT SULFATE"
         ],
-        "rxcui": [
-          "2282313",
-          "2282320"
-        ],
         "spl_id": [
-          "e0f94cd6-2105-9548-e053-2a95a90aca58"
+          "e233243f-381c-116a-e053-2a95a90a3083"
         ],
         "spl_set_id": [
           "9ef08e09-1098-35cc-e053-2a95a90a3e1d"
