@@ -103,9 +103,9 @@
         "PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 40 MG Carton 40 MG CARTON"
       ],
       "set_id": "50fe88bd-f0dd-5fad-e054-00144ff8d46c",
-      "id": "d6aabbf4-3ac4-ce11-e053-2a95a90a89b8",
-      "effective_time": "20220128",
-      "version": "8",
+      "id": "e30fbd74-babc-9f31-e053-2995a90a73d4",
+      "effective_time": "20220705",
+      "version": "9",
       "openfda": {
         "application_number": [
           "NDA021299"
@@ -135,7 +135,7 @@
           "PAROXETINE MESYLATE"
         ],
         "spl_id": [
-          "d6aabbf4-3ac4-ce11-e053-2a95a90a89b8"
+          "e30fbd74-babc-9f31-e053-2995a90a73d4"
         ],
         "spl_set_id": [
           "50fe88bd-f0dd-5fad-e054-00144ff8d46c"
@@ -150,8 +150,8 @@
           true
         ],
         "upc": [
-          "0354766201011",
           "0354766202018",
+          "0354766201011",
           "0354766203015",
           "0354766204012"
         ],

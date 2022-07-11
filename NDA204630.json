@@ -100,9 +100,9 @@
         "Principal Display Panel - 10 mg/2 mL (5 mg/mL) Single-Dose Vial Carton Label NDC 0517-0371-05 ProvayBlue® (methylene blue) Injection USP 10 mg/2 mL (5 mg/mL) Intravenous use only For slow intravenous injection Use 5% Dextrose in Water When Diluting Distributed by: AMERICAN REGENT 5 single-dose vials Discard unused portion Provepharm Life Solutions Single-Dose Vial Carton Label 2 mL"
       ],
       "set_id": "4f6848e5-35ed-4046-b13c-3032b5ba3232",
-      "id": "8b6b1732-ab13-4eb0-8281-4ec3209e3eda",
-      "effective_time": "20220506",
-      "version": "20",
+      "id": "891a58bc-f327-4c99-84db-432ad9c4ef23",
+      "effective_time": "20220629",
+      "version": "21",
       "openfda": {
         "application_number": [
           "NDA204630"
@@ -131,14 +131,8 @@
         "substance_name": [
           "METHYLENE BLUE"
         ],
-        "rxcui": [
-          "1788984",
-          "1788989",
-          "2199323",
-          "2199324"
-        ],
         "spl_id": [
-          "8b6b1732-ab13-4eb0-8281-4ec3209e3eda"
+          "891a58bc-f327-4c99-84db-432ad9c4ef23"
         ],
         "spl_set_id": [
           "4f6848e5-35ed-4046-b13c-3032b5ba3232"
