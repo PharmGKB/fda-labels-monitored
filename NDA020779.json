@@ -132,9 +132,9 @@
         "PRINCIPAL DISPLAY PANEL - 625 mg Tablet Bottle Label NDC 63010-027-70 VIRACEPT ® (nelfinavir mesylate) Tablets 625 mg ALERT: Find out about medicines that should NOT be taken with VIRACEPT. Rx only 120 Tablets Agouron ® Pharmaceuticals, LLC A Pfizer Company PRINCIPAL DISPLAY PANEL - 625 mg Tablet Bottle Label"
       ],
       "set_id": "e72c2bc6-9462-4a2e-8e1d-b97592376cbd",
-      "id": "84235501-49cb-4b14-8e24-4576b95e8ea4",
-      "effective_time": "20220708",
-      "version": "29",
+      "id": "03efb824-da3b-4490-b2cc-64d349c9d264",
+      "effective_time": "20220727",
+      "version": "30",
       "openfda": {
         "application_number": [
           "NDA020779"
@@ -161,14 +161,8 @@
         "substance_name": [
           "NELFINAVIR MESYLATE"
         ],
-        "rxcui": [
-          "212118",
-          "311924",
-          "403978",
-          "542370"
-        ],
         "spl_id": [
-          "84235501-49cb-4b14-8e24-4576b95e8ea4"
+          "03efb824-da3b-4490-b2cc-64d349c9d264"
         ],
         "spl_set_id": [
           "e72c2bc6-9462-4a2e-8e1d-b97592376cbd"
