@@ -122,15 +122,15 @@
         "INVEGA ® (paliperidone) Extended-Release Tablets Product of Ireland Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560 OROS is a registered trademark of ALZA Corporation © 2007 Janssen Pharmaceutical Companies"
       ],
       "package_label_principal_display_panel": [
-        "PRINCIPAL DISPLAY PANEL - 3 mg Tablet Bottle Label NDC 50458-550-01 INVEGA ® PALIPERIDONE Extended-Release Tablets 3mg Tablets should be swallowed whole. Do not divide, crush, or chew. Invega should be taken once daily. Rx only 30 Tablets janssen PRINCIPAL DISPLAY PANEL - 3 mg Tablet Bottle Label",
-        "PRINCIPAL DISPLAY PANEL - 6 mg Tablet Bottle Label NDC 50458-551-01 INVEGA ® PALIPERIDONE Extended-Release Tablets 6mg Tablets should be swallowed whole. Do not divide, crush, or chew. Invega should be taken once daily. Rx only 30 Tablets janssen PRINCIPAL DISPLAY PANEL - 6 mg Tablet Bottle Label",
-        "PRINCIPAL DISPLAY PANEL - 9 mg Tablet Bottle Label NDC 50458-552-01 INVEGA ® PALIPERIDONE Extended-Release Tablets 9mg Tablets should be swallowed whole. Do not divide, crush, or chew. Invega should be taken once daily. Rx only 30 Tablets janssen PRINCIPAL DISPLAY PANEL - 9 mg Tablet Bottle Label",
-        "PRINCIPAL DISPLAY PANEL - 1.5 mg Tablet Bottle Label NDC 50458-554-01 INVEGA ® PALIPERIDONE Extended-Release Tablets 1.5mg Tablets should be swallowed whole. Do not divide, crush, or chew. Invega should be taken once daily. Rx only 30 Tablets janssen PRINCIPAL DISPLAY PANEL - 1.5 mg Tablet Bottle Label"
+        "PRINCIPAL DISPLAY PANEL - 3 mg Tablet Bottle Label NDC 50458-550-01 INVEGA ® PALIPERIDONE Extended-Release Tablets 3 mg Tablets should be swallowed whole. Do not divide, crush, or chew. Invega should be taken once daily. Rx only 30 Tablets janssen PRINCIPAL DISPLAY PANEL - 3 mg Tablet Bottle Label",
+        "PRINCIPAL DISPLAY PANEL - 6 mg Tablet Bottle Label NDC 50458-551-01 INVEGA ® PALIPERIDONE Extended-Release Tablets 6 mg Tablets should be swallowed whole. Do not divide, crush, or chew. Invega should be taken once daily. Rx only 30 Tablets janssen PRINCIPAL DISPLAY PANEL - 6 mg Tablet Bottle Label",
+        "PRINCIPAL DISPLAY PANEL - 9 mg Tablet Bottle Label NDC 50458-552-01 INVEGA ® PALIPERIDONE Extended-Release Tablets 9 mg Tablets should be swallowed whole. Do not divide, crush, or chew. Invega should be taken once daily. Rx only 30 Tablets janssen PRINCIPAL DISPLAY PANEL - 9 mg Tablet Bottle Label",
+        "PRINCIPAL DISPLAY PANEL - 1.5 mg Tablet Bottle Label NDC 50458-554-01 INVEGA ® PALIPERIDONE Extended-Release Tablets 1.5 mg Tablets should be swallowed whole. Do not divide, crush, or chew. Invega should be taken once daily. Rx only 30 Tablets janssen PRINCIPAL DISPLAY PANEL - 1.5 mg Tablet Bottle Label"
       ],
       "set_id": "7b8e5b26-b9e4-4704-921b-3c3c0d159916",
-      "id": "7afcf6c3-c5b6-4600-a1ec-3869f66a1c98",
-      "effective_time": "20220401",
-      "version": "36",
+      "id": "6204a7d9-977a-434b-a0b7-01d97fd93308",
+      "effective_time": "20220331",
+      "version": "37",
       "openfda": {
         "application_number": [
           "NDA021999"
@@ -170,7 +170,7 @@
           "866105"
         ],
         "spl_id": [
-          "7afcf6c3-c5b6-4600-a1ec-3869f66a1c98"
+          "6204a7d9-977a-434b-a0b7-01d97fd93308"
         ],
         "spl_set_id": [
           "7b8e5b26-b9e4-4704-921b-3c3c0d159916"
