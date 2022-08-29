@@ -136,9 +136,9 @@
         "NDC 0074-1043-14 RINVOQ ® upadacitinib Extended-Release Tablets 45 mg PROFESSIONAL SAMPLE NOT FOR SALE Dispense with Medication Guide FLIP CAP TO CUT FOIL PEEL BACK FOR INSTRUCTIONS 14 Tablets Rx only abbvie NDC 0074-1043-14 RINVOQ® upadacitinib Extended-Release Tablets 45 mg PROFESSIONAL SAMPLE NOT FOR SALE Dispense in original packaging FLIP CAP TO CUT FOIL PEEL BACK FOR INSTRUCTIONS 14 Tablets Rx only abbvie"
       ],
       "set_id": "2966aec7-2ef0-923c-d8ff-fe1a957bf095",
-      "id": "898c5e42-0720-4815-94be-3ee0b178b615",
-      "effective_time": "20220429",
-      "version": "70",
+      "id": "2ba2897f-6a03-40ad-8421-235895a25151",
+      "effective_time": "20220401",
+      "version": "73",
       "openfda": {
         "application_number": [
           "NDA211675"
@@ -166,16 +166,8 @@
         "substance_name": [
           "UPADACITINIB"
         ],
-        "rxcui": [
-          "2196894",
-          "2196900",
-          "2590051",
-          "2590054",
-          "2596957",
-          "2596960"
-        ],
         "spl_id": [
-          "898c5e42-0720-4815-94be-3ee0b178b615"
+          "2ba2897f-6a03-40ad-8421-235895a25151"
         ],
         "spl_set_id": [
           "2966aec7-2ef0-923c-d8ff-fe1a957bf095"
