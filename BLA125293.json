@@ -113,9 +113,9 @@
         "PRINCIPAL DISPLAY PANEL - 8 mg/mL Vial Carton NDC-75987-080-10 KRYSTEXXA ® pegloticase Injection 8 mg/mL For Intravenous Infusion Single-dose vial. Discard unused portion. Must Be Diluted Prior to Administration. Dispense the enclosed Medication Guide to each patient. Rx Only PRINCIPAL DISPLAY PANEL - 8 mg/mL Vial Carton"
       ],
       "set_id": "6e566303-d93a-4130-b764-25749829aa95",
-      "id": "c830923b-0fec-405e-a72d-a060d6823077",
-      "effective_time": "20220725",
-      "version": "10",
+      "id": "345f844a-e39f-4459-ab8e-180d221e684b",
+      "effective_time": "20211221",
+      "version": "11",
       "openfda": {
         "application_number": [
           "BLA125293"
@@ -142,7 +142,7 @@
           "PEGLOTICASE"
         ],
         "spl_id": [
-          "c830923b-0fec-405e-a72d-a060d6823077"
+          "345f844a-e39f-4459-ab8e-180d221e684b"
         ],
         "spl_set_id": [
           "6e566303-d93a-4130-b764-25749829aa95"
