@@ -117,9 +117,9 @@
         "PRINCIPAL DISPLAY PANEL NDC 0078-1077-66 Votrient ® (pazopanib) Tablets 200 mg 120 Tablets R x only Each tablet contains 216.7 mg of pazopanib hydrochloride, equivalent to 200 mg of pazopanib free base. Dispense with Medication Guide attached or provided separately. New Tablet Color NOVARTIS PRINCIPAL DISPLAY PANEL NDC 0078-1077-66 Votrient® (pazopanlb) Tablets 200 mg 120 Tablets Rx Only Each tablet contains 216.7 mg of pazopanib hydrochloride, equivalent to 200 mg of pazopanib free base. Dispense with Medication Guide attached or provided separately. New Tablet Color NOVARTIS"
       ],
       "set_id": "eeaaaf38-fb86-4d9f-a19d-0f61daac2fd7",
-      "id": "2b1d914b-1025-4401-b527-c15d4ca9fedc",
-      "effective_time": "20220215",
-      "version": "10",
+      "id": "d64a4078-2cff-48a7-a621-c31d82703ae6",
+      "effective_time": "20220826",
+      "version": "11",
       "openfda": {
         "application_number": [
           "NDA022465"
@@ -147,7 +147,7 @@
           "PAZOPANIB HYDROCHLORIDE"
         ],
         "spl_id": [
-          "2b1d914b-1025-4401-b527-c15d4ca9fedc"
+          "d64a4078-2cff-48a7-a621-c31d82703ae6"
         ],
         "spl_set_id": [
           "eeaaaf38-fb86-4d9f-a19d-0f61daac2fd7"
