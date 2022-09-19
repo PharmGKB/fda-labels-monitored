@@ -217,9 +217,9 @@
         "PRINCIPAL DISPLAY PANEL - 100 mg/4 mL Vial Carton NDC 0006-3026-02 Keytruda ® (pembrolizumab) Injection 100 mg/4 mL (25 mg/mL) For Intravenous Infusion Only Dispense the enclosed Medication Guide to each patient. Requires dilution prior to administration. Rx only Single-dose vial. Discard unused portion. PRINCIPAL DISPLAY PANEL - 100 mg/4 mL Vial Carton"
       ],
       "set_id": "9333c79b-d487-4538-a9f0-71b91a02b287",
-      "id": "1484b7c9-cefa-468a-b808-01dd055264aa",
-      "effective_time": "20220805",
-      "version": "148",
+      "id": "14988a92-0045-4d60-8a47-ad3cf70b719d",
+      "effective_time": "20220912",
+      "version": "149",
       "openfda": {
         "application_number": [
           "BLA125514"
@@ -246,8 +246,14 @@
         "substance_name": [
           "PEMBROLIZUMAB"
         ],
+        "rxcui": [
+          "1657746",
+          "1657749",
+          "1657750",
+          "1657751"
+        ],
         "spl_id": [
-          "1484b7c9-cefa-468a-b808-01dd055264aa"
+          "14988a92-0045-4d60-8a47-ad3cf70b719d"
         ],
         "spl_set_id": [
           "9333c79b-d487-4538-a9f0-71b91a02b287"
