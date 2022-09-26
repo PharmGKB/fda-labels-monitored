@@ -133,9 +133,9 @@
         "PRINCIPAL DISPLAY PANEL - 100 mg Vial Carton NDC 65597-406-01 Rx only ENHERTU ® (fam-trastuzumab deruxtecan-nxki) For Injection 100 mg per vial For Intravenous Infusion Only Dispense the enclosed Medication Guide to each patient. Reconstitute and Dilute prior to administration Single-Dose Vial Discard Unused Portion Hazardous Drug KEEP REFRIGERATED 1 vial Daiichi-Sankyo AstraZeneca PRINCIPAL DISPLAY PANEL - 100 mg Vial Carton"
       ],
       "set_id": "7e67e73e-ddf4-4e4d-8b50-09d7514910b6",
-      "id": "55f66df7-d64d-4fbf-b9b0-6de9ddd545f6",
-      "effective_time": "20220823",
-      "version": "11",
+      "id": "5b5eae77-d927-4332-9b25-4da19fdefb16",
+      "effective_time": "20220919",
+      "version": "12",
       "openfda": {
         "application_number": [
           "BLA761139"
@@ -162,7 +162,7 @@
           "TRASTUZUMAB DERUXTECAN"
         ],
         "spl_id": [
-          "55f66df7-d64d-4fbf-b9b0-6de9ddd545f6"
+          "5b5eae77-d927-4332-9b25-4da19fdefb16"
         ],
         "spl_set_id": [
           "7e67e73e-ddf4-4e4d-8b50-09d7514910b6"
