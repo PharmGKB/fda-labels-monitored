@@ -110,9 +110,9 @@
         "PRINCIPAL DISPLAY PANEL NDC 0078-1098-20 SCEMBLIX ® (asciminib) Tablets 40 mg * Rx only 60 Tablets Swallow tablets whole. Do not break, crush, or chew the tablets. NOVARTIS PRINCIPAL DISPLAY PANEL NDC 0078-1098-20 SCEMBLIX® (asciminib) Tablets 40 mg* Rx only 60 Tablets Swallow tablets whole. Do not break, crush, or chew the tablets. NOVARTIS"
       ],
       "set_id": "e33001e7-3650-42b1-ae56-cddb5c43aa2b",
-      "id": "e33001e7-3650-42b1-ae56-cddb5c43aa2b",
-      "effective_time": "20211029",
-      "version": "1",
+      "id": "9867b6ee-5ca6-4fa6-9ad3-d9679abdf37a",
+      "effective_time": "20221007",
+      "version": "2",
       "openfda": {
         "application_number": [
           "NDA215358"
@@ -146,7 +146,7 @@
           "2584330"
         ],
         "spl_id": [
-          "e33001e7-3650-42b1-ae56-cddb5c43aa2b"
+          "9867b6ee-5ca6-4fa6-9ad3-d9679abdf37a"
         ],
         "spl_set_id": [
           "e33001e7-3650-42b1-ae56-cddb5c43aa2b"
@@ -163,8 +163,8 @@
           true
         ],
         "upc": [
-          "0300781091205",
-          "0300781098204"
+          "0300781098204",
+          "0300781091205"
         ],
         "unii": [
           "C5U34S9XFV"

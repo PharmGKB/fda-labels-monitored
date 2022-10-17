@@ -165,9 +165,9 @@
         "SPRYCEL 140 mg tablets Representative Packaging 30 Tablets NDC 0003-0857-22 SPRYCEL ® (dasatinib) Tablets 140 mg Rx only Do not crush, cut or chew tablets. Swallow tablets whole. Bristol Myers Squibb sprycel-140mg-carton"
       ],
       "set_id": "4764f37b-c9e6-4ede-bcc2-8a03b7c521df",
-      "id": "1e013ab3-55cb-40d1-8683-13e68f0cd4e4",
+      "id": "08c1dd2b-39d5-4adc-96b2-2985fdc6c142",
       "effective_time": "20210629",
-      "version": "44",
+      "version": "45",
       "openfda": {
         "application_number": [
           "NDA021986"
@@ -199,7 +199,7 @@
           "DASATINIB"
         ],
         "spl_id": [
-          "1e013ab3-55cb-40d1-8683-13e68f0cd4e4"
+          "08c1dd2b-39d5-4adc-96b2-2985fdc6c142"
         ],
         "spl_set_id": [
           "4764f37b-c9e6-4ede-bcc2-8a03b7c521df"
