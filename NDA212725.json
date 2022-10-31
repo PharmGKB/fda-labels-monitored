@@ -122,9 +122,9 @@
         "PRINCIPAL DISPLAY PANEL - 200 mg Capsule Bottle Carton NDC 50242-094-90 Rozlytrek ® (entrectinib) capsules 200 mg Rx only 90 capsules Genentech 11000215 PRINCIPAL DISPLAY PANEL - 200 mg Capsule Bottle Carton"
       ],
       "set_id": "c7c71b0c-2549-4495-86b6-c2807fa54908",
-      "id": "02a645ca-9221-4f0f-9182-06f02f2e07ea",
-      "effective_time": "20220722",
-      "version": "8",
+      "id": "5900f407-56d5-4c98-af25-2f5fcebf898f",
+      "effective_time": "20200608",
+      "version": "9",
       "openfda": {
         "application_number": [
           "NDA212725"
@@ -152,7 +152,7 @@
           "ENTRECTINIB"
         ],
         "spl_id": [
-          "02a645ca-9221-4f0f-9182-06f02f2e07ea"
+          "5900f407-56d5-4c98-af25-2f5fcebf898f"
         ],
         "spl_set_id": [
           "c7c71b0c-2549-4495-86b6-c2807fa54908"
