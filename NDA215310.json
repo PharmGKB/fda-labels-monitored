@@ -118,9 +118,9 @@
         "PRINCIPAL DISPLAY PANEL - 40 mg Capsule Bottle Label NDC 63020-040-12 EXKIVITY™ mobocertinib 40 mg capsules 120 capsules Rx Only For Oral Use Takeda PRINCIPAL DISPLAY PANEL - 40 mg Capsule Bottle Label"
       ],
       "set_id": "f1a91500-a944-4cb8-b4a8-ae278bcf728d",
-      "id": "99ea5b3f-6642-40f9-b266-9b3e460174d5",
-      "effective_time": "20210922",
-      "version": "1",
+      "id": "46bccc44-788b-444f-a47d-8b6e8f81d30b",
+      "effective_time": "20221025",
+      "version": "2",
       "openfda": {
         "application_number": [
           "NDA215310"
@@ -146,12 +146,8 @@
         "substance_name": [
           "MOBOCERTINIB"
         ],
-        "rxcui": [
-          "2570742",
-          "2570748"
-        ],
         "spl_id": [
-          "99ea5b3f-6642-40f9-b266-9b3e460174d5"
+          "46bccc44-788b-444f-a47d-8b6e8f81d30b"
         ],
         "spl_set_id": [
           "f1a91500-a944-4cb8-b4a8-ae278bcf728d"

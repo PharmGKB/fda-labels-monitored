@@ -139,9 +139,9 @@
         "PRINCIPAL DISPLAY PANEL - 100 mcg Cartridge Carton NDC 68875-0205-2 For subcutaneous use only Natpara ® (parathyroid hormone) for Injection 100 mcg/dose Contains two 14-dose medication cartridges of Natpara ® (parathyroid hormone) for Injection Use only after training by a healthcare provider For use with the Mixing Device, Q-Cliq™ pen, and 31G x 8 mm BD Ultra-Fine™ Pen Needles See enclosed Full Prescribing Information, Medication Guide, and Instructions for Use Protect from light Do not shake or freeze Must be refrigerated. Store at 36 to 46°F (2 to 8°C) Discard mixed solution after 14 days Rx only Shire PRINCIPAL DISPLAY PANEL - 100 mcg Cartridge Carton"
       ],
       "set_id": "d11fba31-0a6c-11e3-8ffd-0800200c9a66",
-      "id": "8634c6fc-7440-4ede-92a6-ae40ecc90f8d",
-      "effective_time": "20220426",
-      "version": "13",
+      "id": "4e21ad11-e629-4a31-97ab-3c6f03703c47",
+      "effective_time": "20221102",
+      "version": "14",
       "openfda": {
         "application_number": [
           "BLA125511"
@@ -153,7 +153,7 @@
           "PARATHYROID HORMONE"
         ],
         "manufacturer_name": [
-          "Shire-NPS Pharmaceuticals, Inc."
+          "Takeda Pharmaceuticals America, Inc."
         ],
         "product_ndc": [
           "68875-0202",
@@ -171,7 +171,7 @@
           "PARATHYROID HORMONE"
         ],
         "spl_id": [
-          "8634c6fc-7440-4ede-92a6-ae40ecc90f8d"
+          "4e21ad11-e629-4a31-97ab-3c6f03703c47"
         ],
         "spl_set_id": [
           "d11fba31-0a6c-11e3-8ffd-0800200c9a66"

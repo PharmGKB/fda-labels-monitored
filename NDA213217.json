@@ -128,9 +128,9 @@
         "PRINCIPAL DISPLAY PANEL - 80 mg Capsule Carton NDC 72579-011-02 Rx only Brukinsa ® zanubrutinib capsules 80 mg Do not open, break or chew the capsules 120 Capsules PRINCIPAL DISPLAY PANEL - 80 mg Capsule Carton"
       ],
       "set_id": "3e08fe23-d70e-424c-bc51-1222e320f902",
-      "id": "2bc28e99-48ab-438b-8960-e0d3eb127c46",
-      "effective_time": "20220629",
-      "version": "6",
+      "id": "88b124f1-259f-4dec-a1a0-b49e5704c26d",
+      "effective_time": "20221003",
+      "version": "7",
       "openfda": {
         "application_number": [
           "NDA213217"
@@ -157,7 +157,7 @@
           "ZANUBRUTINIB"
         ],
         "spl_id": [
-          "2bc28e99-48ab-438b-8960-e0d3eb127c46"
+          "88b124f1-259f-4dec-a1a0-b49e5704c26d"
         ],
         "spl_set_id": [
           "3e08fe23-d70e-424c-bc51-1222e320f902"
