@@ -116,9 +116,9 @@
         "PACKAGE/LABEL PRINCIPAL DISPLAY PANEL YAZ Individual Trade Carton NDC 50419-405-01 1 Unit Rx only This product (like all oral contraceptives) is intended to prevent pregnancy. It does not protect against HIV infection (AIDS) and other sexually transmitted diseases. YAZ ® (drospirenone & ethinyl estradiol) 3 mg /0.02 mg 28 tablets oral Carton"
       ],
       "set_id": "065f33e4-b587-4e66-b896-ca9ab7b7c876",
-      "id": "9184f52d-3cbf-4a4e-a153-0e2ea95e83f4",
+      "id": "c1c73b33-2a66-4f3a-9183-65ce65b816c0",
       "effective_time": "20220429",
-      "version": "17",
+      "version": "18",
       "openfda": {
         "application_number": [
           "NDA021676"
@@ -139,7 +139,7 @@
           "HUMAN PRESCRIPTION DRUG"
         ],
         "spl_id": [
-          "9184f52d-3cbf-4a4e-a153-0e2ea95e83f4"
+          "c1c73b33-2a66-4f3a-9183-65ce65b816c0"
         ],
         "spl_set_id": [
           "065f33e4-b587-4e66-b896-ca9ab7b7c876"
