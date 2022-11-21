@@ -99,9 +99,9 @@
         "PRINCIPAL DISPLAY PANEL - ARICEPT ODT 10 MG TABLETS NDC 62856-832-30 ARICEPT ® ODT ™ (donepezil HCl) 10 MG orally disintegrating tablets NDC 62856-832-30 ARICEPT® ODT™ (donepezil HCl) 10 MG orally disintegrating tablets"
       ],
       "set_id": "98e451e1-e4d7-4439-a675-c5457ba20975",
-      "id": "5d9041c1-776f-48fc-b958-0b9050e26e80",
-      "effective_time": "20211201",
-      "version": "29",
+      "id": "2f7ced3b-0e81-4807-a6b9-dd084aaae885",
+      "effective_time": "20221115",
+      "version": "30",
       "openfda": {
         "application_number": [
           "NDA020690"
@@ -131,20 +131,8 @@
         "substance_name": [
           "DONEPEZIL HYDROCHLORIDE"
         ],
-        "rxcui": [
-          "997220",
-          "997222",
-          "997223",
-          "997224",
-          "997226",
-          "997228",
-          "997229",
-          "997230",
-          "1100184",
-          "1100187"
-        ],
         "spl_id": [
-          "5d9041c1-776f-48fc-b958-0b9050e26e80"
+          "2f7ced3b-0e81-4807-a6b9-dd084aaae885"
         ],
         "spl_set_id": [
           "98e451e1-e4d7-4439-a675-c5457ba20975"
@@ -167,8 +155,8 @@
         ],
         "upc": [
           "0362856245302",
-          "0362856247306",
-          "0362856246309"
+          "0362856246309",
+          "0362856247306"
         ],
         "unii": [
           "3O2T2PJ89D"

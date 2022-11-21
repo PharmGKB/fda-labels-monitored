@@ -110,9 +110,9 @@
         "PRINCIPAL DISPLAY PANEL NDC 62856-389-01 Halaven™ (eribulin mesylate) Injection 1 mg/2 mL (0.5 mg/mL) For Intravenous Use PRINCIPAL DISPLAY PANEL NDC 62856-389-01 Halaven™ (eribulin mesylate) Injection 1 mg/2 mL (0.5 mg/mL) For Intravenous Use"
       ],
       "set_id": "31ce4750-ded5-4a0b-95e9-f229fa6bc822",
-      "id": "b455cdbe-1fdb-41b2-a4ad-a33af1e02746",
-      "effective_time": "20220914",
-      "version": "63",
+      "id": "60064f1d-3374-4cb3-9dc8-17341077325e",
+      "effective_time": "20220915",
+      "version": "64",
       "openfda": {
         "application_number": [
           "NDA201532"
@@ -139,7 +139,7 @@
           "ERIBULIN MESYLATE"
         ],
         "spl_id": [
-          "b455cdbe-1fdb-41b2-a4ad-a33af1e02746"
+          "60064f1d-3374-4cb3-9dc8-17341077325e"
         ],
         "spl_set_id": [
           "31ce4750-ded5-4a0b-95e9-f229fa6bc822"
