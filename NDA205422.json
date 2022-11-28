@@ -6,7 +6,7 @@
     "results": {
       "skip": 0,
       "limit": 1,
-      "total": 1
+      "total": 2
     }
   },
   "results": [
@@ -172,9 +172,9 @@
         "PRINCIPAL DISPLAY PANEL- 4 mg Tablet Bottle Carton 4 mg 30 Tablets NDC 59148-040-13 REXULTI ® brexpiprazole tablets Rx only Keep out of the reach of children DISPENSE THE ACCOMPANYING MEDICATION GUIDE TO EACH PATIENT Otsuka Lundbeck PRINCIPAL DISPLAY PANEL- 4 mg Tablet Bottle Carton"
       ],
       "set_id": "2d301358-6291-4ec1-bd87-37b4ad9bd850",
-      "id": "31903d3f-5e72-4215-aeeb-71f10e424cf1",
-      "effective_time": "20211230",
-      "version": "17",
+      "id": "365d82c0-90b6-45ab-8353-c7a784f69991",
+      "effective_time": "20221109",
+      "version": "18",
       "openfda": {
         "application_number": [
           "NDA205422"
@@ -220,7 +220,7 @@
           "1658345"
         ],
         "spl_id": [
-          "31903d3f-5e72-4215-aeeb-71f10e424cf1"
+          "365d82c0-90b6-45ab-8353-c7a784f69991"
         ],
         "spl_set_id": [
           "2d301358-6291-4ec1-bd87-37b4ad9bd850"
@@ -238,11 +238,11 @@
         ],
         "upc": [
           "0359148036137",
-          "0359148035130",
+          "0359148039138",
+          "0359148038131",
           "0359148037134",
           "0359148040134",
-          "0359148039138",
-          "0359148038131"
+          "0359148035130"
         ],
         "nui": [
           "N0000175430"
