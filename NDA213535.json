@@ -130,9 +130,9 @@
         "PRINCIPAL DISPLAY PANEL - 60 mg/80 mL Bottle Carton NDC 50242-175-07 Evrysdi ® (risdiplam) for oral solution 60 mg/80 mL (0.75 mg/mL) Attention pharmacist: Evrysdi must be constituted with water prior to dispensing. 80 mL (2.71 fl oz) total volume after constitution Rx only Genentech 10252477 PRINCIPAL DISPLAY PANEL - 60 mg/80 mL Bottle Carton"
       ],
       "set_id": "eceb9a99-7191-4be5-87c3-0102707cf98e",
-      "id": "9db28cf9-87ba-4f32-9e51-835751b22c16",
-      "effective_time": "20221020",
-      "version": "13",
+      "id": "f98ed020-d5c8-472d-abea-5021ad2970fb",
+      "effective_time": "20221029",
+      "version": "14",
       "openfda": {
         "application_number": [
           "NDA213535"
@@ -158,12 +158,8 @@
         "substance_name": [
           "RISDIPLAM"
         ],
-        "rxcui": [
-          "2390940",
-          "2390946"
-        ],
         "spl_id": [
-          "9db28cf9-87ba-4f32-9e51-835751b22c16"
+          "f98ed020-d5c8-472d-abea-5021ad2970fb"
         ],
         "spl_set_id": [
           "eceb9a99-7191-4be5-87c3-0102707cf98e"

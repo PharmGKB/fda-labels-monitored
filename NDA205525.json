@@ -120,9 +120,9 @@
         "PRINCIPAL DISPLAY PANEL - NDC: 78613-201-30 - 30 mL Bottle Label 30 mL Carton Label"
       ],
       "set_id": "a7801c70-995d-46a2-91ee-141ef427c6b5",
-      "id": "dfb3bda7-ed97-4dda-9634-06ed84798bbe",
-      "effective_time": "20220927",
-      "version": "3",
+      "id": "8b9b88b0-6abe-11ed-8a30-0800200c9a66",
+      "effective_time": "20221123",
+      "version": "4",
       "openfda": {
         "application_number": [
           "NDA205525"
@@ -134,7 +134,7 @@
           "DRONABINOL"
         ],
         "manufacturer_name": [
-          "Benuvia Therapeutics Inc."
+          "Benuvia Operations, LLC"
         ],
         "product_ndc": [
           "78613-201"
@@ -148,12 +148,8 @@
         "substance_name": [
           "DRONABINOL"
         ],
-        "rxcui": [
-          "1928948",
-          "1928954"
-        ],
         "spl_id": [
-          "dfb3bda7-ed97-4dda-9634-06ed84798bbe"
+          "8b9b88b0-6abe-11ed-8a30-0800200c9a66"
         ],
         "spl_set_id": [
           "a7801c70-995d-46a2-91ee-141ef427c6b5"
