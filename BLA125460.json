@@ -91,9 +91,9 @@
         "PACKAGE LABEL NDC 68135-100-01 VIMIZIM® (elosulfase alfa) 5 mg/5 mL (1 mg/mL) For intravenous infusion Must be diluted prior to use Rx Only Vimizim Carton Vimizim 5mg/5mL"
       ],
       "set_id": "0caa2565-12b2-0ad0-1f9a-273e81c3d4cc",
-      "id": "ce1a94fc-5782-4f8d-af13-c5251ad03b9a",
+      "id": "8c7a8949-b407-41ab-b2e3-88c83b6a9213",
       "effective_time": "20210121",
-      "version": "33",
+      "version": "35",
       "openfda": {
         "application_number": [
           "BLA125460"
@@ -119,12 +119,8 @@
         "substance_name": [
           "ELOSULFASE ALFA"
         ],
-        "rxcui": [
-          "1490047",
-          "1490052"
-        ],
         "spl_id": [
-          "ce1a94fc-5782-4f8d-af13-c5251ad03b9a"
+          "8c7a8949-b407-41ab-b2e3-88c83b6a9213"
         ],
         "spl_set_id": [
           "0caa2565-12b2-0ad0-1f9a-273e81c3d4cc"

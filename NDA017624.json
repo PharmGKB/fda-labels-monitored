@@ -96,15 +96,15 @@
       ],
       "spl_unclassified_section": [
         "ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY Published studies in animals demonstrate that the use of anesthetic agents during the period of rapid brain growth or synaptogenesis results in widespread neuronal and oligodendrocyte cell loss in the developing brain and alterations in synaptic morphology and neurogenesis. Based on comparisons across species, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester through the first several months of life, but may extend out to approximately 3 years of age in humans. In primates, exposure to 3 hours of an anesthetic regimen that produced a light surgical plane of anesthesia did not increase neuronal cell loss, however, treatment regimens of 5 hours or longer increased neuronal cell loss. Data in rodents and in primates suggest that the neuronal and oligodendrocyte cell losses are associated with subtle but prolonged cognitive deficits in learning and memory. The clinical significance of these nonclinical findings is not known, and healthcare providers should balance the benefits of appropriate anesthesia in neonates and young children who require procedures against the potential risks suggested by the nonclinical data (see WARNINGS/Pediatric Neurotoxicity and PRECAUTIONS/Pregnancy, Pediatric Use ).",
-        "Manufactured for Baxter Healthcare Corporation Deerfield, IL 60015 USA Baxter and Forane are trademarks of Baxter International Inc. For Product Inquiry 1 800 ANA DRUG (1-800-262-3784) Revised: Aug 2022 07-19-00-5144"
+        "Manufactured for Baxter Healthcare Corporation Deerfield, IL 60015 USA Baxter and Forane are trademarks of Baxter International Inc. For Product Inquiry 1 800 ANA DRUG (1-800-262-3784) Revised: Nov 2022 07-19-00-5144"
       ],
       "package_label_principal_display_panel": [
         "PACKAGE LABEL - PRINCIPAL DISPLAY PANEL Container Label NDC 10019-360-40 Forane (isoflurane, USP) Liquid for Inhalation 100 mL Baxter Manufactured for Baxter Healthcare Corporation Deerfield, IL 60015 USA Rx only 1 - chloro - 2, 2, 2 - trifluoroethyl difluoromethyl ether A nonflammable, nonexplosive inhalation anesthetic Store at room temperature 15°-30°C (59°-86°F) [see USP]. IMPORTANT: See package insert for dosage and directions for use. Baxter and Forane are trademarks of Baxter International Inc. For Product Inquiry 1 800 ANA DRUG (1-800-262-3784) 400-424-05 3 N 10019 36040 9 Carton Label Forane (isoflurane, USP) NDC 10019-360-40 6 x 100 mL Bottles Store at room temperature 15°-30°C (59°-86°F). Exp Nov 2006 Lot A111A111 Mfd. for Baxter Healthcare Corporation, Deerfield, IL 60015 USA 0001 475-065-02 Forane Container Label, NDC 10019-360-40 Forane Carton Label - NDC 10019-360-40"
       ],
       "set_id": "3d30eb8d-a62e-475f-926b-78ba63bee9c8",
-      "id": "a78c4ffa-164e-4217-8efa-8611669a7d59",
+      "id": "a70e43ba-cc0a-485c-994d-c788441c10a0",
       "effective_time": "20221101",
-      "version": "8",
+      "version": "9",
       "openfda": {
         "application_number": [
           "NDA017624"
@@ -131,7 +131,7 @@
           "ISOFLURANE"
         ],
         "spl_id": [
-          "a78c4ffa-164e-4217-8efa-8611669a7d59"
+          "a70e43ba-cc0a-485c-994d-c788441c10a0"
         ],
         "spl_set_id": [
           "3d30eb8d-a62e-475f-926b-78ba63bee9c8"
