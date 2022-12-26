@@ -118,9 +118,9 @@
         "PRINCIPAL DISPLAY PANEL - 120 mg/mL Syringe Carton NDC 50242-007-01 Rx only Enspryng ® (satralizumab-mwge) Injection 120 mg/mL For Subcutaneous Use. Single-Dose Prefilled Syringe. Refrigerate at 2°C to 8°C (36°F to 46°F) in original carton to protect from light. Do not freeze. Do not shake. ATTENTION PHARMACIST: Each patient is required to receive the enclosed Medication Guide. 1 prefilled syringe Genentech 10240933 PRINCIPAL DISPLAY PANEL - 120 mg/mL Syringe Carton"
       ],
       "set_id": "64c156a4-9bad-4d45-a294-0733c141f47b",
-      "id": "b7531a99-cf8d-443e-8187-260cf3ec6033",
-      "effective_time": "20200715",
-      "version": "7",
+      "id": "98d1ee6f-b8f1-4107-bed4-6cbf0bed2686",
+      "effective_time": "20220428",
+      "version": "8",
       "openfda": {
         "application_number": [
           "BLA761149"
@@ -147,7 +147,7 @@
           "SATRALIZUMAB"
         ],
         "spl_id": [
-          "b7531a99-cf8d-443e-8187-260cf3ec6033"
+          "98d1ee6f-b8f1-4107-bed4-6cbf0bed2686"
         ],
         "spl_set_id": [
           "64c156a4-9bad-4d45-a294-0733c141f47b"
