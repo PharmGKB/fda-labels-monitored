@@ -6,7 +6,7 @@
     "results": {
       "skip": 0,
       "limit": 1,
-      "total": 6
+      "total": 8
     }
   },
   "results": [
@@ -51,9 +51,9 @@
         "SAMPLE PACKAGE LABEL Label1.jpg"
       ],
       "set_id": "22cc5200-6998-4c70-a51a-49bf2ad8c52b",
-      "id": "920e3833-63db-4038-b3f8-7d807edaace0",
-      "effective_time": "20211119",
-      "version": "9",
+      "id": "b5081412-edd8-4775-ba94-b9aa0eb3f1cd",
+      "effective_time": "20221229",
+      "version": "10",
       "openfda": {
         "application_number": [
           "NDA009435"
@@ -80,12 +80,8 @@
         "substance_name": [
           "CHLOROPROCAINE HYDROCHLORIDE"
         ],
-        "rxcui": [
-          "992805",
-          "992807"
-        ],
         "spl_id": [
-          "920e3833-63db-4038-b3f8-7d807edaace0"
+          "b5081412-edd8-4775-ba94-b9aa0eb3f1cd"
         ],
         "spl_set_id": [
           "22cc5200-6998-4c70-a51a-49bf2ad8c52b"

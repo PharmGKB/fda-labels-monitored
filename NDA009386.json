@@ -79,15 +79,15 @@
         "REFERENCES 1. ONS Clinical Practice Committee. Cancer Chemotherapy Guidelines and Recommendations for Practice. Pittsburgh, PA. Oncology Nursing Society; 1999:32-41. 2. Recommendations for the safe handling of parenteral antineoplastic drugs. Washington, DC: Division of Safety, Clinical Center Pharmacy Department and Cancer Nursing Services, National Institutes of Health and Human Services; 1992. US Dept of Health and Human Services, Public Health Service publication NIH 92-2621. 3. AMA Council on Scientific Affairs. Guidelines for handling parenteral antineoplastics. JAMA. 1985;253:1590-1591. 4. National Study Commission on Cytotoxic Exposure. Recommendations for handling cytotoxic agents. 1987. Available from Louis P. Jeffrey, Chairman, National Study Commission on Cytotoxic Exposure. Massachusetts College of Pharmacy and Allied Health Sciences, 179 Longwood Avenue, Boston, MA 02115. 5. Clinical Oncological Society of Australia. Guidelines and recommendations for safe handling of antineoplastic agents. Med J Australia. 1983;1:426-428. 6. Jones RB, Frank R, Mass T. Safe handling of chemotherapeutic agents: a report from the Mount Sinai Medical Center. CA-A Cancer J for Clin. 1983;33:258-263. 7. American Society of Hospital Pharmacists. ASHP technical assistance bulletin on handling cytotoxic and hazardous drugs. Am J Hosp Pharm. 1990;47:1033-1049. 8. Controlling Occupational Exposure to Hazardous Drugs. (OSHA Work-Practice Guidelines.) Am J. Health-Syst Pharm. 1996:53:1669-1685."
       ],
       "spl_unclassified_section": [
-        "Mfd. by: EXCELLA GmbH, Feucht, Germany Distributed by: Woodward Pharma Services LLC Wixom, MI 48393 Rev. 04/22"
+        "Distributed by: Woodward Pharma Services LLC Wixom, MI 48393 Made in Germany Rev. 06/2022 Woodward Logo"
       ],
       "package_label_principal_display_panel": [
         "Principal Display Panel NDC 69784-620-25 MYLERAN ® (busulfan) Tablets 2 mg 25 Tablets Each tablet contains 2 mg busulfan. R x only carton label"
       ],
       "set_id": "00ca5f69-8944-47f8-8ebf-98b0b8062c20",
-      "id": "37912dc1-0d80-4738-a778-8b3d0df4bb70",
-      "effective_time": "20220415",
-      "version": "4",
+      "id": "f68d65a9-9f60-4ff8-9eb4-36d86b364683",
+      "effective_time": "20221229",
+      "version": "5",
       "openfda": {
         "application_number": [
           "NDA009386"
@@ -113,12 +113,8 @@
         "substance_name": [
           "BUSULFAN"
         ],
-        "rxcui": [
-          "105551",
-          "197422"
-        ],
         "spl_id": [
-          "37912dc1-0d80-4738-a778-8b3d0df4bb70"
+          "f68d65a9-9f60-4ff8-9eb4-36d86b364683"
         ],
         "spl_set_id": [
           "00ca5f69-8944-47f8-8ebf-98b0b8062c20"
