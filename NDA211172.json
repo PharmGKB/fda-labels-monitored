@@ -107,9 +107,9 @@
         "PRINCIPAL DISPLAY PANEL - NDC: 72126-007-01 - 4-count Carton Label 4-count Carton Label"
       ],
       "set_id": "8513207e-b55f-417b-9473-af785146a543",
-      "id": "096941de-9387-47b2-b717-918d2709ed37",
-      "effective_time": "20220629",
-      "version": "8",
+      "id": "14be3820-eafc-42a9-b3dd-d4b0e6e57557",
+      "effective_time": "20230110",
+      "version": "9",
       "openfda": {
         "application_number": [
           "NDA211172"
@@ -135,12 +135,8 @@
         "substance_name": [
           "INOTERSEN SODIUM"
         ],
-        "rxcui": [
-          "2099318",
-          "2099323"
-        ],
         "spl_id": [
-          "096941de-9387-47b2-b717-918d2709ed37"
+          "14be3820-eafc-42a9-b3dd-d4b0e6e57557"
         ],
         "spl_set_id": [
           "8513207e-b55f-417b-9473-af785146a543"

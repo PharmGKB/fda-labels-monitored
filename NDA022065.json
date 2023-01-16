@@ -126,9 +126,9 @@
         "Principal Display Panel - Vial Label Single dose vial NDC 70020-1266-2 DILUENT for IXEMPRA ® (ixabepilone) for injection 23.5 mL Rx only Not for direct administration Distributed by R-Pharm US LLC Princeton, NJ 08543 USA ixe00-0000-08-2"
       ],
       "set_id": "241f0b1e-8b95-470d-876f-bf1804daaf18",
-      "id": "e3a3219f-dced-1ff4-e053-2995a90a9df8",
-      "effective_time": "20220712",
-      "version": "9",
+      "id": "f1ebe33f-36c1-cc76-e053-2a95a90a09d9",
+      "effective_time": "20230110",
+      "version": "10",
       "openfda": {
         "application_number": [
           "NDA022065"
@@ -149,14 +149,8 @@
         "product_type": [
           "HUMAN PRESCRIPTION DRUG"
         ],
-        "rxcui": [
-          "1726271",
-          "1726274",
-          "1726276",
-          "1726278"
-        ],
         "spl_id": [
-          "e3a3219f-dced-1ff4-e053-2995a90a9df8"
+          "f1ebe33f-36c1-cc76-e053-2a95a90a09d9"
         ],
         "spl_set_id": [
           "241f0b1e-8b95-470d-876f-bf1804daaf18"

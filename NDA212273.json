@@ -136,9 +136,9 @@
         "PRINCIPAL DISPLAY PANEL - Kit Carton - 51167-106-02 NDC 51167-106-02 Rx Only trikafta ® (elexacaftor, tezacaftor and ivacaftor) 50 mg, 25 mg and 37.5 mg; (ivacaftor) 75 mg tablets 84 Tablets 4-wallets (each containing 14 tablets of elexacaftor, tezacaftor, and ivacaftor and 7 tablets of ivacaftor) LIFT HERE TO OPEN → PRINCIPAL DISPLAY PANEL - Kit Carton - 51167-106-02"
       ],
       "set_id": "f354423a-85c2-41c3-a9db-0f3aee135d8d",
-      "id": "18d4f5f5-232c-441a-b882-18e9e7e58d91",
-      "effective_time": "20221216",
-      "version": "12",
+      "id": "b640252c-3bf5-4350-ba08-1f8f925e8fd3",
+      "effective_time": "20230109",
+      "version": "13",
       "openfda": {
         "application_number": [
           "NDA212273"
@@ -170,13 +170,15 @@
           "2557216"
         ],
         "spl_id": [
-          "18d4f5f5-232c-441a-b882-18e9e7e58d91"
+          "b640252c-3bf5-4350-ba08-1f8f925e8fd3"
         ],
         "spl_set_id": [
           "f354423a-85c2-41c3-a9db-0f3aee135d8d"
         ],
         "package_ndc": [
           "51167-331-01",
+          "51167-431-14",
+          "51167-531-07",
           "51167-106-02",
           "51167-206-14",
           "51167-306-07"
