@@ -120,9 +120,9 @@
         "PRINCIPAL DISPLAY PANEL - 5 mg Tablet Bottle Carton NDC 59676-050-28 Balversa ® (erdafitinib) tablets 5 mg Each film-coated tablet contains 5 mg of erdafitinib. Rx only 28 film-coated tablets PRINCIPAL DISPLAY PANEL - 5 mg Tablet Bottle Carton"
       ],
       "set_id": "2a8aa5c0-6c92-4566-8c45-e8f4d1fc20ee",
-      "id": "f2a03691-6524-7032-e053-2a95a90a05eb",
-      "effective_time": "20230119",
-      "version": "8",
+      "id": "f3d25500-cd9c-3d83-e053-2a95a90a6ac8",
+      "effective_time": "20230203",
+      "version": "9",
       "openfda": {
         "application_number": [
           "NDA212018"
@@ -150,8 +150,16 @@
         "substance_name": [
           "ERDAFITINIB"
         ],
+        "rxcui": [
+          "2123131",
+          "2123137",
+          "2123139",
+          "2123141",
+          "2123143",
+          "2123145"
+        ],
         "spl_id": [
-          "f2a03691-6524-7032-e053-2a95a90a05eb"
+          "f3d25500-cd9c-3d83-e053-2a95a90a6ac8"
         ],
         "spl_set_id": [
           "2a8aa5c0-6c92-4566-8c45-e8f4d1fc20ee"

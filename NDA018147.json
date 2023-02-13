@@ -103,9 +103,9 @@
         "PRINCIPAL DISPLAY PANEL - 20 mg Capsule Bottle Label ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 59762-0145-1 100 Capsules GREENSTONE ® BRAND piroxicam capsules 20 mg Rx only PRINCIPAL DISPLAY PANEL - 20 mg Capsule Bottle Label"
       ],
       "set_id": "70be7d33-bc8b-4f48-84c6-a8e3d1476e97",
-      "id": "dcd5d6a9-b3fd-4664-a892-0b6317c9bcf4",
-      "effective_time": "20221230",
-      "version": "9",
+      "id": "36ad584a-a1e6-4450-97ca-1896e80b28ce",
+      "effective_time": "20230202",
+      "version": "10",
       "openfda": {
         "application_number": [
           "NDA018147"
@@ -137,7 +137,7 @@
           "198108"
         ],
         "spl_id": [
-          "dcd5d6a9-b3fd-4664-a892-0b6317c9bcf4"
+          "36ad584a-a1e6-4450-97ca-1896e80b28ce"
         ],
         "spl_set_id": [
           "70be7d33-bc8b-4f48-84c6-a8e3d1476e97"
@@ -150,8 +150,8 @@
           true
         ],
         "upc": [
-          "0359762014511",
-          "0359762014016"
+          "0359762014016",
+          "0359762014511"
         ],
         "nui": [
           "N0000000160",

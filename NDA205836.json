@@ -145,9 +145,9 @@
         "PRINCIPAL DISPLAY PANEL - 50 mg/5 mL Vial Carton NDC 50474-970-75 Rx only BRIVIACT ® (brivaracetam) injection CV 50 mg/5 mL (10 mg/mL) For Intravenous Use Only 10 vials PRINCIPAL DISPLAY PANEL - 50 mg/5 mL Vial Carton"
       ],
       "set_id": "3cf2f439-0e97-443e-8e33-25ecef616f6c",
-      "id": "a057328f-4088-4f89-af31-3b237ff83e73",
-      "effective_time": "20220714",
-      "version": "17",
+      "id": "6f6411aa-b96c-4e52-ac94-a0f64e085558",
+      "effective_time": "20230207",
+      "version": "18",
       "openfda": {
         "application_number": [
           "NDA205836"
@@ -180,7 +180,7 @@
           "BRIVARACETAM"
         ],
         "spl_id": [
-          "a057328f-4088-4f89-af31-3b237ff83e73"
+          "6f6411aa-b96c-4e52-ac94-a0f64e085558"
         ],
         "spl_set_id": [
           "3cf2f439-0e97-443e-8e33-25ecef616f6c"
