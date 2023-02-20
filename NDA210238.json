@@ -118,9 +118,9 @@
         "PRINCIPAL DISPLAY PANEL NDC 71369-020-30 20 mg per tablet Rx Only Doptelet Two blister cards with 15 tablets each (30 tablets) PRINCIPAL DISPLAY PANEL NDC 71369-020-30 20 mg per tablet Rx Only Doptelet Two blister cards with 15 tablets each (30 tablets)"
       ],
       "set_id": "e2d5960d-6c18-46cc-86bd-089222b09852",
-      "id": "38fa97c5-634d-4343-8ee1-85e68ed5501d",
-      "effective_time": "20210723",
-      "version": "15",
+      "id": "b9ed06bb-65bc-416a-9b74-8042ba356bff",
+      "effective_time": "20230217",
+      "version": "16",
       "openfda": {
         "application_number": [
           "NDA210238"
@@ -146,16 +146,8 @@
         "substance_name": [
           "AVATROMBOPAG MALEATE"
         ],
-        "rxcui": [
-          "2045951",
-          "2045952",
-          "2045958",
-          "2045959",
-          "2045960",
-          "2045961"
-        ],
         "spl_id": [
-          "38fa97c5-634d-4343-8ee1-85e68ed5501d"
+          "b9ed06bb-65bc-416a-9b74-8042ba356bff"
         ],
         "spl_set_id": [
           "e2d5960d-6c18-46cc-86bd-089222b09852"
