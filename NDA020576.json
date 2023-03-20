@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "spl_product_data_elements": [
+        "Cystadane betaine BETAINE BETAINE"
+      ],
+      "indications_and_usage": [
+        "1 INDICATIONS AND USAGE CYSTADANE ® is indicated for the treatment of homocystinuria to decrease elevated homocysteine blood concentrations in pediatric and adult patients. Included within the category of homocystinuria are: Cystathionine beta-synthase (CBS) deficiency 5,10-methylenetetrahydrofolate reductase (MTHFR) deficiency Cobalamin cofactor metabolism (cbl) defect CYSTADANE is a methylating agent indicated in pediatric and adult patients for the treatment of homocystinuria to decrease elevated homocysteine blood concentrations. Included within the category of homocystinuria are ( 1 ): Cystathionine beta-synthase (CBS) deficiency 5,10-methylenetetrahydrofolate reductase (MTHFR) deficiency Cobalamin cofactor metabolism (cbl) defect"
+      ],
+      "dosage_and_administration": [
+        "2 DOSAGE AND ADMINISTRATION Adults and Pediatric Patients 3 Years of Age and Older The recommended dosage is 6 grams per day, administered orally in divided doses of 3 grams twice daily. ( 2.1 ) Pediatric Patients Less than 3 Years of Age The recommended starting dosage is 100 mg/kg/day, administered orally in divided doses of 50 mg/kg twice daily, and then increased weekly by 50 mg/kg increments. ( 2.1 ) Monitor patient response by plasma homocysteine concentrations. ( 2.1 ) Increase the dosage gradually until the plasma total homocysteine concentration is undetectable or present only in small amounts. ( 2.1 ) Preparation and Adminstration Instructions Prescribed amount of CYSTADANE should be measured with the measuring scoop provided and then dissolved in 4 to 6 ounces of water, juice, milk, or formula until completely dissolved, or mixed with food for immediate ingestion. ( 2.2 ) 2.1 Dosage Therapy with CYSTADANE should be directed by physicians knowledgeable in the management of patients with homocystinuria. Adults and Pediatric Patients 3 Years of Age and Older The recommended dosage is 6 grams per day, administered orally in divided doses of 3 grams twice daily. Pediatric Patients Less than 3 Years of Age The recommended starting dosage is 100 mg/kg/day divided in twice daily doses, and then increased weekly by 50 mg/kg increments. Monitoring Monitor patient response to CYSTADANE by homocysteine plasma concnetration. Increase the dosage in all patients gradually until the plasma total homocysteine concentration is undetectable or present only in small amounts. An initial response in homocysteine plasma concentrations usually occurs within several days and steady state plasma concentrations occur within a month. Monitor plasma methionine concentrations in patients with CBS deficiency [See Warnings and Precautions ( 5.1 )]. Maximum Dosage Dosages of up to 20 grams/day have been necessary to control homocysteine concentrations in some patients. However, one pharmacokinetic and pharmacodynamic in vitro simulation study indicated minimal benefit from exceeding a twice-daily dosing schedule and a 150 mg/kg/day dosage for CYSTADANE. 2.2 Prepartion and Administration Instructions Shake bottle lightly before removing cap. Measure the number of scoops for the patient's dose with the scoop provided. One level scoop (1.7 mL) is equivalent to 1 gram of betaine anhydrous powder. Mix powder with 4 to 6 ounces (120 to 180 mL) of water, juice, milk, or formula until completely dissolved, or mix with food, then ingest mixture immediately. Always replace the cap tightly after using and protect the bottle from moisture."
+      ],
+      "dosage_forms_and_strengths": [
+        "3 DOSAGE FORMS AND STRENGTHS CYSTADANE is a white, granular, hygroscopic powder for oral solution available in bottles containing 180 grams of betaine anhydrous. For oral solution: in bottles containing 180 grams of betaine anhydrous. ( 3 )"
+      ],
+      "contraindications": [
+        "4 CONTRAINDICATIONS None. None ( 4 )"
+      ],
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Hypermethioninemia in Patients with CBS Deficiency: CYSTADANE may worsen elevated plasma methionine concentrations and cerebral edema has been reported. Monitor plasma methionine concentrations in patients with CBS deficiency. Keep plasma methionine concentrations below 1,000 micromol/L through dietary modification and, if necessary, a reduction of CYSTADANE dosage. ( 5.1 ) 5.1 Hypermethioninemia in Patients with CBS Deficiency Patients with homocystinuria due to cystathionine beta-synthase (CBS) deficiency may also have elevated plasma methionine concentrations. Treatment with CYSTADANE may further increase methionine concentrations due to the remethylation of homocysteine to methionine. Cerebral edema has been reported in patients with hypermethioninemia, including patients treated with CYSTADANE [ see Adverse Reactions ( 6.2 ) ]. Monitor plasma methionine concentrations in patients with CBS deficiency. Plasma methionine concentrations should be kept below 1,000 micromol/L through dietary modification and, if necessary, a reduction of CYSTADANE dosage."
+      ],
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS The following serious adverse reactions are described elsewhere in labeling: Hypermethioninemia and cerebral edema in patients with CBS deficiency [ see Warnings and Precautions ( 5.1 ) ]. Most common adverse reactions (> 2%) are: nausea and gastrointestinal distress, based on physician survey ( 6.1 ). To report SUSPECTED ADVERSE REACTIONS, contact Recordati Rare Diseases Inc. at 1-888-575-8344, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. See 17 for PATIENT COUNSELING INFORMATION. Revised 10/2019 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. The assessment of clinical adverse reactions is based on a survey study of 41 physicians, who treated a total of 111 homocystinuria patients with CYSTADANE. Adverse reactions were retrospectively recalled and were not collected systematically in this open-label, uncontrolled, physician survey. Thus, this list may not encompass all types of potential adverse reactions, reliably estimate their frequency, or establish a causal relationship to drug exposure. The following adverse reactions were reported (Table 1): Table 1: Number of Patients with Adverse Reactions to CYSTADANE by Physician Survey Adverse Reactions Number of Patients Nausea 2 Gastrointestinal distress 2 Diarrhea 1 \"Bad Taste\" 1 \"Caused Odor\" 1 Questionable psychological changes 1 \"Aspirated the powder\" 1 6.2 Postmarketing Experience The following adverse reactions have been identified during post approval use of CYSTADANE. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Severe cerebral edema and hypermethioninemia have been reported within 2 weeks to 6 months of starting CYSTADANE therapy, with complete recovery after discontinuation of CYSTADANE. All patients who developed cerebral edema had homocystinuria due to CBS deficiency and had severe elevation in plasma methionine concentrations (range 1,000 to 3,000 microM). As cerebral edema has also been reported in patients with hypermethioninemia, secondary hypermethioninemia due to betaine therapy has been postulated as a possible mechanism of action [ see Warnings and Precautions ( 5.1 ) ]. Other adverse reactions include: anorexia, agitation, depression, irritability, personality disorder, sleep disturbed, dental disorders, diarrhea, glossitis, nausea, stomach discomfort, vomiting, hair loss, hives, skin odor abnormalities, and urinary incontinence."
+      ],
+      "adverse_reactions_table": [
+        "<table border=\"0\" width=\"100%\"><caption>Table 1: Number of Patients with Adverse Reactions to CYSTADANE by Physician Survey</caption><tbody><tr><td><content styleCode=\"bold\">Adverse Reactions</content></td><td><content styleCode=\"bold\">Number of Patients</content></td></tr><tr><td>Nausea</td><td>2</td></tr><tr><td>Gastrointestinal distress</td><td>2</td></tr><tr><td>Diarrhea</td><td>1</td></tr><tr><td>&quot;Bad Taste&quot;</td><td>1</td></tr><tr><td>&quot;Caused Odor&quot;</td><td>1</td></tr><tr><td>Questionable psychological changes</td><td>1</td></tr><tr><td>&quot;Aspirated the powder&quot;</td><td>1</td></tr></tbody></table>"
+      ],
+      "use_in_specific_populations": [
+        "8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Risk Summary Available data from a limited number of published case reports and postmarketing experience with CYSTADANE use in pregnancy have not identified any drug associated risks for major birth defects, miscarriage, or adverse maternal or fetal outcomes. Animal reproduction studies have not been conducted with betaine. The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. 8.2 Lactation Risk Summary There are no data on the presence of betaine in human or animal milk, the effects on the breastfed child, or the effects on milk production. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for CYSTADANE and any potential adverse effects on the breastfed child from CYSTADANE or from the underlying maternal condition. 8.4 Pediatric Use The safety and effectiveness of CYSTADANE have been established in pediatric patients. The majority of case studies of homocystinuria patients treated with CYSTADANE have been pediatric patients, including patients ranging in age from 24 days to 17 years [see Clinical Studies ( 14 )]. Children younger than 3 years of age may benefit from dose titration [see Dosage and Administration ( 2.1 )]."
+      ],
+      "overdosage": [
+        "10 OVERDOSAGE There is no information on CYSTADANE overdose in humans. In an acute toxicology study in rats, death occurred frequently at doses equal to or greater than 10 g/kg."
+      ],
+      "description": [
+        "11 DESCRIPTION CYSTADANE (betaine anhydrous for oral solution) is an agent for the treatment of homocystinuria. It contains no ingredients other than anhydrous betaine. CYSTADANE is a white, granular, hygroscopic powder, which is diluted in water and administered orally. The chemical name of betaine anhydrous powder is trimethylglycine. It has a molecular weight of 117.15. The structural formula is: Betaine anhydrous structural formula"
+      ],
+      "clinical_pharmacology": [
+        "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action CYSTADANE acts as a methyl group donor in the remethylation of homocysteine to methionine in patients with homocystinuria. Betaine occurs naturally in the body. It is a metabolite of choline and is present in small amounts in foods such as beets, spinach, cereals, and seafood. 12.2 Pharmacodynamics CYSTADANE was observed to lower plasma homocysteine concentrations in three types of homocystinuria, including CBS deficiency; MTHFR deficiency; and cbl defect. Patients have taken CYSTADANE for many years without evidence of tolerance. There has been no demonstrated correlation between Betaine concentrations and homocysteine concentrations. In CBS-deficient patients, large increases in methionine concentrations over baseline have been observed. CYSTADANE has also been demonstrated to increase low plasma methionine and S-adenosylmethionine (SAM) concentrations in patients with MTHFR deficiency and cbl defect. 12.3 Pharmacokinetics Pharmacokinetic studies of CYSTADANE are not available. Plasma betaine concentrations following adminstration of CYSTADANE have not been measured in patients and have not been correlated to homocysteine concentrations."
+      ],
+      "nonclinical_toxicology": [
+        "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term carcinogenicity and fertility studies have not been conducted with CYSTADANE. No evidence of genotoxicity was demonstrated in the following tests: metaphase analysis of human lymphocytes; bacterial reverse mutation assay; and mouse micronucleus test."
+      ],
+      "clinical_studies": [
+        "14 CLINICAL STUDIES CYSTADANE was studied in a double-blind, placebo-controlled, crossover study in 6 patients (3 males and 3 females) with CBS deficiency, ages 7 to 32 years at enrollment. CYSTADANE was administered at a dosage of 3 grams twice daily, for 12 months. Plasma homocystine concentrations were significantly reduced (p<0.01) compared to placebo. Plasma methionine concentrations were variable and not significantly different compared to placebo. CYSTADANE has also been evaluated in observational studies without concurrent controls in patients with homocystinuria due to CBS deficiency, MTHFR deficiency, or cbl defect. A review of 16 case studies and the randomized controlled trial previously described was also conducted, and the data available for each study were summarized; however, no formal statistical analyses were performed. The studies included a total of 78 male and female patients with homocystinuria who were treated with CYSTADANE. This included 48 patients with CBS deficiency, 13 with MTHFR deficiency, and 11 with cbl defect, ranging in age from 24 days to 53 years. The majority of patients (n=48) received 6 gm/day, 3 patients received less than 6 gm/day, 12 patients received doses from 6 to 15 gm/day, and 5 patients received doses over 15 gm/day. Most patients were treated for more than 3 months (n=57) and 30 patients were treated for 1 year or longer (range 1 month to 11 years). Homocystine is formed nonenzymatically from two molecules of homocysteine, and both have been used to evaluate the effect of CYSTADANE in patients with homocystinuria. Plasma homocystine or homocysteine concentrations were reported numerically for 62 patients, and 61 of these patients showed decreases with CYSTADANE treatment. Homocystine decreased by 83 to 88% regardless of the pre-treatment concentration, and homocysteine decreased by 71 to 83%, regardless of the pre-treatment concentration. Clinical improvement, such as improvement in seizures, or behavioral and cognitive functioning, was reported by the treating physicians in about three-fourths of patients. Many of these patients were also taking other therapies such as vitamin B6 (pyridoxine), vitamin B12 (cobalamin), and folate with variable biochemical responses. In most cases, adding CYSTADANE resulted in a further reduction of either homocystine or homocysteine concentrations."
+      ],
+      "how_supplied": [
+        "16 HOW SUPPLIED/STORAGE AND HANDLING CYSTADANE is available in plastic bottles containing 180 grams of betaine anhydrous as a white, granular, hygroscopic powder. Each bottle is equipped with a plastic child-resistant cap and is supplied with a polypropylene measuring scoop. One level scoop (1.7 mL) is equal to 1 gram of betaine anhydrous powder. NDC 52276-400-01 180 g/bottle Storage Store at room temperature, 15 to 30 ˚C (59 to 86 ˚F). Protect from moisture."
+      ],
+      "information_for_patients": [
+        "17 PATIENT COUNSELING INFORMATION Preparation and Administration Instructions Instruct patients and caregivers to administer CYSTADANE as follows: Shake bottle lightly before removing cap. Measure the number of scoops for the patient’s dose with the scoop provided. One level scoop (1.7 mL) is equivalent to 1 gram of betaine anhydrous powder. Mix powder with 4 to 6 ounces (120 to 180 mL) of water, juice, milk, or formula until completely dissolved, or mix with food, then ingest mixture immediately. Always replace the cap tightly after using and protect bottle from moisture. Supplied by: Recordati Rare Diseases Puteaux, France Licensed to and Distributed by: Recordati Rare Diseases Inc. Lebanon, NJ 08833 U.S.A. For drug or ordering information please call AnovoRx Group, LLC, Customer service at 1-888-487-4703. CYSTADANE ® is a licensed trademark of Recordati Rare Diseases Inc. This product label may have been updated. For the most recent prescribing information, please visit www.recordatirarediseases.com . Part No.: Recordati Rare Diseases, OEP1000 V2 RECORDATI RARE DISEASES logo CYSTADANE® betaine anhydrous for oral solution logo"
+      ],
+      "package_label_principal_display_panel": [
+        "Package/Label Display Panel NDC 52276-400-01 CYSTADANE ® betaine anhydrous for oral solution 1 gram of betaine anhydrous powder per scoopful 180 grams image-05"
+      ],
+      "set_id": "31a684d0-cd98-4e46-b43a-ccbd17c41559",
+      "id": "1f286147-1f5c-4f83-984e-af1298b8712c",
+      "effective_time": "20230111",
+      "version": "5",
+      "openfda": {
+        "application_number": [
+          "NDA020576"
+        ],
+        "brand_name": [
+          "Cystadane"
+        ],
+        "generic_name": [
+          "BETAINE"
+        ],
+        "manufacturer_name": [
+          "Recordati Rare Diseases"
+        ],
+        "product_ndc": [
+          "52276-400"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BETAINE"
+        ],
+        "rxcui": [
+          "404539",
+          "562847"
+        ],
+        "spl_id": [
+          "1f286147-1f5c-4f83-984e-af1298b8712c"
+        ],
+        "spl_set_id": [
+          "31a684d0-cd98-4e46-b43a-ccbd17c41559"
+        ],
+        "package_ndc": [
+          "52276-400-01"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0352276400016"
+        ],
+        "nui": [
+          "N0000175804",
+          "N0000175805"
+        ],
+        "pharm_class_moa": [
+          "Methylating Activity [MoA]"
+        ],
+        "pharm_class_epc": [
+          "Methylating Agent [EPC]"
+        ],
+        "unii": [
+          "3SCV180C9W"
+        ]
+      }
+    }
+  ]
+}
