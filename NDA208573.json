@@ -141,9 +141,9 @@
         "NDC 0074-0576-30 ® Rx only VENCLEXTA (venetoclax tablets) 100 mg Attention: Dispense and store Venclexta in original container to protect from moisture. 28 Tablets Dispense the accompanying Medication Guide to each patient. abbvie Genentech NDC 0074-0576-30® Rx only VENCLEXTA (venetoclax tablets) 100 mg Attention: Dispense and store Venclexta in original container to protect from moisture. 28 Tablets Dispense the accompanying Medication Guide to each patient. abbvie Genentech"
       ],
       "set_id": "b118a40d-6b56-cee3-10f6-ded821a97018",
-      "id": "e1a62e40-c7f8-43d3-84fa-a7f3d775a8c5",
+      "id": "843d380a-6566-4045-bc90-1c3b633867ec",
       "effective_time": "20220615",
-      "version": "274",
+      "version": "275",
       "openfda": {
         "application_number": [
           "NDA208573"
@@ -172,8 +172,18 @@
         "substance_name": [
           "VENETOCLAX"
         ],
+        "rxcui": [
+          "1747561",
+          "1747567",
+          "1747572",
+          "1747574",
+          "1747575",
+          "1747577",
+          "1747579",
+          "1747580"
+        ],
         "spl_id": [
-          "e1a62e40-c7f8-43d3-84fa-a7f3d775a8c5"
+          "843d380a-6566-4045-bc90-1c3b633867ec"
         ],
         "spl_set_id": [
           "b118a40d-6b56-cee3-10f6-ded821a97018"
