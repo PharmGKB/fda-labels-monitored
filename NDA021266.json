@@ -144,15 +144,15 @@
         "<table styleCode=\"Noautorules\" width=\"100%\"><col width=\"4%\"/><col width=\"30%\"/><col width=\"4%\"/><col width=\"29%\"/><col width=\"4%\"/><col width=\"29%\"/><tbody><tr><td valign=\"top\"><paragraph><content styleCode=\"bold\">1.</content></paragraph></td><td valign=\"top\"><paragraph><renderMultiMedia ID=\"id5053\" referencedObject=\"MM5\"/>  Remove the child-resistant bottle cap by pushing down while twisting the cap to the left (counter-clockwise).</paragraph></td><td valign=\"top\"><paragraph><content styleCode=\"bold\">2.</content></paragraph></td><td valign=\"top\"><paragraph><renderMultiMedia ID=\"id5059\" referencedObject=\"MM6\"/>  Push the bottle adapter firmly into the bottle (if your pharmacist has not already inserted the bottle adapter). If the bottle adapter is missing, contact your pharmacist. <content styleCode=\"bold\">Do not</content> remove the bottle adapter after it is inserted.</paragraph></td><td valign=\"top\"><paragraph><content styleCode=\"bold\">3.</content></paragraph></td><td valign=\"top\"><paragraph><renderMultiMedia ID=\"id5067\" referencedObject=\"MM7\"/> <content styleCode=\"bold\">Important:</content> Bottle adapter must be fully inserted before use.</paragraph></td></tr><tr><td valign=\"top\"><paragraph><content styleCode=\"bold\">4.</content></paragraph></td><td valign=\"top\"><paragraph><renderMultiMedia ID=\"id5075\" referencedObject=\"MM8\"/> Pull back on the oral dispenser plunger to your prescribed dose.</paragraph></td><td valign=\"top\"><paragraph><content styleCode=\"bold\">5.</content></paragraph></td><td valign=\"top\"><paragraph><renderMultiMedia ID=\"id5081\" referencedObject=\"MM9\"/>  Insert the tip of the oral dispenser into the bottle adapter.</paragraph></td><td valign=\"top\"><paragraph><content styleCode=\"bold\">6.</content></paragraph></td><td valign=\"top\"><paragraph><renderMultiMedia ID=\"id5087\" referencedObject=\"MM10\"/>  While holding the bottle with 1 hand, push down on the oral dispenser plunger with your other hand to push air into the bottle.</paragraph></td></tr><tr><td valign=\"top\"><paragraph><content styleCode=\"bold\">7.</content></paragraph></td><td valign=\"top\"><paragraph><renderMultiMedia ID=\"id5094\" referencedObject=\"MM11\"/> Turn the bottle upside down and slowly pull back on the oral dispenser plunger to withdraw your prescribed dose of medicine.</paragraph></td><td valign=\"top\"><paragraph><content styleCode=\"bold\">8.</content></paragraph></td><td valign=\"top\"><paragraph><renderMultiMedia ID=\"id5100\" referencedObject=\"MM12\"/>  Turn the bottle back upright with the oral dispenser still in place. Remove the tip of the oral dispenser from the bottle adapter.  Place the tip of the oral dispenser in your mouth and point the tip of the oral dispenser towards the inside of the cheek. <content styleCode=\"bold\">Slowly</content> push the plunger until all the medicine is given. <content styleCode=\"bold\">Do not</content> squirt the medicine out quickly. This may cause you to choke.  If the medicine is to be given to a child, keep your child in an upright position while giving the medicine.</paragraph></td><td valign=\"top\"><paragraph><content styleCode=\"bold\">9.</content></paragraph></td><td valign=\"top\"><paragraph><renderMultiMedia ID=\"id5110\" referencedObject=\"MM13\"/>  Screw the bottle cap back on the bottle tightly by turning the cap to the right (clockwise).  <content styleCode=\"bold\">Do not</content> remove the bottle adapter. The bottle cap will fit over it.</paragraph></td></tr></tbody></table>"
       ],
       "package_label_principal_display_panel": [
-        "PRINCIPAL DISPLAY PANEL - 40 mg Bottle Label NDC 59762-0935-3 75 mL (when reconstituted) GREENSTONE ® BRAND voriconazole for oral suspension ORANGE FLAVORED 40 mg/mL* Rx only 8716723 LOT: EXP: PRINCIPAL DISPLAY PANEL - 40 mg Bottle Label",
+        "PRINCIPAL DISPLAY PANEL - 40 mg Bottle Label NDC 59762-0935-3 75 mL (when reconstituted) GREENSTONE ® BRAND voriconazole for oral suspension ORANGE FLAVORED 40 mg/mL* Rx only 8716724 LOT: EXP: PRINCIPAL DISPLAY PANEL - 40 mg Bottle Label",
         "PRINCIPAL DISPLAY PANEL - 40 mg Bottle Carton NDC 59762-0935-3 75 mL (when reconstituted) GREENSTONE ® BRAND voriconazole for oral suspension ORANGE FLAVORED 40 mg/mL* Oral Dispenser Included Important: Read assembly instructions carefully before dispensing. Contains Small Parts - Keep out of reach of children. Rx only PRINCIPAL DISPLAY PANEL - 40 mg Bottle Carton",
         "PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label NDC 59762-0934-1 30 Tablets GREENSTONE ® BRAND voriconazole tablets 50 mg Rx only PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label",
         "PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label NDC 59762-0936-1 30 Tablets GREENSTONE ® BRAND voriconazole tablets 200 mg Rx only PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label"
       ],
       "set_id": "b8de04a0-238d-4e0b-b0d9-7f7878b149d4",
-      "id": "b21944f6-8755-4783-8906-9ba116f34d82",
-      "effective_time": "20221222",
-      "version": "53",
+      "id": "bcd954c5-e00b-4c27-b0b8-868f1bb32ceb",
+      "effective_time": "20230329",
+      "version": "54",
       "openfda": {
         "application_number": [
           "NDA021266"
@@ -181,7 +181,7 @@
           "VORICONAZOLE"
         ],
         "spl_id": [
-          "b21944f6-8755-4783-8906-9ba116f34d82"
+          "bcd954c5-e00b-4c27-b0b8-868f1bb32ceb"
         ],
         "spl_set_id": [
           "b8de04a0-238d-4e0b-b0d9-7f7878b149d4"

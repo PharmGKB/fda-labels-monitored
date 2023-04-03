@@ -107,9 +107,9 @@
         "PRINCIPAL DISPLAY PANEL - REZLIDHIA - NDC 71332-005-01 - 150 mg Capsule 30-Count Carton Label NDC: 71332-005-01 Rx only REZLIDHIA olutasidenib capsules 150 mg Dispense the enclosed Medication Guide to each patient. 30 capsules 150 mg Tablet 30-Count Carton Label - Principal Display Panel"
       ],
       "set_id": "4a0c7c8b-b95f-455d-9600-b7351e4397fe",
-      "id": "c9a5b2db-b491-4a67-9cfc-c6228f0e3843",
-      "effective_time": "20221213",
-      "version": "1",
+      "id": "bef086f5-45c1-443a-9b06-93a445331307",
+      "effective_time": "20230329",
+      "version": "2",
       "openfda": {
         "application_number": [
           "NDA215814"
@@ -135,12 +135,8 @@
         "substance_name": [
           "OLUTASIDENIB"
         ],
-        "rxcui": [
-          "2623648",
-          "2623654"
-        ],
         "spl_id": [
-          "c9a5b2db-b491-4a67-9cfc-c6228f0e3843"
+          "bef086f5-45c1-443a-9b06-93a445331307"
         ],
         "spl_set_id": [
           "4a0c7c8b-b95f-455d-9600-b7351e4397fe"
