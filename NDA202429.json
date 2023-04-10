@@ -12,7 +12,7 @@
   "results": [
     {
       "spl_product_data_elements": [
-        "ZELBORAF Vemurafenib VEMURAFENIB VEMURAFENIB HYPROMELLOSE ACETATE SUCCINATE 16070722 (3 MM2/S) CROSCARMELLOSE SODIUM HYDROXYPROPYL CELLULOSE (90000 WAMW) POLYVINYL ALCOHOL, UNSPECIFIED TITANIUM DIOXIDE POLYETHYLENE GLYCOL 3350 TALC FERRIC OXIDE RED Pinkish white to orange white biconvex VEM"
+        "ZELBORAF Vemurafenib VEMURAFENIB VEMURAFENIB HYPROMELLOSE ACETATE SUCCINATE 16070722 (3 MPA.S) CROSCARMELLOSE SODIUM HYDROXYPROPYL CELLULOSE (90000 WAMW) POLYVINYL ALCOHOL, UNSPECIFIED TITANIUM DIOXIDE POLYETHYLENE GLYCOL 3350 TALC FERRIC OXIDE RED Pinkish white to orange white biconvex VEM"
       ],
       "indications_and_usage": [
         "1 INDICATIONS AND USAGE ZELBORAF ® is a kinase inhibitor indicated for the treatment of patients with unresectable or metastatic melanoma with BRAF V600E mutation as detected by an FDA-approved test. ( 1.1 , 2.1 ) ZELBORAF ® is indicated for the treatment of patients with Erdheim- Chester Disease with BRAF V600 mutation. ( 1.2 , 2.1 ) Limitation of Use: ZELBORAF is not indicated for treatment of patients with wild-type BRAF melanoma ( 2.1 , 5.2 ) 1.1 Unresectable or Metastatic Melanoma ZELBORAF ® is indicated for the treatment of patients with unresectable or metastatic melanoma with BRAF V600E mutation as detected by an FDA-approved test. Limitation of Use: ZELBORAF is not indicated for treatment of patients with wild-type BRAF melanoma [see Warnings and Precautions (5.2) ] . 1.2 Erdheim-Chester Disease ZELBORAF ® is indicated for the treatment of patients with Erdheim-Chester Disease (ECD) with BRAF V600 mutation."
@@ -111,9 +111,9 @@
         "PRINCIPAL DISPLAY PANEL - 240 mg Tablet Bottle Carton NDC 50242-090-02 Zelboraf ® (vemurafenib) tablets 240 mg Do not crush or chew tablet. Rx only Attention Pharmacist: Dispense the accompanying Medication Guide to each patient. 112 tablets Genentech | Daiichi Sankyo, Inc. 10210025 PRINCIPAL DISPLAY PANEL - 240 mg Tablet Bottle Carton"
       ],
       "set_id": "38eea320-7e0c-485a-bc30-98c3c45e2763",
-      "id": "6ad6cf76-a876-44e2-a54b-10c4e6f2e0dc",
-      "effective_time": "20181213",
-      "version": "22",
+      "id": "a3c7d7e1-fcc5-46e1-a480-329291f64583",
+      "effective_time": "20230405",
+      "version": "23",
       "openfda": {
         "application_number": [
           "NDA202429"
@@ -140,7 +140,7 @@
           "VEMURAFENIB"
         ],
         "spl_id": [
-          "6ad6cf76-a876-44e2-a54b-10c4e6f2e0dc"
+          "a3c7d7e1-fcc5-46e1-a480-329291f64583"
         ],
         "spl_set_id": [
           "38eea320-7e0c-485a-bc30-98c3c45e2763"

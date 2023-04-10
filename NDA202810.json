@@ -137,9 +137,9 @@
         "PRINCIPAL DISPLAY PANEL - 600 mg Tablet Bottle Label 100 tablets NDC 17772-123-01 Oxtellar XR ™ (oxcarbazepine) extended-release tablets Once daily. Swallow whole. Do not cut, crush, or chew. ATTENTION PHARMACIST: Dispense the Accompanying Medication Guide to Each Patient 600 mg Supernus ® Rx only 4"
       ],
       "set_id": "aa610e56-1d1d-11e1-8bc2-0800200c9a66",
-      "id": "f4ea2979-57ff-1245-e053-2a95a90a1e05",
-      "effective_time": "20230217",
-      "version": "12",
+      "id": "f6f382e2-2240-bbdc-e053-6394a90ac996",
+      "effective_time": "20230315",
+      "version": "13",
       "openfda": {
         "application_number": [
           "NDA202810"
@@ -176,7 +176,7 @@
           "1365850"
         ],
         "spl_id": [
-          "f4ea2979-57ff-1245-e053-2a95a90a1e05"
+          "f6f382e2-2240-bbdc-e053-6394a90ac996"
         ],
         "spl_set_id": [
           "aa610e56-1d1d-11e1-8bc2-0800200c9a66"
