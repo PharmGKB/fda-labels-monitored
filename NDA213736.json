@@ -108,9 +108,9 @@
         "13.5 mg Tablet Bottle Label Rx only NDC 50881-028-01 Pemazyre TM (pemigatinib) tablets 13.5 mg 14 tablets Pemazyre (pemigatinib) 13.5mg Tablets - 14 Tablet Bottle Label"
       ],
       "set_id": "9e1f2222-1d89-4e63-989c-ccebe2ab1eb4",
-      "id": "bf688015-0f64-47e5-981d-4b605e25589e",
+      "id": "d87b0b23-62fe-4a6e-9c29-2082927ae1d1",
       "effective_time": "20220826",
-      "version": "9",
+      "version": "10",
       "openfda": {
         "application_number": [
           "NDA213736"
@@ -138,16 +138,8 @@
         "substance_name": [
           "PEMIGATINIB"
         ],
-        "rxcui": [
-          "2359334",
-          "2359340",
-          "2359342",
-          "2359344",
-          "2359346",
-          "2359348"
-        ],
         "spl_id": [
-          "bf688015-0f64-47e5-981d-4b605e25589e"
+          "d87b0b23-62fe-4a6e-9c29-2082927ae1d1"
         ],
         "spl_set_id": [
           "9e1f2222-1d89-4e63-989c-ccebe2ab1eb4"

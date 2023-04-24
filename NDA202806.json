@@ -139,9 +139,9 @@
         "PRINCIPAL DISPLAY PANEL NDC 0078-1154-21 Rx only Tafinlar ® (dabrafenib) Tablets for Oral Suspension* 10 mg per tablet *DISPERSE TABLETS IN WATER PRIOR TO INGESTION. DO NOT SWALLOW WHOLE, CHEW OR CRUSH. Dispense and store in original container with the desiccant**. Dispense with Medication Guide. 210 Tablets NOVARTIS PRINCIPAL DISPLAY PANEL NDC 0078-1154-21 Rx only Tafinlar® (dabrafenib) Tablets for Oral Suspension* 10 mg per tablet *DISPERSE TABLETS IN WATER PRIOR TO INGESTION. DO NOT SWALLOW WHOLE, CHEW OR CRUSH. Dispense and store in original container with the desiccant**. Dispense with Medication Guide. 210 Tablets NOVARTIS"
       ],
       "set_id": "fee1e6b1-e1a5-4254-9f2e-a70e0f8dbdea",
-      "id": "5137eef4-3b43-4c72-8d6b-8e341120ddd2",
-      "effective_time": "20230316",
-      "version": "21",
+      "id": "d98cee61-e61b-477b-87eb-6d6b903cd5ba",
+      "effective_time": "20230420",
+      "version": "22",
       "openfda": {
         "application_number": [
           "NDA202806"
@@ -170,7 +170,7 @@
           "DABRAFENIB MESYLATE"
         ],
         "spl_id": [
-          "5137eef4-3b43-4c72-8d6b-8e341120ddd2"
+          "d98cee61-e61b-477b-87eb-6d6b903cd5ba"
         ],
         "spl_set_id": [
           "fee1e6b1-e1a5-4254-9f2e-a70e0f8dbdea"
