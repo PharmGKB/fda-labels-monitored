@@ -102,9 +102,9 @@
         "PRINCIPAL DISPLAY PANEL NDC 60758-670-30 DAPSONE gel, 5% FOR TOPICAL USE ONLY 30 g Rx Only PRINCIPAL DISPLAY PANEL NDC 60758-670-30 DAPSONE gel, 5% FOR TOPICAL USE ONLY 30 g Rx Only"
       ],
       "set_id": "8dbe1a41-6d9d-414f-aa9c-09bd95857e2a",
-      "id": "75df21c4-84c9-4c02-b9a2-24f250ff63bd",
+      "id": "eb56fc78-828d-4a57-853a-d7160679b035",
       "effective_time": "20180930",
-      "version": "4",
+      "version": "5",
       "openfda": {
         "application_number": [
           "NDA021794"
@@ -130,8 +130,11 @@
         "substance_name": [
           "DAPSONE"
         ],
+        "rxcui": [
+          "607295"
+        ],
         "spl_id": [
-          "75df21c4-84c9-4c02-b9a2-24f250ff63bd"
+          "eb56fc78-828d-4a57-853a-d7160679b035"
         ],
         "spl_set_id": [
           "8dbe1a41-6d9d-414f-aa9c-09bd95857e2a"
