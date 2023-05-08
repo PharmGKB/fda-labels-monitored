@@ -124,9 +124,9 @@
         "PRINCIPAL DISPLAY PANEL NDC 0078-0874-63 Rx only Kisqali ® (ribociclib) tablets 600 mg daily dose (three 200 mg tablets) 63 Film-coated tablets Contents: 3 individual weekly blister packs. Each blister pack contains 21 tablets (200 mg per tablet). NOVARTIS PRINCIPAL DISPLAY PANEL NDC 0078-0874-63 Rx only Kisqali® (ribociclib) tablets 600 mg daily dose (three 200 mg tablets) 63 Film-coated tablets Contents: 3 individual weekly blister packs. Each blister pack contains 21 tablets (200 mg per tablet). NOVARTIS"
       ],
       "set_id": "aaeaef94-f3f5-4367-8ea2-b181d7be2da8",
-      "id": "fd71f2f3-cc60-4c16-92d7-f1e8bd36e56e",
-      "effective_time": "20221003",
-      "version": "17",
+      "id": "dead6109-fc66-4b1c-8354-10e82dc27f4b",
+      "effective_time": "20230504",
+      "version": "18",
       "openfda": {
         "application_number": [
           "NDA209092"
@@ -154,18 +154,8 @@
         "substance_name": [
           "RIBOCICLIB SUCCINATE"
         ],
-        "rxcui": [
-          "1873983",
-          "1873989",
-          "1873990",
-          "1873991",
-          "1873992",
-          "1873993",
-          "1873994",
-          "1873995"
-        ],
         "spl_id": [
-          "fd71f2f3-cc60-4c16-92d7-f1e8bd36e56e"
+          "dead6109-fc66-4b1c-8354-10e82dc27f4b"
         ],
         "spl_set_id": [
           "aaeaef94-f3f5-4367-8ea2-b181d7be2da8"

@@ -116,9 +116,9 @@
         "PACKAGE/LABEL DISPLAY PANEL NDC 0310-4611-50 Rx only IMFINZI™ (durvalumab) Injection 500 mg/10 mL (50 mg/mL) For Intravenous Infusion After Dilution Single-dose vial. Discard unused portion. Store at 2° to 8°C (36° to 46°F). Do not freeze or shake. Keep vial in original carton to protect from light. Attention Pharmacist: Dispense the accompanying Medication Guide to each patient. Do not use if vial seal is broken or missing. Must dilute before use. See prescribing information. AstraZeneca NDC 0310-4611-50"
       ],
       "set_id": "8baba4ea-2855-42fa-9bd9-5a7548d4cec3",
-      "id": "e8cc5669-6dc7-4dad-9e02-e60da892c94e",
+      "id": "9381be2c-0ec6-44de-a07b-9b334d0d60d9",
       "effective_time": "20221110",
-      "version": "21",
+      "version": "22",
       "openfda": {
         "application_number": [
           "BLA761069"
@@ -146,7 +146,7 @@
           "DURVALUMAB"
         ],
         "spl_id": [
-          "e8cc5669-6dc7-4dad-9e02-e60da892c94e"
+          "9381be2c-0ec6-44de-a07b-9b334d0d60d9"
         ],
         "spl_set_id": [
           "8baba4ea-2855-42fa-9bd9-5a7548d4cec3"
