@@ -97,15 +97,15 @@
         "17 PATIENT COUNSELING INFORMATION Anaphylaxis, Hypersensitivity, and Immune-Mediated Reactions Advise the patients and caregivers that reactions related to administration and infusion may occur during and after alglucosidase alfa treatment, including life-threatening anaphylaxis, hypersensitivity reactions, and immune-mediated reactions. Patients who have experienced anaphylaxis or hypersensitivity reactions may require close observation during and after alglucosidase alfa administration. Inform patients of the signs and symptoms of anaphylaxis, hypersensitivity reactions, and immune-mediated reactions and have them seek medical care should signs and symptoms occur. Risk of Acute Cardiorespiratory Failure Advise patients and caregivers that patients with underlying respiratory illness or compromised cardiac or respiratory function may be at risk of acute cardiorespiratory failure. Patients with compromised cardiac or respiratory function may require close observation during and after alglucosidase alfa administration. Pompe Registry Inform patients and their caregivers that the Pompe Registry has been established in order to better understand the variability and progression of Pompe disease, and to continue to monitor and evaluate long-term treatment effects of alglucosidase alfa. The Pompe Registry will also monitor the effect of alglucosidase alfa on pregnant women and their offspring [see Use in Specific Populations (8.1) ] . Patients and their caregivers should be encouraged to participate in the Pompe Registry and advised that their participation is voluntary and may involve long-term follow-up. For more information regarding the registry program, visit www.registrynxt.com or call 1-800-745-4447, extension 15500."
       ],
       "spl_unclassified_section": [
-        "LUMIZYME is manufactured and distributed by: Genzyme Corporation Cambridge, MA 02142 1-800-745-4447 (phone) U.S. License Number: 1596 LUMIZYME and GENZYME are registered trademarks of Genzyme Corporation."
+        "LUMIZYME is manufactured and distributed by: Genzyme Corporation Cambridge, MA 02141 1-800-745-4447 (phone) A SANOFI COMPANY U.S. License Number: 1596 LUMIZYME and GENZYME are registered trademarks of Genzyme Corporation."
       ],
       "package_label_principal_display_panel": [
         "PRINCIPAL DISPLAY PANEL - 50 mg Vial Carton Lumizyme ® (alglucosidase alfa) 50 mg/vial For Injection For Intravenous Infusion Only Rx only Contains No Preservatives SANOFI GENZYME PRINCIPAL DISPLAY PANEL - 50 mg Vial Carton"
       ],
       "set_id": "d6bfbc45-2d34-439e-8aad-59ee2d53d4df",
-      "id": "6891e1a4-5067-421f-9338-1fad956e2978",
-      "effective_time": "20220517",
-      "version": "17",
+      "id": "bdeb45ef-423b-4204-894c-59af5a041598",
+      "effective_time": "20230404",
+      "version": "18",
       "openfda": {
         "application_number": [
           "BLA125291"
@@ -131,12 +131,8 @@
         "substance_name": [
           "ALGLUCOSIDASE ALFA"
         ],
-        "rxcui": [
-          "629568",
-          "993072"
-        ],
         "spl_id": [
-          "6891e1a4-5067-421f-9338-1fad956e2978"
+          "bdeb45ef-423b-4204-894c-59af5a041598"
         ],
         "spl_set_id": [
           "d6bfbc45-2d34-439e-8aad-59ee2d53d4df"

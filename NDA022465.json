@@ -114,12 +114,12 @@
       ],
       "package_label_principal_display_panel": [
         "PRINCIPAL DISPLAY PANEL NDC 0078-0670-66 Votrient ® (pazopanib) Tablets 200 mg 120 Tablets R x only Each tablet contains 216.7 mg of pazopanib hydrochloride, equivalent to 200 mg of pazopanib free base. Dispense with Medication Guide attached or provided separately. NOVARTIS PRINCIPAL DISPLAY PANEL NDC 0078-0670-66 Votrient® (pazopanlb) Tablets 200 mg 120 Tablets Rx Only Each tablet contains 216.7 mg of pazopanib hydrochloride, equivalent to 200 mg of pazopanib free base. Dispense with Medication Guide attached or provided separately. NOVARTIS",
-        "PRINCIPAL DISPLAY PANEL NDC 0078-1077-66 Votrient ® (pazopanib) Tablets 200 mg 120 Tablets R x only Each tablet contains 216.7 mg of pazopanib hydrochloride, equivalent to 200 mg of pazopanib free base. Dispense with Medication Guide attached or provided separately. New Tablet Color NOVARTIS PRINCIPAL DISPLAY PANEL NDC 0078-1077-66 Votrient® (pazopanlb) Tablets 200 mg 120 Tablets Rx Only Each tablet contains 216.7 mg of pazopanib hydrochloride, equivalent to 200 mg of pazopanib free base. Dispense with Medication Guide attached or provided separately. New Tablet Color NOVARTIS"
+        "PRINCIPAL DISPLAY PANEL NDC 0078-1077-66 Votrient ® (pazopanib) Tablets 200 mg 120 Tablets R x only Each tablet contains 216.7 mg of pazopanib hydrochloride, equivalent to 200 mg of pazopanib free base. Dispense with Medication Guide attached or provided separately. NOVARTIS PRINCIPAL DISPLAY PANEL NDC 0078-1077-66 Votrient® (pazopanlb) Tablets 200 mg 120 Tablets Rx only Each tablet contains 216.7 mg of pazopanib hydrochloride, equivalent to 200 mg of pazopanib free base. Dispense with Medication Guide attached or provided separately. NOVARTIS"
       ],
       "set_id": "eeaaaf38-fb86-4d9f-a19d-0f61daac2fd7",
-      "id": "d64a4078-2cff-48a7-a621-c31d82703ae6",
-      "effective_time": "20220826",
-      "version": "11",
+      "id": "929749e3-ee9b-4550-b583-c78290919caf",
+      "effective_time": "20230510",
+      "version": "12",
       "openfda": {
         "application_number": [
           "NDA022465"
@@ -147,7 +147,7 @@
           "PAZOPANIB HYDROCHLORIDE"
         ],
         "spl_id": [
-          "d64a4078-2cff-48a7-a621-c31d82703ae6"
+          "929749e3-ee9b-4550-b583-c78290919caf"
         ],
         "spl_set_id": [
           "eeaaaf38-fb86-4d9f-a19d-0f61daac2fd7"
