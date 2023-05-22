@@ -122,9 +122,9 @@
         "PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 150 mg NDC 0310-0679-12 Lynparza ® (olaparib) tablets 150 mg Dispense accompanying Medication Guide to each patient. 120 Tablets Rx only AstraZeneca lynparza_150mg_120_tablet_bottle_label"
       ],
       "set_id": "741ff3e3-dc1a-45a6-84e5-2481b27131aa",
-      "id": "44373f3e-998f-42de-929f-3d52ef571918",
+      "id": "38836e2d-5e16-4e30-8732-5a90014ec3d9",
       "effective_time": "20221027",
-      "version": "28",
+      "version": "29",
       "openfda": {
         "application_number": [
           "NDA208558"
@@ -151,14 +151,8 @@
         "substance_name": [
           "OLAPARIB"
         ],
-        "rxcui": [
-          "1942482",
-          "1942485",
-          "1942487",
-          "1942489"
-        ],
         "spl_id": [
-          "44373f3e-998f-42de-929f-3d52ef571918"
+          "38836e2d-5e16-4e30-8732-5a90014ec3d9"
         ],
         "spl_set_id": [
           "741ff3e3-dc1a-45a6-84e5-2481b27131aa"
@@ -166,6 +160,7 @@
         "package_ndc": [
           "0310-0668-60",
           "0310-0668-12",
+          "0310-0668-95",
           "0310-0679-60",
           "0310-0679-12",
           "0310-0679-95"
