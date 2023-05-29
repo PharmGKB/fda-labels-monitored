@@ -119,9 +119,9 @@
         "PRINCIPAL DISPLAY PANEL - 2.5 mcg Carton NDC 0597-0100-61 Spiriva ® Respimat ® (tiotropium bromide inhalation spray) 2.5 mcg/actuation* FOR ORAL INHALATION ONLY Rx only 4 Grams 60 Metered Inhalations (Two inhalations equal one dose) Boehringer Ingelheim PRINCIPAL DISPLAY PANEL - 2.5 mcg Carton"
       ],
       "set_id": "7b656b14-fcaa-2741-f6f0-e0be48971c02",
-      "id": "dfdb2df1-8b3e-49cd-a9c6-bbfea46ccd57",
-      "effective_time": "20220119",
-      "version": "10",
+      "id": "2c7cc1c7-ff68-42ab-adcd-02abc5b2566d",
+      "effective_time": "20230523",
+      "version": "11",
       "openfda": {
         "application_number": [
           "NDA021936"
@@ -149,7 +149,7 @@
           "TIOTROPIUM BROMIDE ANHYDROUS"
         ],
         "spl_id": [
-          "dfdb2df1-8b3e-49cd-a9c6-bbfea46ccd57"
+          "2c7cc1c7-ff68-42ab-adcd-02abc5b2566d"
         ],
         "spl_set_id": [
           "7b656b14-fcaa-2741-f6f0-e0be48971c02"

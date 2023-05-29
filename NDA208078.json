@@ -115,9 +115,9 @@
         "PRINCIPAL DISPLAY PANEL - 10 mg Tablet Blister Pack Carton Rx Only NDC 69616-211-06 120 Tablets Total Provided in 12 Child-Resistant Blister Cards Of 10 Tablets Each FIRDAPSE ® (amifampridine) Tablets 10 mg per Tablet Manufactured for: Catalyst Pharmaceuticals, Inc. Coral Gables, FL 33134 image description"
       ],
       "set_id": "f015fe60-3128-4a43-8c31-19fc6b5def3f",
-      "id": "af0c0849-ae3c-4dc8-a279-fe71ac13d1ca",
-      "effective_time": "20221130",
-      "version": "11",
+      "id": "ecde51e9-d664-48af-9b36-607037a07618",
+      "effective_time": "20230525",
+      "version": "12",
       "openfda": {
         "application_number": [
           "NDA208078"
@@ -144,7 +144,7 @@
           "AMIFAMPRIDINE PHOSPHATE"
         ],
         "spl_id": [
-          "af0c0849-ae3c-4dc8-a279-fe71ac13d1ca"
+          "ecde51e9-d664-48af-9b36-607037a07618"
         ],
         "spl_set_id": [
           "f015fe60-3128-4a43-8c31-19fc6b5def3f"
