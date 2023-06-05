@@ -112,9 +112,9 @@
         "Package/Label Display Panel NDC 55253- 802 -90 Modafinil Tablets CIV 200 mg Medication Guide Required : Each time modafinil tablets are dispensed, give the patient a Medication Guide. Rx only 90 Tablets teva image"
       ],
       "set_id": "9f3b0bd2-72a3-411f-aeec-b533373f1a97",
-      "id": "ada20e79-878a-4e20-ad6d-a4e73d37e157",
+      "id": "4f6d6bdf-8143-4d0f-9a2c-f732527f8692",
       "effective_time": "20230131",
-      "version": "18",
+      "version": "19",
       "openfda": {
         "application_number": [
           "NDA020717"
@@ -141,12 +141,8 @@
         "substance_name": [
           "MODAFINIL"
         ],
-        "rxcui": [
-          "205324",
-          "260218"
-        ],
         "spl_id": [
-          "ada20e79-878a-4e20-ad6d-a4e73d37e157"
+          "4f6d6bdf-8143-4d0f-9a2c-f732527f8692"
         ],
         "spl_set_id": [
           "9f3b0bd2-72a3-411f-aeec-b533373f1a97"
