@@ -6,13 +6,13 @@
     "results": {
       "skip": 0,
       "limit": 1,
-      "total": 12
+      "total": 13
     }
   },
   "results": [
     {
       "spl_product_data_elements": [
-        "Meclizine Hydrochloride Meclizine Hydrochloride MECLIZINE HYDROCHLORIDE MECLIZINE STARCH, CORN SUCROSE WATER POLYETHYLENE GLYCOL, UNSPECIFIED MAGNESIUM STEARATE FD&C BLUE NO. 1 ALCOHOL ANHYDROUS DIBASIC CALCIUM PHOSPHATE Pale Blue to White Biconvex, two layered tablet 34;L struct-1"
+        "Meclizine Hydrochloride Meclizine Hydrochloride STARCH, CORN SUCROSE WATER POLYETHYLENE GLYCOL, UNSPECIFIED MAGNESIUM STEARATE FD&C BLUE NO. 1 ALCOHOL ANHYDROUS DIBASIC CALCIUM PHOSPHATE MECLIZINE HYDROCHLORIDE MECLIZINE Pale Blue to White Biconvex, two layered tablet 34;L"
       ],
       "indications_and_usage": [
         "1 INDICATIONS AND USAGE Meclizine hydrochloride is indicated for the treatment of vertigo associated with diseases affecting the vestibular system in adults. Meclizine hydrochloride is indicated for the treatment of vertigo associated with diseases affecting the vestibular system in adults."
@@ -48,7 +48,7 @@
         "8.5 Geriatric Use In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy."
       ],
       "description": [
-        "11 DESCRIPTION Meclizine hydrochloride, a histamine (H1) receptor antagonist, is a white or slightly yellowish, crystalline powder. It has the following structural formula: Chemically, meclizine hydrochloride is 1-(p-chloro-α-phenylbenzyl)-4-(m-methylbenzyl) piperazine dihydrochloride monohydrate. Tablets Inactive ingredients for the tablets are: corn starch; dibasic calcium phosphate; magnesium stearate; polyethylene glycol; sucrose. The 12.5 mg tablets also contain: FD&C Blue # 1. The 25 mg tablets also contain: FD&C Yellow # 6 and D&C Yellow # 10. The 50 mg tablets also contain: FD&C Blue # 1, FD&C Yellow # 6 and D&C Yellow # 10. Each meclizine hydrochloride 12.5 mg tablet contains 12.5 mg of meclizine dihydrochloride equivalent to 10.53 mg of meclizine free base. Each meclizine hydrochloride 25 mg tablet contains 25 mg of meclizine dihydrochloride equivalent to 21.07 mg of meclizine free base. Each meclizine hydrochloride 50 mg tablet contains 50 mg of meclizine dihydrochloride equivalent to 42.14 mg of meclizine free base. Chewable Tablets Inactive ingredients for the chewable tablets are: corn starch, colloidal silicon dioxide, FD&C Red # 40, lactose monohydrate, magnesium stearate, raspberry flavor, saccharin sodium, and talc. Each meclizine hydrochloride 25 mg chewable tablet contains 25 mg of meclizine dihydrochloride equivalent to 21.07 mg of meclizine free base."
+        "11 DESCRIPTION Meclizine hydrochloride, a histamine (H1) receptor antagonist, is a white or slightly yellowish, crystalline powder. It has the following structural formula: Chemically, meclizine hydrochloride is 1-(p-chloro-α-phenylbenzyl)-4-(m-methylbenzyl) piperazine dihydrochloride monohydrate. Tablets Inactive ingredients for the tablets are: corn starch; dibasic calcium phosphate; magnesium stearate; polyethylene glycol; sucrose. The 12.5 mg tablets also contain: FD&C Blue # 1. The 25 mg tablets also contain: FD&C Yellow # 6 and D&C Yellow # 10. The 50 mg tablets also contain: FD&C Blue # 1, FD&C Yellow # 6 and D&C Yellow # 10. Each meclizine hydrochloride 12.5 mg tablet contains 12.5 mg of meclizine dihydrochloride equivalent to 10.53 mg of meclizine free base. Each meclizine hydrochloride 25 mg tablet contains 25 mg of meclizine dihydrochloride equivalent to 21.07 mg of meclizine free base. Each meclizine hydrochloride 50 mg tablet contains 50 mg of meclizine dihydrochloride equivalent to 42.14 mg of meclizine free base. Chewable Tablets Inactive ingredients for the chewable tablets are: corn starch, colloidal silicon dioxide, FD&C Red # 40, lactose monohydrate, magnesium stearate, raspberry flavor, saccharin sodium, and talc. Each meclizine hydrochloride 25 mg chewable tablet contains 25 mg of meclizine dihydrochloride equivalent to 21.07 mg of meclizine free base. struct-1"
       ],
       "clinical_pharmacology": [
         "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action The precise mechanism by which meclizine exerts its therapeutic effect is unknown but is presumed to involve antagonism of the histamine H1 receptor. 12.2 Pharmacodynamics There are no relevant pharmacodynamic data regarding meclizine. 12.3 Pharmacokinetics The available pharmacokinetic information for meclizine following oral administration has been summarized from published literature. Absorption Meclizine is absorbed after oral administration with maximum plasma concentrations reaching at a median T max value of 3 hours post-dose (range: 1.5 to 6 hours) for the tablet dosage form. Distribution Drug distribution characteristics for meclizine in humans are unknown. Elimination Meclizine has a plasma elimination half-life of about 5-6 hours in humans. Metabolism In an in vitro metabolic study using human hepatic microsome and recombinant CYP enzyme, CYP2D6 was found to be the dominant enzyme for metabolism of meclizine."
@@ -78,9 +78,9 @@
         "Meclizine Hcl 12.5mg Tablet Label"
       ],
       "set_id": "112103bc-25e2-42cf-8542-ba1d3392a2c3",
-      "id": "161764f8-b8c1-4a68-b1a9-4ce8b85ecaff",
-      "effective_time": "20230327",
-      "version": "101",
+      "id": "fca0506e-4adf-4e55-e053-6294a90a5cf5",
+      "effective_time": "20230526",
+      "version": "102",
       "openfda": {
         "application_number": [
           "NDA010721"
@@ -106,11 +106,8 @@
         "substance_name": [
           "MECLIZINE HYDROCHLORIDE"
         ],
-        "rxcui": [
-          "995624"
-        ],
         "spl_id": [
-          "161764f8-b8c1-4a68-b1a9-4ce8b85ecaff"
+          "fca0506e-4adf-4e55-e053-6294a90a5cf5"
         ],
         "spl_set_id": [
           "112103bc-25e2-42cf-8542-ba1d3392a2c3"

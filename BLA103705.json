@@ -148,9 +148,9 @@
         "PRINCIPAL DISPLAY PANEL - 500 mg Vial Carton NDC 50242-053-06 Rituxan ® (rituximab) Injection 500 mg/50 mL (10 mg/mL) For Intravenous Use 500 mg Rx only One 500 mg vial Jointly Marketed by: Biogen and Genentech USA, Inc. 10223022 PRINCIPAL DISPLAY PANEL - 500 mg Vial Carton"
       ],
       "set_id": "b172773b-3905-4a1c-ad95-bab4b6126563",
-      "id": "0f7cf976-2c46-447e-bcfa-31d1eb9ff451",
-      "effective_time": "20220228",
-      "version": "33",
+      "id": "2e957336-f4e0-4272-bf24-611f1c20f8e3",
+      "effective_time": "20230606",
+      "version": "34",
       "openfda": {
         "application_number": [
           "BLA103705"
@@ -178,7 +178,7 @@
           "RITUXIMAB"
         ],
         "spl_id": [
-          "0f7cf976-2c46-447e-bcfa-31d1eb9ff451"
+          "2e957336-f4e0-4272-bf24-611f1c20f8e3"
         ],
         "spl_set_id": [
           "b172773b-3905-4a1c-ad95-bab4b6126563"
