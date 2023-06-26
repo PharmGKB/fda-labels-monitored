@@ -155,9 +155,9 @@
         "PRINCIPAL DISPLAY PANEL - Kit Carton 1 x 3.5 mL Prefilled Cartridge 1 On-Body Infusor NDC 72511-770-01 AMGEN ® Repatha ® Pushtronex ® system (evolocumab) On-Body Infusor and Prefilled Cartridge 420 mg/3.5 mL For Subcutaneous Use Only Single-Dose Only Sterile Solution – No Preservative Store refrigerated at 2°C to 8°C (36°F to 46°F). Do Not Freeze or Shake. Store in Carton to Protect from Light. (see side panel for additional storage information) Keep out of the sight and reach of children. Refer to Instructions for Use Do Not Use if Package is Damaged On-Body Infusor Sterilized Using Ethylene Oxide 420 mg/ 3.5 mL MR Unsafe Keep Dry Do not re-use Type BF Applied Part Relative Humidity Range is 15% to 85% Rx Only PRINCIPAL DISPLAY PANEL - Kit Carton"
       ],
       "set_id": "709338ae-ab8f-44a9-b7d5-abaabec3493a",
-      "id": "e93d54e9-7f1c-4f07-b217-5ddcef89e16e",
-      "effective_time": "20220816",
-      "version": "38",
+      "id": "ad0cad06-6727-4812-89f4-beb4f2e92a5c",
+      "effective_time": "20230607",
+      "version": "39",
       "openfda": {
         "application_number": [
           "BLA125522"
@@ -185,8 +185,16 @@
         "substance_name": [
           "EVOLOCUMAB"
         ],
+        "rxcui": [
+          "1665895",
+          "1665900",
+          "1665904",
+          "1665906",
+          "1801319",
+          "1801322"
+        ],
         "spl_id": [
-          "e93d54e9-7f1c-4f07-b217-5ddcef89e16e"
+          "ad0cad06-6727-4812-89f4-beb4f2e92a5c"
         ],
         "spl_set_id": [
           "709338ae-ab8f-44a9-b7d5-abaabec3493a"
@@ -204,8 +212,8 @@
           true
         ],
         "upc": [
-          "0372511760026",
-          "0372511770018"
+          "0372511770018",
+          "0372511760026"
         ],
         "nui": [
           "N0000191731",
