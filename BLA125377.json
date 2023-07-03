@@ -115,7 +115,7 @@
         "16 HOW SUPPLIED/STORAGE AND HANDLING YERVOY (ipilimumab) injection is a sterile, preservative-free, clear to slightly opalescent, colorless to pale-yellow solution. YERVOY is available as follows: Carton Contents NDC One 50 mg/10 mL (5 mg/mL), single-dose vial NDC 0003-2327-11 One 200 mg/40 mL (5 mg/mL), single-dose vial NDC 0003-2328-22 Store YERVOY under refrigeration at 2°C to 8°C (36°F to 46°F). Protect YERVOY from light by storing in the original carton until time of use. Do not freeze or shake."
       ],
       "how_supplied_table": [
-        "<table cellpadding=\"4.8pt\" width=\"70%\"><col width=\"55%\"/><col width=\"24%\"/><tbody><tr><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Carton Contents</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">NDC</content></paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>One 50 mg/10 mL (5 mg/mL), single-dose vial</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>NDC 0003-2327-11</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph>One 200 mg/40 mL (5 mg/mL), single-dose vial</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph>NDC 0003-2328-22</paragraph></td></tr></tbody></table>"
+        "<table cellpadding=\"4.8pt\" width=\"70%\"><col width=\"56%\"/><col width=\"24%\"/><tbody><tr><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Carton Contents</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">NDC</content></paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>One 50 mg/10 mL (5 mg/mL), single-dose vial</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>NDC 0003-2327-11</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph>One 200 mg/40 mL (5 mg/mL), single-dose vial</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph>NDC 0003-2328-22</paragraph></td></tr></tbody></table>"
       ],
       "information_for_patients": [
         "17 PATIENT COUNSELING INFORMATION Advise the patient to read the FDA-approved patient labeling (Medication Guide). Immune-Mediated Adverse Reactions Advise patients that YERVOY can cause immune-mediated adverse reactions including the following [see Warnings and Precautions (5.1) ] : • Immune-Mediated Diarrhea or Colitis: Advise patients to contact their healthcare provider immediately for signs or symptoms of diarrhea or colitis. • Immune-Mediated Hepatitis: Advise patients to contact their healthcare provider immediately for signs or symptoms of hepatitis. • Immune-Mediated Dermatologic Adverse Reactions: Advise patients to contact their healthcare provider immediately if they develop a new rash. • Immune-Mediated Endocrinopathies: Advise patients to contact their healthcare provider immediately for signs or symptoms of hypophysitis, adrenal insufficiency, hypothyroidism, hyperthyroidism, and diabetes mellitus • Immune-Mediated Pneumonitis: Advise patients to contact their healthcare provider immediately for any new or worsening symptoms of pneumonitis. • Immune-Mediated Nephritis with Renal Dysfunction: Advise patients to contact their healthcare provider immediately for signs or symptoms of nephritis. Infusion-Related Reactions • Advise patients who are receiving YERVOY of the potential risk of an infusion-related reaction [see Warnings and Precautions (5.2) ] . Embryo-Fetal Toxicity • Advise pregnant women of the potential risk to a fetus. Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.4) , Use in Specific Populations (8.3) ] . • Advise females of reproductive potential to use effective contraception during treatment with YERVOY and for 3 months after the last dose [see Use in Specific Populations (8.3) ] . • Advise patients who may have been exposed to YERVOY during pregnancy to contact Bristol-Myers Squibb at 1-844-593-7869 [see Use in Specific Populations (8.1) ] . Lactation • Advise women not to breastfeed during treatment with YERVOY and for 3 months after the last dose [see Use in Specific Populations (8.2) ] . Manufactured by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA U.S. License No. 1713 [print code]"
@@ -131,9 +131,9 @@
         "YERVOY 200 mg/40 mL Representative Packaging NDC 0003-2328-22 Rx only YERVOY ® (ipilimumab) Injection 200 mg/40 mL (5 mg/mL) For Intravenous Infusion Only Single-use vial; Discard unused portion DISPENSE ENCLOSED MEDICATION GUIDE TO EACH PATIENT Bristol-Myers Squibb yervoy-200mg-carton-serialized"
       ],
       "set_id": "2265ef30-253e-11df-8a39-0800200c9a66",
-      "id": "95abeb0e-7f43-491b-8938-7216b661ad5a",
+      "id": "839bc9a8-9583-41fa-beb6-728ef542fa72",
       "effective_time": "20230215",
-      "version": "41",
+      "version": "42",
       "openfda": {
         "application_number": [
           "BLA125377"
@@ -160,14 +160,8 @@
         "substance_name": [
           "IPILIMUMAB"
         ],
-        "rxcui": [
-          "1657005",
-          "1657007",
-          "1657012",
-          "1657013"
-        ],
         "spl_id": [
-          "95abeb0e-7f43-491b-8938-7216b661ad5a"
+          "839bc9a8-9583-41fa-beb6-728ef542fa72"
         ],
         "spl_set_id": [
           "2265ef30-253e-11df-8a39-0800200c9a66"

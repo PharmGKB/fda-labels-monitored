@@ -12,7 +12,7 @@
   "results": [
     {
       "spl_product_data_elements": [
-        "Cymbalta Duloxetine hydrochloride Duloxetine hydrochloride Duloxetine Gelatin, Unspecified Hypromellose, Unspecified Hypromellose Acetate Succinate 16070722 (3 MM2/S) Sodium lauryl sulfate Sucrose Talc Titanium dioxide Triethyl citrate FD&C Blue No. 2 Ferric Oxide Yellow opaque green LILLY;3235;20;mg Cymbalta Duloxetine hydrochloride Duloxetine hydrochloride Duloxetine Gelatin, Unspecified Hypromellose, Unspecified Hypromellose Acetate Succinate 16070722 (3 MM2/S) Sodium lauryl sulfate Sucrose Talc Titanium dioxide Triethyl citrate FD&C Blue No. 2 opaque blue opaque white LILLY;3240;30;mg Cymbalta Duloxetine hydrochloride Duloxetine hydrochloride Duloxetine Gelatin, Unspecified Hypromellose, Unspecified Hypromellose Acetate Succinate 16070722 (3 MM2/S) Sodium lauryl sulfate Sucrose Talc Titanium dioxide Triethyl citrate FD&C Blue No. 2 Ferric Oxide Yellow opaque green opaque blue LILLY;3270;60;mg"
+        "Cymbalta Duloxetine hydrochloride Duloxetine hydrochloride Duloxetine Gelatin, Unspecified Hypromellose, Unspecified Hypromellose Acetate Succinate 16070722 (3 MPA.S) Sodium lauryl sulfate Sucrose Talc Titanium dioxide Triethyl citrate FD&C Blue No. 2 Ferric Oxide Yellow opaque green LILLY;3235;20;mg Cymbalta Duloxetine hydrochloride Duloxetine hydrochloride Duloxetine Gelatin, Unspecified Hypromellose, Unspecified Hypromellose Acetate Succinate 16070722 (3 MPA.S) Sodium lauryl sulfate Sucrose Talc Titanium dioxide Triethyl citrate FD&C Blue No. 2 opaque blue opaque white LILLY;3240;30;mg Cymbalta Duloxetine hydrochloride Duloxetine hydrochloride Duloxetine Gelatin, Unspecified Hypromellose, Unspecified Hypromellose Acetate Succinate 16070722 (3 MPA.S) Sodium lauryl sulfate Sucrose Talc Titanium dioxide Triethyl citrate FD&C Blue No. 2 Ferric Oxide Yellow opaque green opaque blue LILLY;3270;60;mg"
       ],
       "recent_major_changes": [
         "Warnings and Precautions, Sexual Dysfunction ( 5.16 ) 09/2021"
@@ -133,9 +133,9 @@
         "PACKAGE LABEL- Cymbalta 60 mg, bottle of 30 NDC 0002-3270-30 30 capsules PU3270 Cymbalta ® duloxetine delayed release capsules 60 mg Each capsule contains 67.3 mg of duloxetine hydrochloride equivalent to 60 mg duloxetine. Rx only Lilly PACKAGE LABEL- Cymbalta 60 mg, bottle of 30"
       ],
       "set_id": "2f7d4d67-10c1-4bf4-a7f2-c185fbad64ba",
-      "id": "892f05de-dd11-4ae3-9a85-ce9cfcbeaacc",
-      "effective_time": "20210920",
-      "version": "85",
+      "id": "eddd36ba-4f60-411a-b075-ba32daf575bf",
+      "effective_time": "20230623",
+      "version": "86",
       "openfda": {
         "application_number": [
           "NDA021427"
@@ -163,16 +163,8 @@
         "substance_name": [
           "DULOXETINE HYDROCHLORIDE"
         ],
-        "rxcui": [
-          "596926",
-          "596928",
-          "596930",
-          "596932",
-          "596934",
-          "615186"
-        ],
         "spl_id": [
-          "892f05de-dd11-4ae3-9a85-ce9cfcbeaacc"
+          "eddd36ba-4f60-411a-b075-ba32daf575bf"
         ],
         "spl_set_id": [
           "2f7d4d67-10c1-4bf4-a7f2-c185fbad64ba"
@@ -188,9 +180,9 @@
           true
         ],
         "upc": [
-          "0300023235602",
+          "0300023240309",
           "0300023270306",
-          "0300023240309"
+          "0300023235602"
         ],
         "unii": [
           "9044SC542W"

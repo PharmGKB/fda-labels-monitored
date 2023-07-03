@@ -12,7 +12,7 @@
   "results": [
     {
       "spl_product_data_elements": [
-        "Evista Raloxifene hydrochloride Raloxifene hydrochloride Raloxifene Carnauba Wax Crospovidone Hypromellose, Unspecified Lactose monohydrate Anhydrous lactose Magnesium stearate Polyethylene glycol 400 Povidone, Unspecified Titanium dioxide Polysorbate 80 Propylene glycol elliptical 4165"
+        "Evista Raloxifene hydrochloride Raloxifene hydrochloride Raloxifene Carnauba Wax Crospovidone, Unspecified Hypromellose, Unspecified Lactose monohydrate Anhydrous lactose Magnesium stearate Polyethylene glycol 400 Povidone, Unspecified Titanium dioxide Polysorbate 80 Propylene glycol elliptical 4165"
       ],
       "boxed_warning": [
         "WARNING: INCREASED RISK OF VENOUS THROMBOEMBOLISM AND DEATH FROM STROKE Increased risk of deep vein thrombosis and pulmonary embolism have been reported with EVISTA [see Warnings and Precautions ( 5.1 )] . Women with active or past history of venous thromboembolism should not take EVISTA [see Contraindications ( 4.1 )]. Increased risk of death due to stroke occurred in a trial in postmenopausal women with documented coronary heart disease or at increased risk for major coronary events. Consider risk-benefit balance in women at risk for stroke [see Warnings and Precautions ( 5.2 ) and Clinical Studies ( 14.5 )]. WARNING: INCREASED RISK OF VENOUS THROMBOEMBOLISM AND DEATH FROM STROKE See full prescribing information for complete boxed warning. Increased risk of deep vein thrombosis and pulmonary embolism have been reported with EVISTA ( 5.1 ). Women with active or past history of venous thromboembolism should not take EVISTA ( 4.1 ). Increased risk of death due to stroke occurred in a trial in postmenopausal women with documented coronary heart disease or at increased risk for major coronary events. Consider risk-benefit balance in women at risk for stroke ( 5.2 , 14.5 )."
@@ -125,9 +125,9 @@
         "PACKAGE LABEL – Evista 60mg 30ct Bottle (0002-4184) NDC 0002-4184-30 30 Tablets No. 4165 EVISTA ® raloxifene HCl tablets 60mg 4165 Rx only Lilly PACKAGE LABEL – Evista 60mg 30ct Bottle (0002-4184)"
       ],
       "set_id": "fcaaa6dc-74e8-4fb8-800c-5574bf0f8de9",
-      "id": "ea5f6b08-03f7-44ef-a775-f73f223737b3",
-      "effective_time": "20230306",
-      "version": "28",
+      "id": "736ef754-5dd5-422b-81fa-bf12e9ee8afb",
+      "effective_time": "20230519",
+      "version": "29",
       "openfda": {
         "application_number": [
           "NDA020815"
@@ -154,14 +154,13 @@
           "RALOXIFENE HYDROCHLORIDE"
         ],
         "spl_id": [
-          "ea5f6b08-03f7-44ef-a775-f73f223737b3"
+          "736ef754-5dd5-422b-81fa-bf12e9ee8afb"
         ],
         "spl_set_id": [
           "fcaaa6dc-74e8-4fb8-800c-5574bf0f8de9"
         ],
         "package_ndc": [
-          "0002-4184-30",
-          "0002-4184-02"
+          "0002-4184-30"
         ],
         "is_original_packager": [
           true
