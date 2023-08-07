@@ -112,9 +112,9 @@
         "PRINCIPAL DISPLAY PANEL NDC 0078-0671-19 NOVARTIS Tykerb ® (lapatinib) Tablets 250 mg 150 Tablets Rx only PRINCIPAL DISPLAY PANEL NDC 0078-0671-19 NOVARTIS Tykerb® (lapatinib) Tablets 250 mg 150 Tablets Rx only"
       ],
       "set_id": "eee37f88-ec6a-4c30-b8aa-e2c71f93088c",
-      "id": "71b68187-04b6-4d83-a854-efc04e380768",
-      "effective_time": "20230307",
-      "version": "9",
+      "id": "3762f7f1-b9c3-4e9f-9249-01f87b0ec407",
+      "effective_time": "20230801",
+      "version": "10",
       "openfda": {
         "application_number": [
           "NDA022059"
@@ -140,12 +140,8 @@
         "substance_name": [
           "LAPATINIB DITOSYLATE"
         ],
-        "rxcui": [
-          "672149",
-          "672152"
-        ],
         "spl_id": [
-          "71b68187-04b6-4d83-a854-efc04e380768"
+          "3762f7f1-b9c3-4e9f-9249-01f87b0ec407"
         ],
         "spl_set_id": [
           "eee37f88-ec6a-4c30-b8aa-e2c71f93088c"

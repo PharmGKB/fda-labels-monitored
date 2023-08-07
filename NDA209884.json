@@ -110,9 +110,9 @@
         "PRINCIPAL DISPLAY PANEL NDC 0078-0986-15 Rx only MAYZENT ® (siponimod) tablets 2 mg* 30 tablets Dispense with accompanying Medication Guide. Swallow tablets whole. DO NOT split tablets. NOVARTIS PRINCIPAL DISPLAY PANEL NDC 0078-0986-15 Rx only MAYZENT® (siponimod) tablets 2 mg* 30 tablets Dispense with accompanying Medication Guide. Swallow tablets whole. DO NOT split tablets. NOVARTIS"
       ],
       "set_id": "44492772-5aed-4627-bd85-e8e89f308bb3",
-      "id": "9fa58ad9-17ef-43da-b9e9-42289f5b54c2",
-      "effective_time": "20230131",
-      "version": "10",
+      "id": "4ef39c79-56cf-480c-ba83-ac09947ab745",
+      "effective_time": "20230801",
+      "version": "11",
       "openfda": {
         "application_number": [
           "NDA209884"
@@ -140,20 +140,8 @@
         "substance_name": [
           "SIPONIMOD"
         ],
-        "rxcui": [
-          "2121090",
-          "2121096",
-          "2121098",
-          "2121100",
-          "2123313",
-          "2123314",
-          "2594606",
-          "2594608",
-          "2594796",
-          "2594797"
-        ],
         "spl_id": [
-          "9fa58ad9-17ef-43da-b9e9-42289f5b54c2"
+          "4ef39c79-56cf-480c-ba83-ac09947ab745"
         ],
         "spl_set_id": [
           "44492772-5aed-4627-bd85-e8e89f308bb3"
@@ -172,6 +160,16 @@
         ],
         "is_original_packager": [
           true
+        ],
+        "nui": [
+          "N0000181816",
+          "N0000181815"
+        ],
+        "pharm_class_epc": [
+          "Sphingosine 1-phosphate Receptor Modulator [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Sphingosine 1-Phosphate Receptor Modulators [MoA]"
         ],
         "unii": [
           "RR6P8L282I"

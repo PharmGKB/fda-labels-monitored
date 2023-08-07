@@ -105,9 +105,9 @@
         "PRINCIPAL DISPLAY PANEL NDC 0078-1007-68 Rx only Kesimpta ® (ofatumumab) Injection 20 mg/0.4 mL Single-dose Prefilled Sensoready ® Pen For Subcutaneous Use Only Sterile Solution - Contains No Preservatives Carton contains: 1 Single-dose Prefilled Sensoready ® Pen, Prescribing Information, Instructions for Use, and Medication Guide Attention: Dispense with enclosed Medication Guide. REFRIGERATE NOVARTIS PRINCIPAL DISPLAY PANEL NDC 0078-1007-68 Rx only Kesimpta® (ofatumumab) Injection 20 mg/0.4 mL Single-dose Prefilled Sensoready® Pen For Subcutaneous Use Only Sterile Solution - Contains No Preservatives Carton contains: 1 Single-dose Prefilled Sensoready ® Pen, Prescribing Information, Instructions for Use, and Medication Guide Attention: Dispense with enclosed Medication Guide. REFRIGERATE NOVARTIS"
       ],
       "set_id": "6a8a3f53-2062-48ff-9dbe-b939df133ca3",
-      "id": "3d92e626-19d1-4800-8d68-f3380a00787c",
-      "effective_time": "20220902",
-      "version": "5",
+      "id": "8bab6c31-8f98-465b-abea-6146a88c8f83",
+      "effective_time": "20230802",
+      "version": "6",
       "openfda": {
         "application_number": [
           "BLA125326"
@@ -134,7 +134,7 @@
           "OFATUMUMAB"
         ],
         "spl_id": [
-          "3d92e626-19d1-4800-8d68-f3380a00787c"
+          "8bab6c31-8f98-465b-abea-6146a88c8f83"
         ],
         "spl_set_id": [
           "6a8a3f53-2062-48ff-9dbe-b939df133ca3"

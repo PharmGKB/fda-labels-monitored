@@ -117,9 +117,9 @@
         "PRINCIPAL DISPLAY PANEL NDC 0078-0422-20 Rx only ZORTRESS ® (everolimus) Tablets 1 mg per tablet Contents: 6 blister cards of 10 tablets each DISPENSE WITH MEDICATION GUIDE ENCLOSED OR PROVIDED SEPARATELY. NOVARTIS PRINCIPAL DISPLAY PANEL NDC 0078-0422-20 Rx only ZORTRESS® (everolimus) Tablets 1 mg per tablet Contents: 6 blister cards of 10 tablets each DISPENSE WITH MEDICATION GUIDE ENCLOSED OR PROVIDED SEPARATELY. NOVARTIS"
       ],
       "set_id": "e082a024-7850-400b-a5c2-2a140612562a",
-      "id": "8bf9513d-2ff7-41f9-8aaf-866c94d097a2",
-      "effective_time": "20230413",
-      "version": "23",
+      "id": "64a43a20-174b-4e6e-bd9a-a0b147d0990e",
+      "effective_time": "20230801",
+      "version": "24",
       "openfda": {
         "application_number": [
           "NDA021560"
@@ -149,7 +149,7 @@
           "EVEROLIMUS"
         ],
         "spl_id": [
-          "8bf9513d-2ff7-41f9-8aaf-866c94d097a2"
+          "64a43a20-174b-4e6e-bd9a-a0b147d0990e"
         ],
         "spl_set_id": [
           "e082a024-7850-400b-a5c2-2a140612562a"
