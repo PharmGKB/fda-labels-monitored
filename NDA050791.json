@@ -124,9 +124,9 @@
         "PRINCIPAL DISPLAY PANEL NOVARTIS NDC 0078-0386-66 Myfortic ® (mycophenolic acid*) delayed-release tablets *as mycophenolate sodium Dispense the accompanying Medication Guide to each patient. 120 Tablets 360 mg Rx only PRINCIPAL DISPLAY PANEL NOVARTIS NDC 0078-0386-66 Myfortic® (mycophenolic acid*) delayed-release tablets *as mycophenolate sodium Dispense the accompanying Medication Guide to each patient. 120 Tablets 360 mg Rx only"
       ],
       "set_id": "eed26501-890d-4ff6-88e7-6dbea4726e53",
-      "id": "bb2b27e6-0680-4625-89c7-d56def2ddee0",
-      "effective_time": "20230215",
-      "version": "29",
+      "id": "c42ba1b1-8510-46ff-8de5-e5aee86faaaf",
+      "effective_time": "20230808",
+      "version": "30",
       "openfda": {
         "application_number": [
           "NDA050791"
@@ -154,7 +154,7 @@
           "MYCOPHENOLATE SODIUM"
         ],
         "spl_id": [
-          "bb2b27e6-0680-4625-89c7-d56def2ddee0"
+          "c42ba1b1-8510-46ff-8de5-e5aee86faaaf"
         ],
         "spl_set_id": [
           "eed26501-890d-4ff6-88e7-6dbea4726e53"
