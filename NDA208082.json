@@ -130,9 +130,9 @@
         "<table><col/><col/><tbody><tr><td><content styleCode=\"bold\">Week</content></td><td><content styleCode=\"bold\">Tablets per day</content></td></tr><tr><td> 1</td><td> Take 1 (6 mg) tablet every morning</td></tr><tr><td> 2</td><td> Take 1 (6 mg) tablet every morning and 1 (6 mg) tablet every evening</td></tr><tr><td> 3</td><td> Take 1 (9 mg) tablet every morning and 1 (9 mg) tablet every evening</td></tr><tr><td> 4</td><td> Take 1 (12 mg) tablet every morning and 1 (12 mg) tablet every evening</td></tr></tbody></table>"
       ],
       "set_id": "7ea3c60a-45c7-44cc-afc2-d87fa53993c0",
-      "id": "fdd3cc1e-c208-4fed-837a-7622d20f4c8f",
+      "id": "b920d435-599c-4fc9-8f5d-2d513e461321",
       "effective_time": "20230228",
-      "version": "29",
+      "version": "30",
       "openfda": {
         "application_number": [
           "NDA208082"
@@ -169,7 +169,7 @@
           "DEUTETRABENAZINE"
         ],
         "spl_id": [
-          "fdd3cc1e-c208-4fed-837a-7622d20f4c8f"
+          "b920d435-599c-4fc9-8f5d-2d513e461321"
         ],
         "spl_set_id": [
           "7ea3c60a-45c7-44cc-afc2-d87fa53993c0"
