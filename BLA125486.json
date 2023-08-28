@@ -129,9 +129,9 @@
         "PRINCIPAL DISPLAY PANEL - 40 mL Vial Carton NDC 50242-070-01 Gazyva ® (obinutuzumab) Injection 1000 mg/40 mL (25 mg/mL) For Intravenous Infusion After Dilution. Single-Dose Vial. Discard Unused Portion. No preservative. 1 vial Rx only Genentech 10240530 Principal Display Panel - 40 mL Vial Carton"
       ],
       "set_id": "df12ceb2-5b4b-4ab5-a317-2a36bf2a3cda",
-      "id": "a4db57aa-aaf4-4714-97d5-b2daa6c67a73",
-      "effective_time": "20220719",
-      "version": "18",
+      "id": "46ab013a-7f43-41f7-8ee8-fc77437561ee",
+      "effective_time": "20230823",
+      "version": "19",
       "openfda": {
         "application_number": [
           "BLA125486"
@@ -157,12 +157,8 @@
         "substance_name": [
           "OBINUTUZUMAB"
         ],
-        "rxcui": [
-          "1442693",
-          "1442698"
-        ],
         "spl_id": [
-          "a4db57aa-aaf4-4714-97d5-b2daa6c67a73"
+          "46ab013a-7f43-41f7-8ee8-fc77437561ee"
         ],
         "spl_set_id": [
           "df12ceb2-5b4b-4ab5-a317-2a36bf2a3cda"
