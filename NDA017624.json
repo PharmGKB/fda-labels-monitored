@@ -99,12 +99,12 @@
         "Manufactured for Baxter Healthcare Corporation Deerfield, IL 60015 USA Baxter and Forane are trademarks of Baxter International Inc. For Product Inquiry 1 800 ANA DRUG (1-800-262-3784) Revised: Nov 2022 07-19-00-5144"
       ],
       "package_label_principal_display_panel": [
-        "PACKAGE LABEL - PRINCIPAL DISPLAY PANEL Container Label NDC 10019-360-40 Forane (isoflurane, USP) Liquid for Inhalation 100 mL Baxter Manufactured for Baxter Healthcare Corporation Deerfield, IL 60015 USA Rx only 1 - chloro - 2, 2, 2 - trifluoroethyl difluoromethyl ether A nonflammable, nonexplosive inhalation anesthetic Store at room temperature 15°-30°C (59°-86°F) [see USP]. IMPORTANT: See package insert for dosage and directions for use. Baxter and Forane are trademarks of Baxter International Inc. For Product Inquiry 1 800 ANA DRUG (1-800-262-3784) 400-424-05 3 N 10019 36040 9 Carton Label Forane (isoflurane, USP) NDC 10019-360-40 6 x 100 mL Bottles Store at room temperature 15°-30°C (59°-86°F). Exp Nov 2006 Lot A111A111 Mfd. for Baxter Healthcare Corporation, Deerfield, IL 60015 USA 0001 475-065-02 Forane Container Label, NDC 10019-360-40 Forane Carton Label - NDC 10019-360-40"
+        "PACKAGE LABEL - PRINCIPAL DISPLAY PANEL Container Label NDC 10019-360-40 Forane (isoflurane, USP) Liquid for Inhalation 100 mL Baxter Manufactured for Baxter Healthcare Corporation Deerfield, IL 60015 USA Rx only 1 - chloro - 2, 2, 2 - trifluoroethyl difluoromethyl ether A nonflammable, nonexplosive inhalation anesthetic Store at room temperature 15°-30°C (59°-86°F) [see USP]. IMPORTANT: See package insert for dosage and directions for use. Baxter and Forane are trademarks of Baxter International Inc. For Product Inquiry 1 800 ANA DRUG (1-800-262-3784) 400-424-05 3 N 10019 36040 9 Forane Container Label, NDC 10019-360-40"
       ],
       "set_id": "3d30eb8d-a62e-475f-926b-78ba63bee9c8",
-      "id": "a70e43ba-cc0a-485c-994d-c788441c10a0",
+      "id": "6851d96f-d0d8-46af-983a-0e8714f84a62",
       "effective_time": "20221101",
-      "version": "9",
+      "version": "10",
       "openfda": {
         "application_number": [
           "NDA017624"
@@ -131,7 +131,7 @@
           "ISOFLURANE"
         ],
         "spl_id": [
-          "a70e43ba-cc0a-485c-994d-c788441c10a0"
+          "6851d96f-d0d8-46af-983a-0e8714f84a62"
         ],
         "spl_set_id": [
           "3d30eb8d-a62e-475f-926b-78ba63bee9c8"

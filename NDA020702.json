@@ -136,9 +136,9 @@
         "PRINCIPAL DISPLAY PANEL - 80 mg Tablet Bottle Label NDC 59762-0158-1 90 Tablets GREENSTONE ® BRAND atorvastatin calcium tablets 80 mg* Rx only Principal Display Panel - 80 mg Tablet Bottle Label"
       ],
       "set_id": "59b924d0-e27f-4567-a0c4-467f9a61df3e",
-      "id": "b69e51c6-0c63-4c69-adcf-cf3969db84df",
+      "id": "a6adae3b-43f9-4fc0-8bb0-2e5a58728760",
       "effective_time": "20201210",
-      "version": "15",
+      "version": "16",
       "openfda": {
         "application_number": [
           "NDA020702"
@@ -153,9 +153,9 @@
           "Greenstone LLC"
         ],
         "product_ndc": [
+          "59762-0157",
           "59762-0155",
           "59762-0156",
-          "59762-0157",
           "59762-0158"
         ],
         "product_type": [
@@ -168,7 +168,7 @@
           "ATORVASTATIN CALCIUM TRIHYDRATE"
         ],
         "spl_id": [
-          "b69e51c6-0c63-4c69-adcf-cf3969db84df"
+          "a6adae3b-43f9-4fc0-8bb0-2e5a58728760"
         ],
         "spl_set_id": [
           "59b924d0-e27f-4567-a0c4-467f9a61df3e"

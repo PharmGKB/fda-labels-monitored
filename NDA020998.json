@@ -139,9 +139,9 @@
         "PRINCIPAL DISPLAY PANEL - 400 mg Capsule Bottle Label ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 59762-1518-2 60 Capsules GREENSTONE ® BRAND celecoxib capsules 400 mg Rx only PRINCIPAL DISPLAY PANEL - 400 mg Capsule Bottle Label"
       ],
       "set_id": "12c2b345-bf1c-4661-85a8-257c4af2bda5",
-      "id": "bdb08831-b375-4d49-bff1-3c0ba3c5c3f6",
+      "id": "9abcea86-3b63-4e25-be0a-f689fdaea3a2",
       "effective_time": "20210514",
-      "version": "9",
+      "version": "10",
       "openfda": {
         "application_number": [
           "NDA020998"
@@ -170,14 +170,8 @@
         "substance_name": [
           "CELECOXIB"
         ],
-        "rxcui": [
-          "205322",
-          "205323",
-          "349514",
-          "686379"
-        ],
         "spl_id": [
-          "bdb08831-b375-4d49-bff1-3c0ba3c5c3f6"
+          "9abcea86-3b63-4e25-be0a-f689fdaea3a2"
         ],
         "spl_set_id": [
           "12c2b345-bf1c-4661-85a8-257c4af2bda5"
