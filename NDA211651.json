@@ -130,9 +130,9 @@
         "PRINCIPAL DISPLAY PANEL – 0.5 mg Capsule Bottle Carton PROFESSIONAL SAMPLE - NOT FOR SALE NDC 63539-051-30 Pfizer Talzenna ® (talazoparib) capsules 0.5 mg 30 Capsules Rx only PRINCIPAL DISPLAY PANEL – 0.5 mg Capsule Bottle Carton"
       ],
       "set_id": "13839d4f-6acf-4ffb-a128-79df59319273",
-      "id": "d4e5288f-4ecd-4c33-a1fa-f1a113face90",
-      "effective_time": "20230626",
-      "version": "5",
+      "id": "8b30c92a-7971-4701-9810-82e53466f18f",
+      "effective_time": "20230904",
+      "version": "6",
       "openfda": {
         "application_number": [
           "NDA211651"
@@ -159,8 +159,14 @@
         "substance_name": [
           "TALAZOPARIB TOSYLATE"
         ],
+        "rxcui": [
+          "2099954",
+          "2099956",
+          "2591510",
+          "2591512"
+        ],
         "spl_id": [
-          "d4e5288f-4ecd-4c33-a1fa-f1a113face90"
+          "8b30c92a-7971-4701-9810-82e53466f18f"
         ],
         "spl_set_id": [
           "13839d4f-6acf-4ffb-a128-79df59319273"

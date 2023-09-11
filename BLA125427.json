@@ -120,9 +120,9 @@
         "PRINCIPAL DISPLAY PANEL - 160 mg Vial Carton NDC 50242-087-01 Kadcyla ® (ado-trastuzumab emtansine) For Injection 160 mg per vial For Intravenous Infusion Only Reconstitute and Dilute prior to administration Single-Dose Vial – Discard Unused Portion KEEP REFRIGERATED Rx only 1 vial Genentech 10217217 PRINCIPAL DISPLAY PANEL - 160 mg Vial Carton"
       ],
       "set_id": "23f3c1f4-0fc8-4804-a9e3-04cf25dd302e",
-      "id": "df6d0fd4-5cbb-4fc9-b2e1-0a28aaf06e2f",
-      "effective_time": "20230606",
-      "version": "23",
+      "id": "e40e1696-14c3-4366-a516-f36d0d9004b1",
+      "effective_time": "20230831",
+      "version": "26",
       "openfda": {
         "application_number": [
           "BLA125427"
@@ -149,8 +149,14 @@
         "substance_name": [
           "TRASTUZUMAB EMTANSINE"
         ],
+        "rxcui": [
+          "1658084",
+          "1658087",
+          "1658089",
+          "1658091"
+        ],
         "spl_id": [
-          "df6d0fd4-5cbb-4fc9-b2e1-0a28aaf06e2f"
+          "e40e1696-14c3-4366-a516-f36d0d9004b1"
         ],
         "spl_set_id": [
           "23f3c1f4-0fc8-4804-a9e3-04cf25dd302e"
