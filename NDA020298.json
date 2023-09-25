@@ -126,6 +126,10 @@
         "substance_name": [
           "ALLOPURINOL SODIUM"
         ],
+        "rxcui": [
+          "252931",
+          "261265"
+        ],
         "spl_id": [
           "4045f732-add9-4445-b4c8-a3a7f32bab46"
         ],
