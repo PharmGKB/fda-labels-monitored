@@ -163,6 +163,18 @@
         "upc": [
           "0300065331010"
         ],
+        "nui": [
+          "N0000193999",
+          "N0000193998",
+          "N0000185506"
+        ],
+        "pharm_class_epc": [
+          "Hypoxia-inducible Factor Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Hypoxia-inducible Factor 2 alpha Inhibitors [MoA]",
+          "Cytochrome P450 3A4 Inducers [MoA]"
+        ],
         "unii": [
           "7K28NB895L"
         ]

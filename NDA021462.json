@@ -151,6 +151,12 @@
         "substance_name": [
           "PEMETREXED DISODIUM HEPTAHYDRATE"
         ],
+        "rxcui": [
+          "1728072",
+          "1728075",
+          "1728077",
+          "1728079"
+        ],
         "spl_id": [
           "3af0bc84-13d6-46aa-a4c0-c62410b73bc6"
         ],

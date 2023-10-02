@@ -129,6 +129,10 @@
         "substance_name": [
           "MARGETUXIMAB"
         ],
+        "rxcui": [
+          "2474028",
+          "2474033"
+        ],
         "spl_id": [
           "ecffdaa1-85ce-4114-9815-d90ae7ec3258"
         ],
