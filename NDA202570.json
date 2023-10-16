@@ -131,9 +131,9 @@
         "PRINCIPAL DISPLAY PANEL - 200 mg Capsule Bottle Label ALWAYS DISPENSE ENCLOSED MEDICATION GUIDE TO EACH PATIENT Pfizer NDC 0069-8141-20 XALKORI ® (crizotinib) capsules 200 mg Swallow capsule whole 60 Capsules Rx only PRINCIPAL DISPLAY PANEL - 200 mg Capsule Bottle Label"
       ],
       "set_id": "2a51b0de-47d6-455e-a94c-d2c737b04ff7",
-      "id": "f74e81cd-b88f-4c38-8656-266c04b4d859",
-      "effective_time": "20221003",
-      "version": "41",
+      "id": "1019d545-8f75-4f91-a319-50d099006dd9",
+      "effective_time": "20231006",
+      "version": "42",
       "openfda": {
         "application_number": [
           "NDA202570"
@@ -167,7 +167,7 @@
           "1148506"
         ],
         "spl_id": [
-          "f74e81cd-b88f-4c38-8656-266c04b4d859"
+          "1019d545-8f75-4f91-a319-50d099006dd9"
         ],
         "spl_set_id": [
           "2a51b0de-47d6-455e-a94c-d2c737b04ff7"

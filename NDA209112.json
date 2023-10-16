@@ -84,9 +84,9 @@
         "PACKAGE LABEL PRINCIPAL DISPLAY Ascor-Vial-Label-Only Ascor-Vial-Carton-Label Ascor-25Pack-Label-Only"
       ],
       "set_id": "388aad52-fc01-4784-9791-1dbc80c69306",
-      "id": "eb8ed76b-9cda-3636-e053-2a95a90a9583",
-      "effective_time": "20221021",
-      "version": "11",
+      "id": "075138ff-9f77-bf73-e063-6294a90a4c34",
+      "effective_time": "20231010",
+      "version": "12",
       "openfda": {
         "application_number": [
           "NDA209112"
@@ -117,7 +117,7 @@
           "2002739"
         ],
         "spl_id": [
-          "eb8ed76b-9cda-3636-e053-2a95a90a9583"
+          "075138ff-9f77-bf73-e063-6294a90a4c34"
         ],
         "spl_set_id": [
           "388aad52-fc01-4784-9791-1dbc80c69306"
@@ -130,8 +130,8 @@
           true
         ],
         "upc": [
-          "0367157101517",
-          "0367157101500"
+          "0367157101500",
+          "0367157101517"
         ],
         "nui": [
           "N0000193618",

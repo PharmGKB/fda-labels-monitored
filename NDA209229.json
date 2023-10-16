@@ -6,7 +6,7 @@
     "results": {
       "skip": 0,
       "limit": 1,
-      "total": 2
+      "total": 1
     }
   },
   "results": [
@@ -116,9 +116,9 @@
         "PRINCIPAL DISPLAY PANEL - 0.18 mg Tablet Bottle Carton Rx only NDC 78670-050-96 Lucemyra ® (lofexidine) tablets 0.18 mg Store and dispense in original container. Protect from heat and moisture. Do not remove desiccants. Keep the bottle tightly closed. Keep out of reach of children. 96 tablets US WorldMeds ® PRINCIPAL DISPLAY PANEL - 0.18 mg Tablet Bottle Carton"
       ],
       "set_id": "b748f308-ba71-4fd9-84ec-ec7e0f210885",
-      "id": "e6a8216a-f186-433b-9edc-d0857b2ac432",
-      "effective_time": "20220307",
-      "version": "5",
+      "id": "0df35cf0-1630-403e-b051-7212027f1f26",
+      "effective_time": "20231005",
+      "version": "6",
       "openfda": {
         "application_number": [
           "NDA209229"
@@ -144,8 +144,12 @@
         "substance_name": [
           "LOFEXIDINE HYDROCHLORIDE"
         ],
+        "rxcui": [
+          "2046591",
+          "2046597"
+        ],
         "spl_id": [
-          "e6a8216a-f186-433b-9edc-d0857b2ac432"
+          "0df35cf0-1630-403e-b051-7212027f1f26"
         ],
         "spl_set_id": [
           "b748f308-ba71-4fd9-84ec-ec7e0f210885"
