@@ -141,9 +141,9 @@
         "PRINCIPAL DISPLAY PANEL - 5.8 mg Granule Packet Carton Rx only NDC 51167-785-01 kalydeco ® (ivacaftor) oral granules 5.8 mg 56 packets Each packet contains 5.8 mg ivacaftor Carton contains: 4 individual wallets with 14 packets per wallet Lift here to open PRINCIPAL DISPLAY PANEL - 5.8 mg Granule Packet Carton"
       ],
       "set_id": "0ab0c9f8-3eee-4e0f-9f3f-c1e16aaffe25",
-      "id": "1f8e8f4b-3f0d-4a69-8cfa-84bae4a86a87",
-      "effective_time": "20230810",
-      "version": "29",
+      "id": "fe19efba-2c80-41a6-a55a-0e6e07c665a7",
+      "effective_time": "20231016",
+      "version": "30",
       "openfda": {
         "application_number": [
           "NDA203188"
@@ -175,7 +175,7 @@
           "IVACAFTOR"
         ],
         "spl_id": [
-          "1f8e8f4b-3f0d-4a69-8cfa-84bae4a86a87"
+          "fe19efba-2c80-41a6-a55a-0e6e07c665a7"
         ],
         "spl_set_id": [
           "0ab0c9f8-3eee-4e0f-9f3f-c1e16aaffe25"
