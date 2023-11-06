@@ -128,6 +128,12 @@
         "substance_name": [
           "DONEPEZIL HYDROCHLORIDE"
         ],
+        "rxcui": [
+          "997223",
+          "997224",
+          "1100184",
+          "1100187"
+        ],
         "spl_id": [
           "0517d853-9330-8ec6-e063-6394a90a9634"
         ],

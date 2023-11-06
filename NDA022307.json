@@ -157,6 +157,12 @@
         "substance_name": [
           "PRASUGREL HYDROCHLORIDE"
         ],
+        "rxcui": [
+          "855812",
+          "855816",
+          "855818",
+          "855820"
+        ],
         "spl_id": [
           "e8172297-af81-4c37-e053-2995a90ad4e5"
         ],

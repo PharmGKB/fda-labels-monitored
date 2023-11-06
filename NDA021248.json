@@ -90,9 +90,9 @@
         "Package/Label Display Panel NDC 63459-601-06 Trisenox® (arsenic trioxide) injection 12 mg/6 mL (2 mg/mL) 10 x 6 mL Single-Dose Vial – Discard Unused Portion For Intravenous Use Only 10 x 6 mL Single-Dose Vial Rx only Teva Trisenox carton"
       ],
       "set_id": "101fc347-d0ad-4aee-8b06-9feb187fd741",
-      "id": "a816740a-1bdd-4f35-b836-80f8aa67e88c",
-      "effective_time": "20230907",
-      "version": "15",
+      "id": "c6f1760b-1b0a-4e85-bdb5-b5554ba302d3",
+      "effective_time": "20220630",
+      "version": "16",
       "openfda": {
         "application_number": [
           "NDA021248"
@@ -118,8 +118,12 @@
         "substance_name": [
           "ARSENIC TRIOXIDE"
         ],
+        "rxcui": [
+          "1992545",
+          "1992547"
+        ],
         "spl_id": [
-          "a816740a-1bdd-4f35-b836-80f8aa67e88c"
+          "c6f1760b-1b0a-4e85-bdb5-b5554ba302d3"
         ],
         "spl_set_id": [
           "101fc347-d0ad-4aee-8b06-9feb187fd741"

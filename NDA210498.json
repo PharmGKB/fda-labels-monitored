@@ -145,6 +145,10 @@
         "substance_name": [
           "BINIMETINIB"
         ],
+        "rxcui": [
+          "2049127",
+          "2049133"
+        ],
         "spl_id": [
           "4e0f2551-01a9-46c6-8019-bd5535c09ee6"
         ],

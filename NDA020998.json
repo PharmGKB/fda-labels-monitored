@@ -6,7 +6,7 @@
     "results": {
       "skip": 0,
       "limit": 1,
-      "total": 6
+      "total": 7
     }
   },
   "results": [
@@ -169,6 +169,12 @@
         ],
         "substance_name": [
           "CELECOXIB"
+        ],
+        "rxcui": [
+          "205322",
+          "205323",
+          "349514",
+          "686379"
         ],
         "spl_id": [
           "9abcea86-3b63-4e25-be0a-f689fdaea3a2"

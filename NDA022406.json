@@ -201,6 +201,10 @@
         "substance_name": [
           "RIVAROXABAN"
         ],
+        "rxcui": [
+          "1114198",
+          "1114202"
+        ],
         "spl_id": [
           "d0758929-1cc8-4ac2-807e-969a8c7f6c77"
         ],

@@ -113,6 +113,10 @@
         "substance_name": [
           "BUSULFAN"
         ],
+        "rxcui": [
+          "105551",
+          "197422"
+        ],
         "spl_id": [
           "f68d65a9-9f60-4ff8-9eb4-36d86b364683"
         ],

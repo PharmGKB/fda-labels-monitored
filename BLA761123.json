@@ -98,9 +98,9 @@
         "PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 300mg/2mL (150 mg/mL) NDC 0310-3040-00 Rx only SAPHNELO ® (anifrolumab-fnia) Injection 300 mg/2 mL (150 mg/mL) For Intravenous Infusion After Dilution Must dilute before use. See prescribing information. Single-dose vial. Discard unused portion. Store refrigerated at 2°C to 8°C (36°F to 46°F). Keep vial in original carton to protect from light. Do not shake or freeze. 1 single-dose vial AstraZeneca carton_1_single_dose-vial-300mg-2ml"
       ],
       "set_id": "d6203302-2128-41a7-b0b4-0e6c0704d4dc",
-      "id": "1db6614b-dda6-48c6-aafd-881b6565b159",
+      "id": "84a44e1b-a944-469b-8403-3aa1ad7539c1",
       "effective_time": "20220912",
-      "version": "5",
+      "version": "6",
       "openfda": {
         "application_number": [
           "BLA761123"
@@ -131,7 +131,7 @@
           "2565286"
         ],
         "spl_id": [
-          "1db6614b-dda6-48c6-aafd-881b6565b159"
+          "84a44e1b-a944-469b-8403-3aa1ad7539c1"
         ],
         "spl_set_id": [
           "d6203302-2128-41a7-b0b4-0e6c0704d4dc"

@@ -141,6 +141,10 @@
         "substance_name": [
           "MODAFINIL"
         ],
+        "rxcui": [
+          "205324",
+          "260218"
+        ],
         "spl_id": [
           "4f6d6bdf-8143-4d0f-9a2c-f732527f8692"
         ],

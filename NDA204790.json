@@ -156,6 +156,10 @@
         "substance_name": [
           "DOLUTEGRAVIR SODIUM"
         ],
+        "rxcui": [
+          "1433873",
+          "1433879"
+        ],
         "spl_id": [
           "3fa1b0d4-ded9-42b9-9b62-06fb76c86f4e"
         ],

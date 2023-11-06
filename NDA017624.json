@@ -130,6 +130,10 @@
         "substance_name": [
           "ISOFLURANE"
         ],
+        "rxcui": [
+          "542347",
+          "542358"
+        ],
         "spl_id": [
           "6851d96f-d0d8-46af-983a-0e8714f84a62"
         ],

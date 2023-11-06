@@ -127,6 +127,12 @@
         "substance_name": [
           "PITOLISANT HYDROCHLORIDE"
         ],
+        "rxcui": [
+          "2197884",
+          "2197890",
+          "2197892",
+          "2197894"
+        ],
         "spl_id": [
           "b4401c40-d27c-4a82-9c17-dac9c771a6ec"
         ],

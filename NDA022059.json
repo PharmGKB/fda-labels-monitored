@@ -140,6 +140,10 @@
         "substance_name": [
           "LAPATINIB DITOSYLATE"
         ],
+        "rxcui": [
+          "672149",
+          "672152"
+        ],
         "spl_id": [
           "3762f7f1-b9c3-4e9f-9249-01f87b0ec407"
         ],

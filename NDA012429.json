@@ -6,7 +6,7 @@
     "results": {
       "skip": 0,
       "limit": 1,
-      "total": 2
+      "total": 3
     }
   },
   "results": [
@@ -112,6 +112,10 @@
         ],
         "substance_name": [
           "THIOGUANINE"
+        ],
+        "rxcui": [
+          "105590",
+          "198269"
         ],
         "spl_id": [
           "bb1f2055-e87c-4ac6-9427-715f4fa65d28"

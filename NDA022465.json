@@ -146,6 +146,10 @@
         "substance_name": [
           "PAZOPANIB HYDROCHLORIDE"
         ],
+        "rxcui": [
+          "867502",
+          "867506"
+        ],
         "spl_id": [
           "929749e3-ee9b-4550-b583-c78290919caf"
         ],

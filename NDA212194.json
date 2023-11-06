@@ -127,6 +127,10 @@
         "substance_name": [
           "GIVOSIRAN SODIUM"
         ],
+        "rxcui": [
+          "2265716",
+          "2265721"
+        ],
         "spl_id": [
           "c47a10ee-f647-4319-85e9-8b7505637bde"
         ],

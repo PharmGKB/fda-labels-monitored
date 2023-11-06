@@ -131,6 +131,12 @@
         "substance_name": [
           "ETEPLIRSEN"
         ],
+        "rxcui": [
+          "1810573",
+          "1810578",
+          "1810581",
+          "1810582"
+        ],
         "spl_id": [
           "bc7aae14-1ae0-4b09-b42a-c3f5a9c7ce11"
         ],

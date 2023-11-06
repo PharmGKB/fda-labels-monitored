@@ -143,6 +143,10 @@
         "substance_name": [
           "AMIFAMPRIDINE PHOSPHATE"
         ],
+        "rxcui": [
+          "2106343",
+          "2107518"
+        ],
         "spl_id": [
           "3c96579b-d68e-4460-8873-39d086998176"
         ],

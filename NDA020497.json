@@ -106,9 +106,9 @@
         "PRINCIPAL DISPLAY PANEL - 60 mg Tablet Carton NDC 42747-327-30 Fareston ® (toremifene citrate) Tablets 30 TABLETS Rx only 60 mg KYOWA KIRIN PRINCIPAL DISPLAY PANEL - 60 mg Tablet Carton Label"
       ],
       "set_id": "2cab8dd1-3a10-48e6-86ce-0e5275ed49e5",
-      "id": "976998a6-6ac7-41fd-a958-2fc51efd7eb8",
-      "effective_time": "20230714",
-      "version": "9",
+      "id": "105f2acb-bb04-4551-9ae3-3abbeacaba5e",
+      "effective_time": "20230915",
+      "version": "10",
       "openfda": {
         "application_number": [
           "NDA020497"
@@ -134,8 +134,12 @@
         "substance_name": [
           "TOREMIFENE CITRATE"
         ],
+        "rxcui": [
+          "152880",
+          "313428"
+        ],
         "spl_id": [
-          "976998a6-6ac7-41fd-a958-2fc51efd7eb8"
+          "105f2acb-bb04-4551-9ae3-3abbeacaba5e"
         ],
         "spl_set_id": [
           "2cab8dd1-3a10-48e6-86ce-0e5275ed49e5"

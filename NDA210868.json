@@ -149,6 +149,10 @@
         "substance_name": [
           "LORLATINIB"
         ],
+        "rxcui": [
+          "2103169",
+          "2103175"
+        ],
         "spl_id": [
           "5fc88709-ec95-48d9-9e9f-e6c1790f6778"
         ],

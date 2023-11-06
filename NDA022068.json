@@ -125,9 +125,9 @@
         "PRINCIPAL DISPLAY PANEL NDC 0078-0526-87 Tasigna ® (nilotinib) capsules 200 mg per capsule DISPENSE WITH MEDICATION GUIDE ATTACHED OR PROVIDED SEPARATELY. NOVARTIS PRINCIPAL DISPLAY PANEL NDC 0078-0526-87 Tasigna® (nilotinib) capsules 200 mg per capsule DISPENSE WITH MEDICATION GUIDE ATTACHED OR PROVIDED SEPARATELY. NOVARTIS"
       ],
       "set_id": "6093952a-5248-45cb-ad17-33716a411146",
-      "id": "eca07e68-c15a-45b0-afdd-de4d9f7424c2",
-      "effective_time": "20230419",
-      "version": "34",
+      "id": "b230c25f-3612-4e55-a69d-9cd1bdfd69b9",
+      "effective_time": "20230712",
+      "version": "36",
       "openfda": {
         "application_number": [
           "NDA022068"
@@ -155,8 +155,16 @@
         "substance_name": [
           "NILOTINIB"
         ],
+        "rxcui": [
+          "746606",
+          "746609",
+          "997653",
+          "1002300",
+          "2002717",
+          "2002719"
+        ],
         "spl_id": [
-          "eca07e68-c15a-45b0-afdd-de4d9f7424c2"
+          "b230c25f-3612-4e55-a69d-9cd1bdfd69b9"
         ],
         "spl_set_id": [
           "6093952a-5248-45cb-ad17-33716a411146"

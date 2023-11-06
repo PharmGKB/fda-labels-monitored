@@ -128,6 +128,10 @@
         "substance_name": [
           "GOLODIRSEN"
         ],
+        "rxcui": [
+          "2267211",
+          "2267216"
+        ],
         "spl_id": [
           "556ca30e-9f7f-478a-9ab7-281e2069f059"
         ],
@@ -142,6 +146,20 @@
         ],
         "upc": [
           "0360923465028"
+        ],
+        "nui": [
+          "N0000191626",
+          "M0025055",
+          "N0000009533"
+        ],
+        "pharm_class_epc": [
+          "Antisense Oligonucleotide [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Oligonucleotides, Antisense [CS]"
+        ],
+        "pharm_class_pe": [
+          "Increased Protein Synthesis [PE]"
         ],
         "unii": [
           "033072U4MZ"
