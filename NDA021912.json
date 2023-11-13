@@ -6,7 +6,7 @@
     "results": {
       "skip": 0,
       "limit": 1,
-      "total": 2
+      "total": 3
     }
   },
   "results": [
@@ -117,9 +117,9 @@
         "PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – Single VIAL POUCH NDC 63402-911-11 One 2 mL Sterile Unit-Dose Vial. Brovana ® (arformoterol tartrate) Inhalation Solution 15 mcg* / 2 mL * Potency expressed as arformoterol Open Foil Pouch Just Prior to Administration Each 2 mL unit-dose vial contains 15mcg of arformoterol (equivalent to 22 mcg arformoterol tartrate) in a sterile, isotonic saline solution, pH- adjusted to 5.0 with citric acid and sodium citrate. Keep out of reach of children. Rx Only. Protect from light and excessive heat. Store unopened pouched unit-dose vials in a refrigerator (36ºF-46ºF, 2ºC-8ºC). Unopened pouched unit-dose vials can also be stored at room temperature (68ºF-77ºF, 20ºC-25ºC) for up to 6 weeks. Do not use past the expiration date or after 6 weeks storage at room temperature, whichever is sooner. Discard if solution is not colorless. Use only as directed by your physician. Do not exceed recommended dosage. PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – Single VIAL POUCH"
       ],
       "set_id": "7134ae7c-6c64-470d-ab4e-81e35413b839",
-      "id": "2958732d-0046-49fc-8f28-b36959252832",
-      "effective_time": "20220225",
-      "version": "24",
+      "id": "adc0288a-06e1-4ba5-9ba4-7b0cf381718f",
+      "effective_time": "20231024",
+      "version": "25",
       "openfda": {
         "application_number": [
           "NDA021912"
@@ -131,7 +131,7 @@
           "ARFORMOTEROL TARTRATE"
         ],
         "manufacturer_name": [
-          "Sunovion Pharmaceuticals Inc."
+          "Sumitomo Pharma America, Inc."
         ],
         "product_ndc": [
           "63402-911"
@@ -146,7 +146,7 @@
           "ARFORMOTEROL TARTRATE"
         ],
         "spl_id": [
-          "2958732d-0046-49fc-8f28-b36959252832"
+          "adc0288a-06e1-4ba5-9ba4-7b0cf381718f"
         ],
         "spl_set_id": [
           "7134ae7c-6c64-470d-ab4e-81e35413b839"
@@ -163,10 +163,6 @@
         ],
         "is_original_packager": [
           true
-        ],
-        "upc": [
-          "0363402911047",
-          "0363402911016"
         ],
         "unii": [
           "5P8VJ2I235"

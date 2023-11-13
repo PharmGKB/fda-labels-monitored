@@ -124,9 +124,9 @@
         "PRINCIPAL DISPLAY PANEL NDC 0456-4040-01 Celexa citalopram Tablets – 40 mg Equivalent to 40 mg citalopram 100 Tablets PRINCIPAL DISPLAY PANEL NDC 0456-4040-01 Celexa citalopram Tablets – 40 mg Equivalent to 40 mg citalopram 100 Tablets"
       ],
       "set_id": "4259d9b1-de34-43a4-85a8-41dd214e9177",
-      "id": "46203f72-8e84-4d75-88f7-22912b5e3934",
+      "id": "a6e5794d-438d-4fb9-8303-6a57d7b64da6",
       "effective_time": "20231009",
-      "version": "36",
+      "version": "37",
       "openfda": {
         "application_number": [
           "NDA020822"
@@ -154,16 +154,8 @@
         "substance_name": [
           "CITALOPRAM HYDROBROMIDE"
         ],
-        "rxcui": [
-          "200371",
-          "213344",
-          "213345",
-          "283672",
-          "284591",
-          "309314"
-        ],
         "spl_id": [
-          "46203f72-8e84-4d75-88f7-22912b5e3934"
+          "a6e5794d-438d-4fb9-8303-6a57d7b64da6"
         ],
         "spl_set_id": [
           "4259d9b1-de34-43a4-85a8-41dd214e9177"
