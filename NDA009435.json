@@ -51,9 +51,9 @@
         "Sample Package Label Label1.jpg"
       ],
       "set_id": "823a2335-05d0-4391-b612-316bfee9b1ea",
-      "id": "a3c9a172-3f6c-471e-b952-a02ebaf157e4",
-      "effective_time": "20220722",
-      "version": "2",
+      "id": "e0a69696-2947-4540-8499-384b7546fbd1",
+      "effective_time": "20231113",
+      "version": "3",
       "openfda": {
         "application_number": [
           "NDA009435"
@@ -85,7 +85,7 @@
           "992807"
         ],
         "spl_id": [
-          "a3c9a172-3f6c-471e-b952-a02ebaf157e4"
+          "e0a69696-2947-4540-8499-384b7546fbd1"
         ],
         "spl_set_id": [
           "823a2335-05d0-4391-b612-316bfee9b1ea"

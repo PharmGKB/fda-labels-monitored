@@ -105,9 +105,9 @@
         "PRINCIPAL DISPLAY PANEL NDC 0173-0873-10 INCRUSE ELLIPTA (umeclidinium inhalation powder) 62.5 mcg Rx Only FOR ORAL INHALATION ONLY Each blister contains 62.5 mcg of umeclidinium, magnesium stearate, and lactose monohydrate. 1 ELLIPTA Inhaler containing 1 Foil Strip of 30 Blisters Made in Singapore ©2022 GSK group of companies or its licensor 62000000074512 Rev. 1/22 Incruse Ellipta 30 count carton"
       ],
       "set_id": "dbb64747-1505-49d7-9a33-99dd402e96d3",
-      "id": "e9390615-1a7a-4856-bbe9-bd9fa31b40ff",
+      "id": "028cf775-caf7-406b-93ff-c3866ae193ed",
       "effective_time": "20200817",
-      "version": "19",
+      "version": "20",
       "openfda": {
         "application_number": [
           "NDA205382"
@@ -133,14 +133,8 @@
         "substance_name": [
           "UMECLIDINIUM BROMIDE"
         ],
-        "rxcui": [
-          "1539251",
-          "1539885",
-          "1596444",
-          "1596445"
-        ],
         "spl_id": [
-          "e9390615-1a7a-4856-bbe9-bd9fa31b40ff"
+          "028cf775-caf7-406b-93ff-c3866ae193ed"
         ],
         "spl_set_id": [
           "dbb64747-1505-49d7-9a33-99dd402e96d3"
