@@ -12,7 +12,7 @@
   "results": [
     {
       "spl_product_data_elements": [
-        "WELIREG belzutifan BELZUTIFAN BELZUTIFAN CROSCARMELLOSE SODIUM HYPROMELLOSE ACETATE SUCCINATE 06081224 (3 MM2/S) MAGNESIUM STEARATE MANNITOL MICROCRYSTALLINE CELLULOSE SILICON DIOXIDE FD&C BLUE NO. 2--ALUMINUM LAKE POLYETHYLENE GLYCOL, UNSPECIFIED POLYVINYL ALCOHOL, UNSPECIFIED TALC TITANIUM DIOXIDE 177"
+        "WELIREG belzutifan BELZUTIFAN BELZUTIFAN CROSCARMELLOSE SODIUM HYPROMELLOSE ACETATE SUCCINATE 06081224 (3 MPA.S) MAGNESIUM STEARATE MANNITOL MICROCRYSTALLINE CELLULOSE SILICON DIOXIDE FD&C BLUE NO. 2 ALUMINUM LAKE POLYETHYLENE GLYCOL, UNSPECIFIED POLYVINYL ALCOHOL, UNSPECIFIED TALC TITANIUM DIOXIDE 177"
       ],
       "boxed_warning": [
         "WARNING: EMBRYO-FETAL TOXICITY Exposure to WELIREG during pregnancy can cause embryo-fetal harm. Verify pregnancy status prior to the initiation of WELIREG. Advise patients of these risks and the need for effective non-hormonal contraception. WELIREG can render some hormonal contraceptives ineffective [see Warnings and Precautions (5.3) , Drug Interactions (7.2) , Use in Specific Populations (8.1 , 8.3) ]. WARNING: EMBRYO-FETAL TOXICITY See full prescribing information for complete boxed warning. Exposure to WELIREG during pregnancy can cause embryo-fetal harm. Verify pregnancy status prior to the initiation of WELIREG. Advise patients of these risks and the need for effective non-hormonal contraception. WELIREG can render some hormonal contraceptives ineffective. ( 5.3 , 7.2 , 8.1 , 8.3 )"
@@ -116,9 +116,9 @@
         "PRINCIPAL DISPLAY PANEL - 40 mg Bottle Label NDC 0006-5331-01 Welireg TM (belzutifan) tablets 40 mg Dispense the accompanying Medication Guide to each patient. Each tablet contains 40 mg of belzutifan. Rx only 90 Tablets PRINCIPAL DISPLAY PANEL - 40 mg Bottle Label"
       ],
       "set_id": "13e15ee0-d679-4fa9-9430-e2e2170474da",
-      "id": "3e4d6cc7-abe4-4d8f-beae-16a0e6ac0610",
-      "effective_time": "20220511",
-      "version": "3",
+      "id": "5cb6ae3e-8efe-4eef-a8a4-8bdea8a7c88c",
+      "effective_time": "20230621",
+      "version": "5",
       "openfda": {
         "application_number": [
           "NDA215383"
@@ -149,13 +149,15 @@
           "2567237"
         ],
         "spl_id": [
-          "3e4d6cc7-abe4-4d8f-beae-16a0e6ac0610"
+          "5cb6ae3e-8efe-4eef-a8a4-8bdea8a7c88c"
         ],
         "spl_set_id": [
           "13e15ee0-d679-4fa9-9430-e2e2170474da"
         ],
         "package_ndc": [
-          "0006-5331-01"
+          "0006-5331-01",
+          "0006-5331-58",
+          "0006-5331-59"
         ],
         "is_original_packager": [
           true
