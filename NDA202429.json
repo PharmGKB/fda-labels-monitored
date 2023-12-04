@@ -111,9 +111,9 @@
         "PRINCIPAL DISPLAY PANEL - 240 mg Tablet Bottle Carton NDC 50242-090-02 Zelboraf ® (vemurafenib) tablets 240 mg Do not crush or chew tablet. Rx only Attention Pharmacist: Dispense the accompanying Medication Guide to each patient. 112 tablets Genentech | Daiichi Sankyo, Inc. 10210025 PRINCIPAL DISPLAY PANEL - 240 mg Tablet Bottle Carton"
       ],
       "set_id": "38eea320-7e0c-485a-bc30-98c3c45e2763",
-      "id": "a3c7d7e1-fcc5-46e1-a480-329291f64583",
-      "effective_time": "20230405",
-      "version": "23",
+      "id": "12c533cf-cb4e-4c17-986c-100fcd1056eb",
+      "effective_time": "20231127",
+      "version": "24",
       "openfda": {
         "application_number": [
           "NDA202429"
@@ -139,8 +139,12 @@
         "substance_name": [
           "VEMURAFENIB"
         ],
+        "rxcui": [
+          "1147223",
+          "1147228"
+        ],
         "spl_id": [
-          "a3c7d7e1-fcc5-46e1-a480-329291f64583"
+          "12c533cf-cb4e-4c17-986c-100fcd1056eb"
         ],
         "spl_set_id": [
           "38eea320-7e0c-485a-bc30-98c3c45e2763"

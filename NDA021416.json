@@ -109,9 +109,9 @@
         "PRINCIPAL DISPLAY PANEL NDC 0173-0826-18 Rythmol SR (propafenone HCl) Extended-Release Capsules 425 mg R x only 60 Capsules Do not accept if seal over bottle opening is broken or missing. Usual Dosage : See accompanying prescribing information. Store at 25 o C (77 o F); excursions permitted to 15 o C-30 o C (59 o F-86 o F) [see USP Controlled Room Temperature]. Dispense in a tight container as defined in the USP. Trademark owned or licensed by GSK. ©2017 GSK or licensor. Manufactured for GlaxoSmithKline Research Triangle Park, NC 27709 Made in Germany Rev. 6/17 10000000146370 Rythmol SR 425 mg 60 count label"
       ],
       "set_id": "8bb1bc4a-a019-49c8-af81-be899822428f",
-      "id": "5289b871-0c92-4a43-839e-b405d298f477",
+      "id": "4e4c46d0-11df-4810-bf8a-14c392b33345",
       "effective_time": "20181102",
-      "version": "24",
+      "version": "25",
       "openfda": {
         "application_number": [
           "NDA021416"
@@ -139,8 +139,16 @@
         "substance_name": [
           "PROPAFENONE HYDROCHLORIDE"
         ],
+        "rxcui": [
+          "861156",
+          "861159",
+          "861164",
+          "861167",
+          "861171",
+          "861173"
+        ],
         "spl_id": [
-          "5289b871-0c92-4a43-839e-b405d298f477"
+          "4e4c46d0-11df-4810-bf8a-14c392b33345"
         ],
         "spl_set_id": [
           "8bb1bc4a-a019-49c8-af81-be899822428f"

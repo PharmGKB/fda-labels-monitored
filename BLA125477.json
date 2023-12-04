@@ -100,9 +100,9 @@
         "PACKAGE CARTON – CYRAMZA 500 mg/50mL single-use vial. NDC 0002-7678-01 Cyramza ® (ramucirumab) Injection 500 mg/50 mL (10 mg/mL) For Intravenous Infusion Only Must Dilute Prior to Use Single-Dose Vial Discard Unused Portion Keep Refrigerated Rx only www.cyramza.com Lilly CARTON FOR US ORIGIN CARTON FOR IRELAND ORIGIN PACKAGE CARTON – CYRAMZA 100 mg/10 mL single-use vial PACKAGE CARTON – CYRAMZA 500 mg/50 mL single-use vial PACKAGE CARTON – CYRAMZA 100 mg/50 mL single-use vial PACKAGE CARTON – CYRAMZA 500 mg/50 mL single-use vial"
       ],
       "set_id": "c6080942-dee6-423e-b688-1272c2ae90d4",
-      "id": "5bdad737-d958-4e6d-ba05-5b3cd39b16af",
-      "effective_time": "20221108",
-      "version": "39",
+      "id": "7ba2dde4-bb6d-4c7b-af6a-361ed01bfdf6",
+      "effective_time": "20231127",
+      "version": "40",
       "openfda": {
         "application_number": [
           "BLA125477"
@@ -129,14 +129,8 @@
         "substance_name": [
           "RAMUCIRUMAB"
         ],
-        "rxcui": [
-          "1657775",
-          "1657777",
-          "1657780",
-          "1657781"
-        ],
         "spl_id": [
-          "5bdad737-d958-4e6d-ba05-5b3cd39b16af"
+          "7ba2dde4-bb6d-4c7b-af6a-361ed01bfdf6"
         ],
         "spl_set_id": [
           "c6080942-dee6-423e-b688-1272c2ae90d4"

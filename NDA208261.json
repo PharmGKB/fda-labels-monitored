@@ -166,9 +166,9 @@
         "PRINCIPAL DISPLAY PANEL - 50 mg/100 mg Tablet Dose Pack Carton NDC 0006-3074-02 Zepatier ® (elbasvir and grazoprevir) tablets 50 mg/100 mg Rx only 28 Tablets This carton contains a total of 28 tablets packaged within 2 dose packs. Each dose pack contains 14 blister units with one tablet per blister unit. PRINCIPAL DISPLAY PANEL - 50 mg/100 mg Tablet Dose Pack Carton"
       ],
       "set_id": "164dc02a-9180-426a-b8b5-04ab39d2bbd4",
-      "id": "18d430c5-69f2-4824-ae66-80a37c51ae83",
-      "effective_time": "20220525",
-      "version": "18",
+      "id": "194bbac3-2955-4d3f-ae5e-9da852e428fa",
+      "effective_time": "20231121",
+      "version": "19",
       "openfda": {
         "application_number": [
           "NDA208261"
@@ -200,7 +200,7 @@
           "1734642"
         ],
         "spl_id": [
-          "18d430c5-69f2-4824-ae66-80a37c51ae83"
+          "194bbac3-2955-4d3f-ae5e-9da852e428fa"
         ],
         "spl_set_id": [
           "164dc02a-9180-426a-b8b5-04ab39d2bbd4"
