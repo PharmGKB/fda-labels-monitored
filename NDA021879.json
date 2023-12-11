@@ -6,13 +6,13 @@
     "results": {
       "skip": 0,
       "limit": 1,
-      "total": 1
+      "total": 2
     }
   },
   "results": [
     {
       "spl_product_data_elements": [
-        "NUEDEXTA dextromethorphan hydrobromide and quinidine sulfate DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN QUINIDINE SULFATE QUINIDINE CROSCARMELLOSE SODIUM CELLULOSE, MICROCRYSTALLINE SILICON DIOXIDE LACTOSE MONOHYDRATE MAGNESIUM STEARATE Brick-red DMQ;20;10"
+        "NUEDEXTA dextromethorphan hydrobromide and quinidine sulfate DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN QUINIDINE SULFATE QUINIDINE CROSCARMELLOSE SODIUM MICROCRYSTALLINE CELLULOSE SILICON DIOXIDE LACTOSE MONOHYDRATE MAGNESIUM STEARATE Brick-red DMQ;20;10"
       ],
       "indications_and_usage": [
         "1 INDICATIONS AND USAGE NUEDEXTA is indicated for the treatment of pseudobulbar affect (PBA). PBA occurs secondary to a variety of otherwise unrelated neurologic conditions, and is characterized by involuntary, sudden, and frequent episodes of laughing and/or crying. PBA episodes typically occur out of proportion or incongruent to the underlying emotional state. PBA is a specific condition, distinct from other types of emotional lability that may occur in patients with neurological disease or injury. NUEDEXTA is a combination product containing dextromethorphan hydrobromide (an uncompetitive NMDA receptor antagonist and sigma-1 agonist) and quinidine sulfate (a CYP450 2D6 inhibitor) indicated for the treatment of pseudobulbar affect (PBA). ( 1 )"
@@ -100,9 +100,9 @@
         "PRINCIPAL DISPLAY PANEL NDC 64597-301-60 NUEDEXTA (dextromethorphan HBr and quinidine sulfate) capsules 20 mg/ 10 mg 60 capsules Rx Only PRINCIPAL DISPLAY PANEL NDC 64597-301-60 NUEDEXTA (dextromethorphan HBr and quinidine sulfate) capsules 20 mg/ 10 mg 60 capsules Rx Only PRINCIPAL DISPLAY PANEL NDC 64597-301-60 NUEDEXTA (dextromethorphan HBr and quinidine sulfate) capsules 20 mg/ 10 mg 60 capsules Rx Only"
       ],
       "set_id": "484e0918-3442-49dc-8ccf-177f1f3ee9f3",
-      "id": "2668675a-5794-465a-9914-a02b37f78f16",
-      "effective_time": "20190609",
-      "version": "27",
+      "id": "0f916cea-0d2b-4d75-8b68-25be67cbcd99",
+      "effective_time": "20231201",
+      "version": "28",
       "openfda": {
         "application_number": [
           "NDA021879"
@@ -130,7 +130,7 @@
           "QUINIDINE SULFATE"
         ],
         "spl_id": [
-          "2668675a-5794-465a-9914-a02b37f78f16"
+          "0f916cea-0d2b-4d75-8b68-25be67cbcd99"
         ],
         "spl_set_id": [
           "484e0918-3442-49dc-8ccf-177f1f3ee9f3"

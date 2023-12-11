@@ -167,6 +167,10 @@
         "substance_name": [
           "RABEPRAZOLE SODIUM"
         ],
+        "rxcui": [
+          "854868",
+          "854870"
+        ],
         "spl_id": [
           "a7e7efb0-65cc-403b-9de2-a2b328f6c908"
         ],

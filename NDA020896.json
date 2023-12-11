@@ -6,7 +6,7 @@
     "results": {
       "skip": 0,
       "limit": 1,
-      "total": 1
+      "total": 2
     }
   },
   "results": [
@@ -140,9 +140,9 @@
         "PRINCIPAL DISPLAY PANEL - 500 mg Tablet Bottle Carton NDC 0004-1101-50 Xeloda ® (capecitabine) Tablets 500 mg Each tablet contains 500 mg capecitabine. Warning: Hazardous Drug Rx only 120 tablets Genentech 10250280 PRINCIPAL DISPLAY PANEL - 500 mg Tablet Bottle Carton"
       ],
       "set_id": "a1de8bba-3b1d-4c9d-ab8a-32d2c05e67c8",
-      "id": "7905031f-2a24-4618-bd70-cf4343ad0a0e",
-      "effective_time": "20221216",
-      "version": "27",
+      "id": "1187214d-f028-4db4-a59c-ab3bb029c46f",
+      "effective_time": "20231128",
+      "version": "28",
       "openfda": {
         "application_number": [
           "NDA020896"
@@ -176,7 +176,7 @@
           "213293"
         ],
         "spl_id": [
-          "7905031f-2a24-4618-bd70-cf4343ad0a0e"
+          "1187214d-f028-4db4-a59c-ab3bb029c46f"
         ],
         "spl_set_id": [
           "a1de8bba-3b1d-4c9d-ab8a-32d2c05e67c8"

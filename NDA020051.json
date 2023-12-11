@@ -101,9 +101,9 @@
         "PRINCIPAL DISPLAY PANEL - 6 mg Tablet Bottle Label Pfizer NDC 0009-3449-01 Glynase ® PresTab ® (glyBURIDE) tablets 6 mg 100 Tablets Rx only PRINCIPAL DISPLAY PANEL - 6 mg Tablet Bottle Label"
       ],
       "set_id": "a7fce80a-2f13-43cc-8e1c-561f7d3ec3d5",
-      "id": "555c58db-4984-40d4-9806-86655fade006",
-      "effective_time": "20230831",
-      "version": "12",
+      "id": "801180f1-adee-405e-a466-ee2052fcffd0",
+      "effective_time": "20231206",
+      "version": "13",
       "openfda": {
         "application_number": [
           "NDA020051"
@@ -118,8 +118,8 @@
           "Pharmacia & Upjohn Company LLC"
         ],
         "product_ndc": [
-          "0009-0341",
           "0009-0352",
+          "0009-0341",
           "0009-3449"
         ],
         "product_type": [
@@ -132,7 +132,7 @@
           "GLYBURIDE"
         ],
         "spl_id": [
-          "555c58db-4984-40d4-9806-86655fade006"
+          "801180f1-adee-405e-a466-ee2052fcffd0"
         ],
         "spl_set_id": [
           "a7fce80a-2f13-43cc-8e1c-561f7d3ec3d5"

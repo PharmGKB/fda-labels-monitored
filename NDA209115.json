@@ -108,9 +108,9 @@
         "Principal Display Panel - Rubraca tablets 300 mg Bottle Label NDC 82154-0785-1 Rubraca ® (rucaparib) tablets 300 mg* 60 tablets Each tablet contains 516 mg rucaparib camsylate equivalent to 300 mg rucaparib Rx only Keep out of reach of children Rubraca 300 mg"
       ],
       "set_id": "0295d202-1cfe-7659-e063-6294a90a476e",
-      "id": "0b4dbce4-ee68-0e2a-e063-6294a90a85c4",
-      "effective_time": "20230901",
-      "version": "15",
+      "id": "0bd95919-d536-a6cb-e063-6394a90a5158",
+      "effective_time": "20230930",
+      "version": "16",
       "openfda": {
         "application_number": [
           "NDA209115"
@@ -122,7 +122,7 @@
           "RUCAPARIB"
         ],
         "manufacturer_name": [
-          "ZR Pharma & GmbH"
+          "pharmaand GmbH"
         ],
         "product_ndc": [
           "82154-0783",
@@ -139,7 +139,7 @@
           "RUCAPARIB CAMSYLATE"
         ],
         "spl_id": [
-          "0b4dbce4-ee68-0e2a-e063-6294a90a85c4"
+          "0bd95919-d536-a6cb-e063-6394a90a5158"
         ],
         "spl_set_id": [
           "0295d202-1cfe-7659-e063-6294a90a476e"
