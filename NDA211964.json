@@ -121,9 +121,9 @@
         "PRINCIPAL DISPLAY PANEL - 200 mg Capsule Bottle Label 30 Capsules NDC 17772-133-30 Qelbree ™ (viloxazine extended-release capsules) 200 mg Once daily For oral use ATTENTION PHARMACIST: Dispense the Accompanying Medication Guide to Each Patient Rx only PRINCIPAL DISPLAY PANEL - 200 mg Capsule Bottle Label"
       ],
       "set_id": "aedf408d-0f84-418d-9416-7c39ddb0d29a",
-      "id": "eab5ec54-64ad-c7bd-e053-2995a90a5b18",
-      "effective_time": "20221010",
-      "version": "7",
+      "id": "0cf4dfd5-09e2-4829-e063-6294a90afbfc",
+      "effective_time": "20231220",
+      "version": "8",
       "openfda": {
         "application_number": [
           "NDA211964"
@@ -151,16 +151,8 @@
         "substance_name": [
           "VILOXAZINE HYDROCHLORIDE"
         ],
-        "rxcui": [
-          "2536548",
-          "2536554",
-          "2536750",
-          "2536752",
-          "2536756",
-          "2536758"
-        ],
         "spl_id": [
-          "eab5ec54-64ad-c7bd-e053-2995a90a5b18"
+          "0cf4dfd5-09e2-4829-e063-6294a90afbfc"
         ],
         "spl_set_id": [
           "aedf408d-0f84-418d-9416-7c39ddb0d29a"

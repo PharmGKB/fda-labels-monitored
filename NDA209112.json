@@ -60,7 +60,7 @@
         "10. OVERDOSAGE Overdose with ascorbic acid may cause nausea, vomiting, diarrhea, facial flushing, rash, headache, fatigue or disturbed sleep. If overdose of ASCOR occurs, immediately discontinue administration and treat symptoms and signs of overdose, avoiding additional intake of ascorbic acid."
       ],
       "description": [
-        "11. DESCRIPTION ASCOR (ascorbic acid injection) for intravenous use is a colorless to pale yellow, preservative-free, hypertonic, sterile, non-pyrogenic solution of ascorbic acid. ASCOR must be diluted with an appropriate infusion solution (e.g., 5% Dextrose Injection, USP, Sterile Water for Injection, USP) [see Dosage and Administration (2.1) ] . The chemical name of Ascorbic Acid is L -ascorbic acid. The molecular formula is C 6 H 8 O 6 . It has the following structural formula: Each ASCOR, 50 mL, Pharmacy Bulk Package vial contains 25,000 mg ascorbic acid, equivalent to 28,125 mg sodium ascorbate. Each mL of ASCOR contains 500 mg of ascorbic acid (equivalent to 562.5 mg of sodium ascorbate which amounts to 65 mg sodium/mL of ASCOR), 0.25 mg of edetate disodium, and water for injection. Sodium hydroxide and sodium bicarbonate are added for pH adjustment (pH range 5.6 to 6.6). It contains no bacteriostatic or antimicrobial agent. formula"
+        "11. DESCRIPTION ASCOR (ascorbic acid injection) for intravenous use is a colorless to pale yellow, preservative-free, hypertonic, sterile, non-pyrogenic solution of ascorbic acid. ASCOR must be diluted with an appropriate infusion solution (e.g., 5% Dextrose Injection, USP, Sterile Water for Injection, USP) [see Dosage and Administration (2.1) ] . The chemical name of Ascorbic Acid is L -ascorbic acid. The molecular formula is C 6 H 8 O 6 . It has the following structural formula: Each ASCOR, 50 mL, Pharmacy Bulk Package vial contains 25,000 mg ascorbic acid, equivalent to 28,125 mg sodium ascorbate. Each mL of ASCOR contains 500 mg of ascorbic acid (equivalent to 562.5 mg of sodium ascorbate which amounts to 65 mg sodium/mL of ASCOR), 130 mg of Sodium bicarbonate, and 0.25mg of edetate disodium. Sodium hydroxide is added for pH adjustment (pH range 5.6-6.6). It contains no bacteriostatic or antimicrobial agent. formula"
       ],
       "clinical_pharmacology": [
         "12. CLINICAL PHARMACOLOGY 12.1 Mechanism of Action The exact mechanism of action of ascorbic acid for the treatment of symptoms and signs of scurvy (a disorder caused by severe deficiency in vitamin C) is unknown; however, administration of ascorbic acid in patients with scurvy is thought to restore the body pool of ascorbic acid. 12.3 Pharmacokinetics In a single pharmacokinetic study, healthy male and female adults (n=8) were given a single intravenous dose of 1000 mg ascorbic acid (5 times the largest recommended single dose) infused over a 30 minute period. The mean peak exposure to ascorbic acid was 436.2 µM and occurred at the end of the 30 minute infusion. Distribution Ascorbic acid is distributed widely in the body, with large concentrations found in the liver, leukocytes, platelets, glandular tissues, and lens of the eye. Based on data from oral exposure, ascorbic acid is known to be distributed into breast milk and crosses the placental barrier. Elimination When the body is saturated with ascorbic acid, the plasma concentration will be about the same as that of the renal threshold; if further amounts are then administered, most of it is excreted in the urine. When body tissues are not saturated and plasma concentration is low, administration of ascorbic acid results in little or no renal excretion. The mean±SD (N=3) half-life observed in the single dose PK study as described above, was 7.4±1.4 h. Metabolism A major route of metabolism of ascorbic acid involves its conversion to urinary oxalate, presumably through intermediate formation of its oxidized product, dehydroascorbic acid. Excretion There is a renal threshold for ascorbic acid (v[A1] itamin C); the vitamin is excreted by the kidney in large amounts only when the plasma concentration exceeds this threshold, which is approximately 1.4 mg/100 mL. 12.1 Mechanism of Action The exact mechanism of action of ascorbic acid for the treatment of symptoms and signs of scurvy (a disorder caused by severe deficiency in vitamin C) is unknown; however, administration of ascorbic acid in patients with scurvy is thought to restore the body pool of ascorbic acid. 12.3 Pharmacokinetics In a single pharmacokinetic study, healthy male and female adults (n=8) were given a single intravenous dose of 1000 mg ascorbic acid (5 times the largest recommended single dose) infused over a 30 minute period. The mean peak exposure to ascorbic acid was 436.2 µM and occurred at the end of the 30 minute infusion. Distribution Ascorbic acid is distributed widely in the body, with large concentrations found in the liver, leukocytes, platelets, glandular tissues, and lens of the eye. Based on data from oral exposure, ascorbic acid is known to be distributed into breast milk and crosses the placental barrier. Elimination When the body is saturated with ascorbic acid, the plasma concentration will be about the same as that of the renal threshold; if further amounts are then administered, most of it is excreted in the urine. When body tissues are not saturated and plasma concentration is low, administration of ascorbic acid results in little or no renal excretion. The mean±SD (N=3) half-life observed in the single dose PK study as described above, was 7.4±1.4 h. Metabolism A major route of metabolism of ascorbic acid involves its conversion to urinary oxalate, presumably through intermediate formation of its oxidized product, dehydroascorbic acid. Excretion There is a renal threshold for ascorbic acid (Vitamin C); the vitamin is excreted by the kidney in large amounts only when the plasma concentration exceeds this threshold, which is approximately 1.4 mg/100 mL.",
@@ -81,12 +81,12 @@
         ""
       ],
       "package_label_principal_display_panel": [
-        "PACKAGE LABEL PRINCIPAL DISPLAY Ascor-Vial-Label-Only Ascor-Vial-Carton-Label Ascor-25Pack-Label-Only"
+        "PACKAGE LABEL PRINCIPAL DISPLAY ASCOR Vial label ASCOR vial carton ASCOR 25 Pack Label"
       ],
       "set_id": "388aad52-fc01-4784-9791-1dbc80c69306",
-      "id": "075138ff-9f77-bf73-e063-6294a90a4c34",
-      "effective_time": "20231010",
-      "version": "12",
+      "id": "0bf56634-8b26-f9ad-e063-6294a90ae970",
+      "effective_time": "20231207",
+      "version": "13",
       "openfda": {
         "application_number": [
           "NDA209112"
@@ -117,7 +117,7 @@
           "2002739"
         ],
         "spl_id": [
-          "075138ff-9f77-bf73-e063-6294a90a4c34"
+          "0bf56634-8b26-f9ad-e063-6294a90ae970"
         ],
         "spl_set_id": [
           "388aad52-fc01-4784-9791-1dbc80c69306"
@@ -130,8 +130,8 @@
           true
         ],
         "upc": [
-          "0367157101500",
-          "0367157101517"
+          "0367157101517",
+          "0367157101500"
         ],
         "nui": [
           "N0000193618",

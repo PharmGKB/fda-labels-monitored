@@ -106,9 +106,9 @@
         "PRINCIPAL DISPLAY PANEL - 5 mL Vial Box NDC 66302-014-01 Unituxin ® (dinutuximab) Injection 17.5 mg/5 mL (3.5 mg/mL) For Intravenous Infusion Only Dilute Prior to Administration Single-Dose Vial Discard Unused Portion Rx Only PRINCIPAL DISPLAY PANEL - 5 mL Vial Box"
       ],
       "set_id": "d66bdf0d-9d65-45de-ae5b-a58617c27492",
-      "id": "f5c85147-6132-42a6-8e3b-441de8efaded",
-      "effective_time": "20230717",
-      "version": "8",
+      "id": "292edc42-e0de-40b2-be38-aadc411b1c88",
+      "effective_time": "20231107",
+      "version": "9",
       "openfda": {
         "application_number": [
           "BLA125516"
@@ -134,8 +134,12 @@
         "substance_name": [
           "DINUTUXIMAB"
         ],
+        "rxcui": [
+          "1606278",
+          "1606283"
+        ],
         "spl_id": [
-          "f5c85147-6132-42a6-8e3b-441de8efaded"
+          "292edc42-e0de-40b2-be38-aadc411b1c88"
         ],
         "spl_set_id": [
           "d66bdf0d-9d65-45de-ae5b-a58617c27492"
