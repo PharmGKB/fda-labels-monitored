@@ -178,26 +178,26 @@
           true
         ],
         "nui": [
+          "M0017672",
+          "N0000175601",
           "M0447348",
           "N0000175825",
-          "N0000000100",
-          "M0017672",
-          "N0000175601"
+          "N0000000100"
         ],
         "pharm_class_cs": [
-          "Estradiol Congeners [CS]",
-          "Progesterone [CS]"
+          "Progesterone [CS]",
+          "Estradiol Congeners [CS]"
         ],
         "pharm_class_epc": [
-          "Estrogen [EPC]",
-          "Progesterone [EPC]"
+          "Progesterone [EPC]",
+          "Estrogen [EPC]"
         ],
         "pharm_class_moa": [
           "Estrogen Receptor Agonists [MoA]"
         ],
         "unii": [
-          "4TI98Z838E",
-          "4G7DS2Q64Y"
+          "4G7DS2Q64Y",
+          "4TI98Z838E"
         ]
       }
     }
