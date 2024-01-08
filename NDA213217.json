@@ -165,6 +165,10 @@
         "substance_name": [
           "ZANUBRUTINIB"
         ],
+        "rxcui": [
+          "2262440",
+          "2262446"
+        ],
         "spl_id": [
           "0d82275f-673a-e1a3-e063-6394a90ad12e"
         ],

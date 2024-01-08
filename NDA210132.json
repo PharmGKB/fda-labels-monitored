@@ -159,6 +159,8 @@
           "PROGESTERONE"
         ],
         "rxcui": [
+          "2108924",
+          "2108930",
           "2632844",
           "2632846"
         ],
@@ -178,26 +180,26 @@
           true
         ],
         "nui": [
-          "M0017672",
-          "N0000175601",
           "M0447348",
           "N0000175825",
-          "N0000000100"
+          "N0000000100",
+          "M0017672",
+          "N0000175601"
         ],
         "pharm_class_cs": [
-          "Progesterone [CS]",
-          "Estradiol Congeners [CS]"
+          "Estradiol Congeners [CS]",
+          "Progesterone [CS]"
         ],
         "pharm_class_epc": [
-          "Progesterone [EPC]",
-          "Estrogen [EPC]"
+          "Estrogen [EPC]",
+          "Progesterone [EPC]"
         ],
         "pharm_class_moa": [
           "Estrogen Receptor Agonists [MoA]"
         ],
         "unii": [
-          "4G7DS2Q64Y",
-          "4TI98Z838E"
+          "4TI98Z838E",
+          "4G7DS2Q64Y"
         ]
       }
     }
