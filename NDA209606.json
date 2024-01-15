@@ -132,6 +132,12 @@
         "substance_name": [
           "ENASIDENIB MESYLATE"
         ],
+        "rxcui": [
+          "1940370",
+          "1940372",
+          "1940374",
+          "1940376"
+        ],
         "spl_id": [
           "01043cba-240a-4cbc-9466-fded4c738efb"
         ],

@@ -111,9 +111,9 @@
         "PRINCIPAL DISPLAY PANEL NDC 0078-0716-56 TABRECTA ® (capmatinib) tablets 200 mg * Attention: Dispense and store Tabrecta in original container with the desiccant to protect from moisture. Rx only 56 Film-coated tablets NOVARTIS PRINCIPAL DISPLAY PANEL NDC 0078-0716-56 TABRECTA® (capmatinib) tablets 200 mg* Attention: Dispense and store Tabrecta in original container with the desiccant to protect from moisture. Rx only 56 Film-coated tablets NOVARTIS"
       ],
       "set_id": "455892c3-d144-4ba8-9ab4-79cabff9876d",
-      "id": "cba4d9bb-fa42-4b4f-93b1-2a4fed65a7ef",
-      "effective_time": "20230712",
-      "version": "10",
+      "id": "761d7399-fb73-455a-88de-c6ec4f13ba2c",
+      "effective_time": "20240109",
+      "version": "11",
       "openfda": {
         "application_number": [
           "NDA213591"
@@ -140,14 +140,8 @@
         "substance_name": [
           "CAPMATINIB HYDROCHLORIDE"
         ],
-        "rxcui": [
-          "2362234",
-          "2362240",
-          "2362242",
-          "2362244"
-        ],
         "spl_id": [
-          "cba4d9bb-fa42-4b4f-93b1-2a4fed65a7ef"
+          "761d7399-fb73-455a-88de-c6ec4f13ba2c"
         ],
         "spl_set_id": [
           "455892c3-d144-4ba8-9ab4-79cabff9876d"

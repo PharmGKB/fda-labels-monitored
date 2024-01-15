@@ -110,9 +110,9 @@
         "PRINCIPAL DISPLAY PANEL - 61 mg Capsule Blister Card Carton NDC 0069-8730-30 Vyndamax™ (tafamidis) capsules 61 mg per capsule Attention Pharmacist: Vyndamax is NOT substitutable on a per mg basis with tafamidis meglumine products. Pfizer Contains: A total of 30 capsules per carton. Each carton contains 3 blister cards. Each blister card contains 10 capsules. Rx only PRINCIPAL DISPLAY PANEL - 61 mg Capsule Blister Card Carton"
       ],
       "set_id": "1b4121ee-a733-4456-a917-be2603477839",
-      "id": "6b77e857-2ac4-48a2-acce-4cef49056ecd",
-      "effective_time": "20231222",
-      "version": "9",
+      "id": "847e5e9a-9978-4804-b542-320eba1fb9ad",
+      "effective_time": "20240110",
+      "version": "10",
       "openfda": {
         "application_number": [
           "NDA211996"
@@ -139,8 +139,14 @@
         "substance_name": [
           "TAFAMIDIS MEGLUMINE"
         ],
+        "rxcui": [
+          "2168534",
+          "2168540",
+          "2168542",
+          "2168548"
+        ],
         "spl_id": [
-          "6b77e857-2ac4-48a2-acce-4cef49056ecd"
+          "847e5e9a-9978-4804-b542-320eba1fb9ad"
         ],
         "spl_set_id": [
           "1b4121ee-a733-4456-a917-be2603477839"
@@ -155,8 +161,8 @@
           true
         ],
         "unii": [
-          "8FG9H9D31J",
-          "ZU7CF08A1A"
+          "ZU7CF08A1A",
+          "8FG9H9D31J"
         ]
       }
     }

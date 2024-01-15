@@ -145,9 +145,9 @@
         "PRINCIPAL DISPLAY PANEL NDC 0078-0697-61 Rx only Promacta ® (eltrombopag) for Oral Suspension 25 mg Dispense with Medication Guide enclosed or provided separately. 30 Packets NOVARTIS NDC 0078-0697-61 Rx only Promacta® (eltrombopag) for Oral Suspension 25 mg Dispense with Medication Guide enclosed or provided separately. 30 Packets NOVARTIS"
       ],
       "set_id": "7714a0ed-34bb-46e6-a0a5-b363908b22c2",
-      "id": "92682d40-84b8-4ac9-8300-9c03d522db1e",
-      "effective_time": "20230801",
-      "version": "24",
+      "id": "ca81991b-b7af-4ee8-b1ca-fcc43c38550f",
+      "effective_time": "20240111",
+      "version": "25",
       "openfda": {
         "application_number": [
           "NDA022291"
@@ -178,8 +178,22 @@
         "substance_name": [
           "ELTROMBOPAG OLAMINE"
         ],
+        "rxcui": [
+          "825421",
+          "825425",
+          "825427",
+          "825429",
+          "884617",
+          "884619",
+          "1245001",
+          "1245003",
+          "1859498",
+          "1859501",
+          "2058980",
+          "2058981"
+        ],
         "spl_id": [
-          "92682d40-84b8-4ac9-8300-9c03d522db1e"
+          "ca81991b-b7af-4ee8-b1ca-fcc43c38550f"
         ],
         "spl_set_id": [
           "7714a0ed-34bb-46e6-a0a5-b363908b22c2"

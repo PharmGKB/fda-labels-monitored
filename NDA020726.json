@@ -106,9 +106,9 @@
         "PRINCIPAL DISPLAY PANEL NDC 0078-0249-15 Femara ® (letrozole tablets) 2.5 mg per tablet Rx only 30 Tablets NOVARTIS PRINCIPAL DISPLAY PANEL NDC 0078-0249-15 Femara® (letrozole tablets) 2.5 mg per tablet Rx only 30 Tablets NOVARTIS"
       ],
       "set_id": "82b77d74-085f-45ac-a7dd-1f5c038bf406",
-      "id": "65a498ea-2eb6-4737-a62c-4d9e58ed6baf",
-      "effective_time": "20230504",
-      "version": "27",
+      "id": "9526bbe8-4e5c-4385-b8d5-6ba3493a70e6",
+      "effective_time": "20240111",
+      "version": "28",
       "openfda": {
         "application_number": [
           "NDA020726"
@@ -134,8 +134,12 @@
         "substance_name": [
           "LETROZOLE"
         ],
+        "rxcui": [
+          "153124",
+          "200064"
+        ],
         "spl_id": [
-          "65a498ea-2eb6-4737-a62c-4d9e58ed6baf"
+          "9526bbe8-4e5c-4385-b8d5-6ba3493a70e6"
         ],
         "spl_set_id": [
           "82b77d74-085f-45ac-a7dd-1f5c038bf406"
